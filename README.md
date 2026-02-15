@@ -1,7 +1,7 @@
 # Project Nile: Strategic Velocity & Governance Mechanism 🚀
-[Dashboard](https://project-nile-strategic-velocity-governance-mechanism-fzvuzjlms.streamlit.app/)
-
 **Project Nile** is a mission-critical Decision Intelligence (DI) framework engineered for S-Team level oversight at hyper-scale enterprises. It transforms fragmented telemetry into a proactive command center to solve the "Modern Conglomerate Trilemma": **unrestrained bureaucracy**, **volatile AI infrastructure ROI**, and **global regulatory scrutiny.**
+
+[Dashboard](https://project-nile-strategic-velocity-governance-mechanism-fzvuzjlms.streamlit.app/)
 
 > **Leadership alignment:** This project is a direct application of the *Dive Deep*, *Invent and Simplify*, and *Frugality* principles to protect Amazon’s 2026 strategic objectives.
 
