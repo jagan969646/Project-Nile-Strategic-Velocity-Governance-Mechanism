@@ -1,0 +1,5001 @@
+product_id,category,brand,is_amazon_owned
+1,Books,"Kramer, English and Williams",True
+2,Home,"Schmidt, Price and Barton",True
+3,Books,Hill Ltd,True
+4,Books,Ford Group,True
+5,Home,"Walton, Holden and Moore",True
+6,Books,Morton LLC,True
+7,Electronics,Kline-Mckay,True
+8,Fashion,"Gutierrez, Vargas and Daniels",False
+9,Books,"Powell, Hebert and Washington",False
+10,Books,Glenn Ltd,True
+11,Books,Reese-Lynch,True
+12,Home,Buck PLC,True
+13,Electronics,Smith Ltd,True
+14,Electronics,Evans-Orr,True
+15,Books,Wu-Ferguson,False
+16,Home,Harrell-Thomas,False
+17,Home,"Ford, Willis and Frost",False
+18,Home,Johnson-Nelson,True
+19,Electronics,"Ray, Perez and Stokes",True
+20,Electronics,Bell Group,False
+21,Home,"Marquez, Johnston and Bradshaw",False
+22,Fashion,"Peterson, Brown and Flores",False
+23,Home,Hurst-Mckinney,True
+24,Electronics,Jacobs PLC,False
+25,Fashion,Rogers-Watkins,True
+26,Home,Richmond-Lowe,False
+27,Fashion,"Rice, Cook and Kidd",True
+28,Books,"Montgomery, Hansen and Campbell",True
+29,Fashion,French-Hernandez,True
+30,Books,Price LLC,False
+31,Home,"Lee, Fowler and Elliott",False
+32,Electronics,Butler PLC,True
+33,Books,"Sullivan, Kelly and Brady",True
+34,Books,"Stone, Shelton and Cox",True
+35,Electronics,"Horton, Morgan and Garcia",False
+36,Electronics,Arnold and Sons,True
+37,Home,Powell-Mitchell,True
+38,Fashion,Whitney-Fisher,False
+39,Electronics,Haney-Chavez,True
+40,Books,Allen-Barnes,False
+41,Fashion,Williams-Peterson,True
+42,Books,"Lowe, Fields and Cox",False
+43,Home,Thompson Inc,True
+44,Home,Hamilton-Lopez,False
+45,Books,"Herman, Martinez and Vincent",False
+46,Fashion,"Ford, Weiss and Greene",False
+47,Home,Hernandez-Colon,True
+48,Home,"Burton, Miller and Ho",True
+49,Home,Page-Hernandez,False
+50,Books,"Alexander, Jones and King",False
+51,Electronics,Lee-Hunter,True
+52,Books,"Murphy, Harrison and Klein",True
+53,Fashion,"Meyers, Harris and Page",False
+54,Home,Dickerson Group,True
+55,Books,Harrington Inc,False
+56,Home,"Walker, Navarro and Kennedy",False
+57,Home,"Marshall, Taylor and Murphy",True
+58,Electronics,Zimmerman and Sons,False
+59,Electronics,Peters-Lopez,False
+60,Home,Mitchell Inc,True
+61,Fashion,Bell LLC,True
+62,Electronics,Richards LLC,True
+63,Books,Mitchell and Sons,False
+64,Fashion,Armstrong Group,True
+65,Fashion,Ramirez LLC,True
+66,Books,"Sanchez, Williams and Ellis",False
+67,Home,Gonzales-Mckinney,False
+68,Home,"Robinson, Bailey and Morgan",True
+69,Fashion,"Skinner, Allen and Santiago",True
+70,Home,Andrews-Johnson,False
+71,Books,Arnold-Glenn,False
+72,Books,Key Group,False
+73,Electronics,"Jones, Valenzuela and Davis",False
+74,Books,Welch-Thomas,False
+75,Fashion,"Stein, Anderson and Sheppard",False
+76,Books,Parker-Turner,False
+77,Books,Johns Ltd,True
+78,Fashion,Brewer LLC,False
+79,Electronics,Nelson Ltd,True
+80,Books,Carter LLC,False
+81,Electronics,Hanson-Shelton,True
+82,Electronics,Butler-Wright,False
+83,Home,Mathis Ltd,False
+84,Fashion,"Parker, Perry and Marshall",True
+85,Fashion,Whitaker and Sons,True
+86,Books,"Carroll, Shaw and Mclean",False
+87,Fashion,Lambert-Ayers,True
+88,Fashion,Macdonald-Wade,True
+89,Books,Parker LLC,False
+90,Home,"Brown, Richard and Peters",False
+91,Electronics,"Potter, Green and Roberts",True
+92,Home,"Bright, Graham and Walker",True
+93,Electronics,"Velasquez, French and Murphy",False
+94,Home,"Walker, Stewart and Haney",False
+95,Electronics,Mitchell-Rios,False
+96,Home,Brown-Graham,True
+97,Home,James Inc,False
+98,Books,Thomas-Sandoval,False
+99,Electronics,"Swanson, Harrington and Baldwin",True
+100,Fashion,Strickland LLC,False
+101,Fashion,Roberts-Howard,False
+102,Home,Weber Group,True
+103,Books,Ramirez PLC,True
+104,Electronics,Galvan PLC,False
+105,Fashion,Ali-Bennett,True
+106,Fashion,"Baker, Collins and Murphy",False
+107,Home,Cunningham and Sons,True
+108,Home,"Delgado, Noble and Castillo",False
+109,Home,Sweeney Group,False
+110,Electronics,"Rodriguez, Johnson and Hayden",False
+111,Fashion,"Vazquez, Odom and Jones",True
+112,Fashion,"Brooks, Peterson and Morris",True
+113,Electronics,Smith and Sons,True
+114,Electronics,"Freeman, Evans and Malone",True
+115,Books,Lynch Group,False
+116,Fashion,Kim LLC,True
+117,Electronics,Spencer-Shaffer,False
+118,Home,"Buchanan, Johnson and Taylor",False
+119,Books,Lewis-Watson,True
+120,Books,Fritz-Walters,False
+121,Electronics,"Martin, Hicks and Anderson",False
+122,Electronics,Hall-Hill,False
+123,Electronics,Peterson LLC,False
+124,Electronics,Skinner Ltd,False
+125,Electronics,Stephens-Gregory,False
+126,Fashion,"Gentry, Hogan and Thompson",False
+127,Fashion,Johnson Inc,True
+128,Books,West Group,False
+129,Fashion,"Hahn, Nguyen and Smith",False
+130,Fashion,Hughes-Reynolds,True
+131,Books,Coleman Ltd,False
+132,Books,Koch Ltd,True
+133,Electronics,Simmons-Frey,False
+134,Electronics,"Wood, Douglas and Silva",False
+135,Books,Rubio-Aguirre,True
+136,Books,"Orr, Foster and Woodard",True
+137,Books,Hodge LLC,False
+138,Books,Johnston-Friedman,False
+139,Fashion,Mitchell PLC,True
+140,Books,Collins-Torres,True
+141,Books,Watkins Inc,True
+142,Home,Mcbride Group,False
+143,Home,Nelson Inc,False
+144,Electronics,Case Group,True
+145,Home,Beasley-Davis,False
+146,Fashion,Middleton LLC,True
+147,Books,"Wright, Lamb and Juarez",True
+148,Electronics,"Craig, Banks and Walls",True
+149,Books,Cunningham-Ramos,False
+150,Electronics,"Williams, Calderon and Jenkins",False
+151,Home,"Harrison, Humphrey and Daniels",True
+152,Books,Clark-Torres,False
+153,Books,Anderson-Nelson,False
+154,Electronics,Kirby LLC,False
+155,Home,"Francis, Rich and Bailey",True
+156,Fashion,Coleman-Wheeler,True
+157,Electronics,"Smith, Hughes and Burns",False
+158,Fashion,Higgins and Sons,True
+159,Fashion,Sanford PLC,False
+160,Books,Burgess-Watts,False
+161,Books,Miller and Sons,True
+162,Books,Carroll LLC,True
+163,Books,"Harmon, Brooks and Garcia",False
+164,Home,Valenzuela Ltd,True
+165,Fashion,Cortez LLC,True
+166,Electronics,"Hardy, Jacobs and Anderson",True
+167,Electronics,"Taylor, Watson and Harris",True
+168,Books,Fowler Inc,False
+169,Home,"Roberts, Bryan and Roberts",False
+170,Books,"Patton, Kim and Jackson",True
+171,Electronics,Dudley PLC,False
+172,Electronics,"Burke, Parker and Brown",True
+173,Home,Lyons Group,True
+174,Electronics,"Pacheco, Moreno and Lee",False
+175,Fashion,Morales Group,True
+176,Electronics,Moore and Sons,False
+177,Fashion,"Ray, Key and Oneill",False
+178,Books,"Rivera, Mosley and Kennedy",True
+179,Fashion,"Howard, Hernandez and Hall",False
+180,Fashion,"Vega, Hernandez and Baldwin",False
+181,Home,"Jarvis, Johnson and Bird",False
+182,Fashion,Walker PLC,True
+183,Books,Henderson-Reyes,False
+184,Home,"Swanson, Smith and Flores",True
+185,Electronics,"Owens, Thompson and Robertson",True
+186,Home,Gibbs Group,True
+187,Home,"Bullock, Webb and Marshall",True
+188,Books,Wise Inc,True
+189,Electronics,"Payne, Blair and Strickland",False
+190,Home,Taylor-Strickland,False
+191,Fashion,Barajas Ltd,True
+192,Home,Richards-Stewart,False
+193,Home,"Solis, Gutierrez and Ware",False
+194,Electronics,Reyes Inc,False
+195,Home,Brown LLC,False
+196,Books,"Hammond, Jenkins and Liu",True
+197,Home,Ball-Sandoval,True
+198,Home,Armstrong-Levy,True
+199,Fashion,Williams LLC,False
+200,Books,"Jones, Baker and Cortez",True
+201,Home,"Mata, Rodriguez and Coleman",False
+202,Fashion,Yu LLC,False
+203,Home,"Fitzgerald, Todd and Jennings",True
+204,Books,"Riddle, Yates and Fox",True
+205,Home,"Schroeder, Vang and Smith",True
+206,Fashion,Shaw PLC,False
+207,Electronics,Davis PLC,True
+208,Electronics,Taylor-Smith,True
+209,Electronics,Rivas-Turner,False
+210,Books,"Douglas, Hernandez and Clark",True
+211,Electronics,Long-Reyes,False
+212,Home,Fletcher PLC,True
+213,Home,Miller-Garcia,False
+214,Home,"Perry, Harding and Baker",False
+215,Books,"Cummings, Navarro and Combs",True
+216,Books,Jennings-Wells,False
+217,Books,Marshall-Morse,False
+218,Electronics,"Lewis, White and Garcia",True
+219,Home,Mullins-Curry,True
+220,Home,Roberson-Logan,True
+221,Home,"Brown, Escobar and Doyle",True
+222,Electronics,Weaver-Santos,True
+223,Fashion,"Finley, Lucas and Palmer",False
+224,Home,Walker Inc,False
+225,Books,Kent Ltd,False
+226,Home,"Campbell, Stephens and Brown",False
+227,Home,"Hubbard, Lindsey and Jackson",False
+228,Books,King-Garcia,False
+229,Books,Scott Group,True
+230,Fashion,Simon-Wilson,False
+231,Books,Robbins-Simmons,False
+232,Electronics,Haynes PLC,True
+233,Home,Adams and Sons,True
+234,Books,"Williams, Douglas and Walker",False
+235,Electronics,Murray-Bowen,True
+236,Fashion,"Oconnell, Mooney and Woods",True
+237,Electronics,Olson-Clark,False
+238,Books,Moore and Sons,True
+239,Electronics,Huffman LLC,False
+240,Books,"Donovan, Howard and Ayala",True
+241,Books,Rivas Ltd,True
+242,Books,Taylor-Hamilton,False
+243,Fashion,Griffin-Ryan,False
+244,Fashion,Powell-Tate,True
+245,Home,Smith and Sons,True
+246,Home,Bennett Inc,True
+247,Electronics,Combs-Phillips,False
+248,Electronics,Elliott-Walker,False
+249,Fashion,Rodriguez Ltd,True
+250,Electronics,Dixon Inc,False
+251,Electronics,"Green, Patel and Hernandez",False
+252,Electronics,Thompson-Maynard,False
+253,Electronics,Barnes LLC,True
+254,Books,"Pitts, Davis and Hooper",False
+255,Electronics,"Thompson, Singleton and Wheeler",False
+256,Electronics,"Butler, Evans and Copeland",True
+257,Books,Smith Ltd,False
+258,Electronics,Miles-Bullock,False
+259,Electronics,Mooney-Ortiz,False
+260,Electronics,Wheeler-Owens,True
+261,Books,Jimenez Inc,False
+262,Books,"Schneider, Robbins and Cunningham",False
+263,Fashion,Zimmerman-Diaz,True
+264,Home,Payne-Davis,False
+265,Books,Murray-Nelson,True
+266,Books,Butler and Sons,True
+267,Books,Anderson-Burns,False
+268,Books,"Ward, Oneal and Warren",True
+269,Fashion,Keller Ltd,True
+270,Fashion,"Williams, Brown and Nunez",True
+271,Books,"Fisher, Cooper and Gates",False
+272,Books,King-Reyes,False
+273,Fashion,Ellis-Henson,False
+274,Fashion,Henderson LLC,False
+275,Home,Mitchell PLC,False
+276,Books,"Hall, Graham and Hughes",False
+277,Fashion,Davis Ltd,False
+278,Home,Young-Stanley,True
+279,Fashion,Powell-Cole,True
+280,Electronics,King Inc,False
+281,Electronics,"Norton, Smith and Lewis",False
+282,Home,"Harris, Clark and Madden",False
+283,Home,Brock Group,False
+284,Electronics,Howard and Sons,True
+285,Fashion,"Perez, Williams and Johnson",True
+286,Books,"Ferguson, Anderson and Thomas",False
+287,Fashion,"Ferguson, Adams and Phillips",True
+288,Electronics,Miller Inc,False
+289,Books,"Green, Khan and Stephens",False
+290,Electronics,Ford-Jones,False
+291,Electronics,Cordova-Thornton,True
+292,Fashion,"Walker, Holloway and Mendoza",False
+293,Books,Patterson and Sons,False
+294,Electronics,"Butler, Castro and Warner",True
+295,Books,"Romero, Kelly and Ross",True
+296,Books,Underwood LLC,False
+297,Electronics,Pineda Ltd,False
+298,Fashion,Cooper and Sons,True
+299,Electronics,"Johnson, Sutton and Gilbert",False
+300,Books,"Austin, Mcclure and Obrien",True
+301,Books,Grant-Cook,True
+302,Fashion,"Rodgers, Kelley and Clark",True
+303,Electronics,Le PLC,False
+304,Electronics,Lynch Ltd,True
+305,Fashion,Dougherty-Bell,False
+306,Electronics,Mosley Inc,True
+307,Home,Woods and Sons,False
+308,Electronics,Morris Ltd,False
+309,Books,Wilson-Porter,False
+310,Home,Richardson Inc,False
+311,Electronics,"Rasmussen, Arnold and Mitchell",False
+312,Electronics,Mcclure-Moreno,False
+313,Electronics,Mills-Duran,True
+314,Home,"Hill, Ramos and Hopkins",True
+315,Books,Jordan-Hayes,True
+316,Electronics,"Wyatt, Carter and Mendez",True
+317,Books,"York, Kelly and Malone",True
+318,Electronics,"Sheppard, May and Herrera",False
+319,Electronics,Schaefer-Young,False
+320,Electronics,Horton Ltd,False
+321,Home,Riley Inc,True
+322,Books,Davidson LLC,False
+323,Books,Koch-Ferguson,True
+324,Electronics,Hernandez-Baker,False
+325,Books,Graham and Sons,True
+326,Home,Baker-Bates,True
+327,Electronics,"Miller, Wise and Smith",False
+328,Books,Johnson and Sons,True
+329,Electronics,"Price, Smith and Woods",False
+330,Home,Solis Group,True
+331,Home,Cook-Rodriguez,True
+332,Home,"Perez, Bryant and Montgomery",False
+333,Books,Tran Ltd,False
+334,Books,Nolan Ltd,True
+335,Home,Bruce-Thomas,True
+336,Electronics,"Schultz, Scott and Meadows",True
+337,Electronics,Barnett-Blake,True
+338,Electronics,"Clark, Nguyen and Chavez",False
+339,Electronics,Schmidt LLC,False
+340,Electronics,"Lang, Lopez and Lucas",False
+341,Home,Lewis PLC,False
+342,Fashion,Harris-Valenzuela,True
+343,Home,"Martinez, Graves and Avila",False
+344,Books,"Cruz, Case and Jenkins",False
+345,Home,Turner-Mckee,True
+346,Home,Willis and Sons,False
+347,Fashion,Newton-Buchanan,True
+348,Home,Ortiz-Cook,True
+349,Electronics,Thomas Group,True
+350,Electronics,Brown Ltd,True
+351,Books,"Cabrera, Shannon and Cuevas",True
+352,Fashion,Blackburn-Taylor,False
+353,Fashion,Cross Ltd,True
+354,Books,"Meyer, Clay and Chapman",False
+355,Books,"Shah, Young and York",True
+356,Home,Noble-Roberson,False
+357,Fashion,"Ward, Perez and Mora",False
+358,Fashion,"Chung, Moore and Baxter",True
+359,Home,"Garcia, Boyd and Palmer",False
+360,Home,Nichols-Miller,True
+361,Home,"Harris, Monroe and Miller",False
+362,Fashion,Munoz Inc,True
+363,Fashion,Foster LLC,True
+364,Electronics,"Garcia, Espinoza and Molina",True
+365,Home,Benson-Johns,False
+366,Books,White PLC,False
+367,Home,"Walker, Butler and Donovan",True
+368,Home,"Gutierrez, Smith and Brown",True
+369,Fashion,"Scott, Santos and Green",False
+370,Home,Ryan-Reed,True
+371,Fashion,Andrews-Montgomery,True
+372,Books,Aguilar-Olson,False
+373,Electronics,"Oconnor, Boone and Fowler",True
+374,Books,"Solomon, Young and Salas",True
+375,Electronics,Stewart-Gates,False
+376,Home,Brock PLC,True
+377,Home,Leonard-Baldwin,True
+378,Fashion,Alexander PLC,True
+379,Home,Taylor Group,True
+380,Home,"Ramirez, Boyer and Sandoval",True
+381,Electronics,Quinn Group,True
+382,Home,"Torres, Miller and Flores",False
+383,Books,Peters Inc,False
+384,Books,Harris LLC,True
+385,Electronics,Pittman-Hayes,False
+386,Fashion,Glover-Barnes,True
+387,Home,Hayden-Mills,True
+388,Electronics,Turner-Davidson,False
+389,Home,"Bennett, Price and Williams",False
+390,Home,"Jordan, Lee and Ramirez",True
+391,Home,Pittman-Carpenter,True
+392,Home,Underwood and Sons,True
+393,Books,Williams and Sons,True
+394,Books,Adams LLC,True
+395,Home,"Allen, Palmer and Miller",False
+396,Books,"Harmon, Trevino and Wilson",True
+397,Fashion,"Johnson, Shaw and Griffin",False
+398,Electronics,Humphrey Group,False
+399,Fashion,Scott LLC,False
+400,Books,Arias LLC,True
+401,Books,Bennett-Doyle,True
+402,Electronics,Wright Group,False
+403,Home,Rivera Ltd,True
+404,Fashion,"Mills, Wagner and Davis",False
+405,Fashion,Swanson-Nelson,True
+406,Electronics,Bond Inc,False
+407,Books,Jones LLC,False
+408,Electronics,"White, Perez and Becker",True
+409,Electronics,"Parks, Davis and Taylor",False
+410,Fashion,Joseph-Thompson,True
+411,Books,Steele-Rose,True
+412,Fashion,Pope Ltd,False
+413,Electronics,Harmon LLC,False
+414,Books,Fleming-Scott,False
+415,Home,Pena Inc,False
+416,Books,"Anderson, Castillo and James",True
+417,Books,Brennan-Weaver,True
+418,Fashion,"Gregory, Sutton and Hunt",False
+419,Books,"Schmidt, Ramirez and Davis",True
+420,Electronics,Gutierrez-Juarez,False
+421,Fashion,Palmer and Sons,True
+422,Electronics,"Black, Collins and Cox",True
+423,Fashion,Kelley LLC,True
+424,Books,Beck-Reed,False
+425,Books,Harmon-Reed,False
+426,Fashion,Harrison-Perez,False
+427,Books,"Hale, Johnson and Perez",False
+428,Home,Edwards-Moody,False
+429,Electronics,Jones-Le,True
+430,Home,"Thompson, Hurst and Kim",False
+431,Fashion,Anderson-Sandoval,True
+432,Fashion,"Johnson, Hayden and Chang",True
+433,Fashion,"Smith, Richardson and Wiggins",False
+434,Books,"Miller, Williams and Phillips",False
+435,Home,Dennis and Sons,True
+436,Books,Brooks Inc,True
+437,Fashion,Page Ltd,True
+438,Books,King-Johnson,True
+439,Books,Black-Thomas,True
+440,Books,Campbell Group,True
+441,Home,"Kramer, Hall and Kramer",False
+442,Electronics,Jones Group,True
+443,Books,Curtis LLC,True
+444,Fashion,Bryan-Winters,True
+445,Electronics,Nguyen-Walker,False
+446,Fashion,Baxter-Warren,False
+447,Electronics,Reyes-Stephens,False
+448,Fashion,Harding-Holmes,False
+449,Home,York-Perry,False
+450,Electronics,Ali-Lin,True
+451,Fashion,Miller Group,False
+452,Fashion,"Williams, Lynch and Freeman",True
+453,Home,Smith and Sons,False
+454,Home,Grant-Scott,False
+455,Fashion,"Rivera, Harding and Bishop",False
+456,Electronics,Miles-Johnson,False
+457,Home,Melton-Andrews,True
+458,Fashion,Miller-Sherman,True
+459,Home,Russell-Davidson,True
+460,Electronics,Cruz PLC,False
+461,Electronics,"Monroe, Caldwell and Martin",True
+462,Electronics,"Webb, Ortiz and Guerra",True
+463,Books,Baird LLC,True
+464,Home,"Mata, Cole and Kelly",True
+465,Fashion,Fuentes-Porter,False
+466,Electronics,Kelly PLC,True
+467,Books,"Jones, Hartman and Mcgee",True
+468,Home,Evans Group,False
+469,Home,Hensley Inc,False
+470,Fashion,Foster Group,False
+471,Fashion,Mills-Page,True
+472,Fashion,Ortiz-Valencia,True
+473,Books,"Williamson, Chavez and Austin",False
+474,Books,"Williams, Parker and Bryant",False
+475,Fashion,"Walker, Wallace and Cortez",True
+476,Electronics,Contreras-James,True
+477,Electronics,"Castaneda, Taylor and Sutton",False
+478,Fashion,Roberts Inc,False
+479,Fashion,"Evans, Finley and Cole",True
+480,Books,Sullivan-Wilson,False
+481,Home,"Smith, Keller and Jarvis",False
+482,Home,Krause-Parker,True
+483,Electronics,"Lopez, Gordon and Powell",True
+484,Electronics,"Gonzalez, Patel and Thornton",True
+485,Books,Henderson and Sons,False
+486,Books,Miller-Munoz,True
+487,Electronics,"Fisher, Bailey and Rose",True
+488,Electronics,Lee-Johnson,True
+489,Fashion,Nguyen-Sherman,False
+490,Home,Carr LLC,False
+491,Home,Collins Group,False
+492,Electronics,Park PLC,True
+493,Electronics,"Richardson, Brown and Martin",True
+494,Fashion,Fuentes and Sons,True
+495,Fashion,"Curtis, Burnett and Brooks",True
+496,Books,Davis-Dickerson,True
+497,Books,Shelton Group,True
+498,Home,"Phillips, Moore and Cohen",True
+499,Fashion,Marquez and Sons,True
+500,Books,"Bailey, Wilson and Berry",False
+501,Electronics,Gray-Barnes,True
+502,Home,Rivera Ltd,True
+503,Electronics,"Robertson, Myers and Johnson",False
+504,Fashion,"Smith, Brady and Hernandez",True
+505,Home,Mcdonald Inc,True
+506,Books,"Morales, Robinson and Mitchell",False
+507,Fashion,Mccall-Davis,False
+508,Fashion,Curry-Franklin,False
+509,Electronics,Kemp-Roberts,True
+510,Electronics,Collins-Vance,False
+511,Fashion,Parsons-Cook,True
+512,Electronics,"Serrano, Andrews and Green",True
+513,Electronics,Hoffman PLC,False
+514,Fashion,Estes PLC,False
+515,Electronics,"Reed, Logan and Estrada",True
+516,Books,Gill-Jones,True
+517,Fashion,Olsen PLC,True
+518,Electronics,"Davis, Lee and Jones",True
+519,Fashion,Davis-Hughes,False
+520,Electronics,"Castillo, Holloway and Fletcher",True
+521,Electronics,Henry-Manning,True
+522,Home,Brandt-Johnson,True
+523,Electronics,"Wade, Adkins and Miller",False
+524,Books,Williams-Cain,False
+525,Electronics,Herrera Group,True
+526,Books,Hester-Velasquez,True
+527,Books,"Gonzalez, Sims and Lee",False
+528,Fashion,Richardson-Klein,False
+529,Fashion,"Gutierrez, Thompson and Kelley",True
+530,Home,"Campbell, Odonnell and Aguilar",False
+531,Electronics,James LLC,True
+532,Books,Oliver-Heath,True
+533,Home,"Bell, Henson and Richardson",True
+534,Fashion,"Morris, Merritt and Bailey",True
+535,Home,"Pierce, Brewer and Mckay",True
+536,Electronics,Thomas Inc,False
+537,Fashion,"Young, Smith and Smith",False
+538,Fashion,"Stewart, Smith and Baldwin",False
+539,Electronics,Smith-Rivera,True
+540,Home,Neal and Sons,False
+541,Books,Davidson PLC,True
+542,Books,Holland-Smith,True
+543,Electronics,Clark LLC,False
+544,Electronics,Richardson Ltd,False
+545,Electronics,"Campbell, Smith and Stewart",True
+546,Fashion,Brown-Ali,True
+547,Electronics,Smith-Cruz,False
+548,Books,Roberts LLC,True
+549,Electronics,Gardner-Cox,True
+550,Home,"Sherman, Gonzalez and Clark",True
+551,Books,Howard-Orr,False
+552,Electronics,Kelly-Ramirez,True
+553,Home,"Williams, White and Mccann",False
+554,Books,"Gardner, Richardson and Richardson",False
+555,Fashion,"Mann, Long and Walters",True
+556,Electronics,Davenport-Clark,True
+557,Books,Mcgrath-Owens,True
+558,Home,White Ltd,False
+559,Home,Johns Ltd,True
+560,Fashion,"Sanchez, Oconnell and Davis",True
+561,Home,Ford-Hill,True
+562,Electronics,Martinez Group,True
+563,Home,Boyd Group,True
+564,Books,Robbins PLC,True
+565,Books,Stevenson Ltd,False
+566,Home,Wolf-Collins,True
+567,Electronics,"Young, Clark and Reynolds",False
+568,Books,Brown and Sons,True
+569,Electronics,Montoya PLC,False
+570,Books,"Burnett, Bennett and Benson",False
+571,Electronics,"Douglas, Johnson and Shaffer",True
+572,Fashion,King Inc,False
+573,Home,"Jones, Craig and Gordon",False
+574,Home,Brandt and Sons,False
+575,Home,Thomas and Sons,True
+576,Electronics,Hopkins-Neal,True
+577,Electronics,Carlson-Nguyen,True
+578,Fashion,David PLC,True
+579,Fashion,Flynn-Smith,True
+580,Electronics,Rasmussen-Dunn,False
+581,Home,"Ward, White and Patton",True
+582,Electronics,Nelson Inc,False
+583,Electronics,Black-Foster,True
+584,Books,Wallace Group,False
+585,Electronics,Brown LLC,False
+586,Home,Ferguson-Schwartz,True
+587,Fashion,"Newman, Jones and Calderon",False
+588,Books,"James, Olson and Dawson",False
+589,Home,"Petersen, Harris and Hernandez",True
+590,Home,Allen Inc,False
+591,Electronics,"Rojas, Spencer and Ross",False
+592,Fashion,Page Group,True
+593,Home,Allen-Price,True
+594,Books,Patrick Group,False
+595,Books,Brown-Schwartz,False
+596,Fashion,Horn-Moore,True
+597,Fashion,Dean Ltd,True
+598,Home,Conley-Noble,False
+599,Electronics,Anderson-Sanchez,True
+600,Fashion,Campbell LLC,False
+601,Home,"Wolf, Fox and Chapman",True
+602,Home,"Chang, Smith and Taylor",False
+603,Books,Davidson PLC,False
+604,Electronics,Stephenson-Mendoza,False
+605,Home,"Franklin, Powell and Flores",True
+606,Books,"Smith, Hawkins and White",True
+607,Books,"Lane, Hughes and Norris",False
+608,Home,"Burke, Peters and Price",True
+609,Electronics,Bryant-Lewis,False
+610,Home,Blanchard-Mitchell,False
+611,Home,Jones-Parker,True
+612,Electronics,Cruz-Davis,True
+613,Fashion,Wilkinson Inc,True
+614,Books,Smith and Sons,False
+615,Home,Chen-Preston,False
+616,Fashion,"Jensen, Curtis and Howard",False
+617,Books,"Short, Williams and Hernandez",False
+618,Fashion,Burke-Baker,False
+619,Fashion,Roberts Inc,False
+620,Fashion,"Flores, Harris and Johnson",False
+621,Electronics,Pena-Thompson,True
+622,Electronics,Johnson-Hoover,True
+623,Home,Schmidt-Jones,False
+624,Electronics,Alvarez Group,True
+625,Home,Mcneil-Taylor,False
+626,Home,Miller-Becker,False
+627,Electronics,Williams-Taylor,True
+628,Fashion,"Gibson, Carter and Oconnor",False
+629,Electronics,"Olson, Larson and Perez",False
+630,Home,Howard-Owen,True
+631,Books,Sanders and Sons,True
+632,Books,"Tyler, Case and Sanchez",True
+633,Fashion,"Reed, Johnson and Evans",True
+634,Home,Haney Group,True
+635,Home,Sanders-Snyder,False
+636,Fashion,Hale-Brooks,True
+637,Fashion,Padilla-Shelton,False
+638,Electronics,"Wallace, Wright and Powell",False
+639,Books,"Bailey, Lee and Shelton",True
+640,Fashion,Thomas LLC,True
+641,Home,Ford Group,False
+642,Electronics,Alvarez-Butler,False
+643,Home,Garcia-Caldwell,False
+644,Electronics,Franklin Inc,True
+645,Books,"Hebert, Arnold and Williams",True
+646,Books,"Nash, Davis and Santiago",True
+647,Home,Maldonado Ltd,False
+648,Fashion,"Macias, Smith and Tran",True
+649,Books,Murphy and Sons,True
+650,Fashion,"Weber, Moody and Bailey",True
+651,Books,Lawson Inc,True
+652,Electronics,Trevino LLC,True
+653,Books,Jones-Martinez,False
+654,Books,Johnson Ltd,True
+655,Fashion,Edwards and Sons,True
+656,Books,Howell Inc,False
+657,Books,Little-Moore,False
+658,Books,Smith Ltd,False
+659,Books,"Velez, Edwards and Greene",False
+660,Books,Neal-Gould,False
+661,Books,Fritz-Martinez,True
+662,Home,"Mills, Kent and Gonzalez",True
+663,Home,"Lawrence, Garcia and Collins",False
+664,Electronics,Byrd LLC,True
+665,Home,Cook-Sharp,True
+666,Fashion,"Jackson, Bates and Moore",False
+667,Books,Richardson-Bennett,True
+668,Fashion,Williams PLC,False
+669,Electronics,Robertson-Clark,True
+670,Fashion,Kelly Group,False
+671,Home,Cochran-Estrada,True
+672,Home,Green-Walters,True
+673,Fashion,West PLC,False
+674,Home,Jackson Group,True
+675,Electronics,Griffith-Peterson,True
+676,Fashion,Munoz-Aguirre,False
+677,Home,"Harvey, Howard and Martin",True
+678,Electronics,Alvarez-King,True
+679,Home,"Price, Erickson and Simpson",True
+680,Fashion,Sanchez Ltd,True
+681,Home,Anderson Inc,True
+682,Electronics,Holmes-Cunningham,False
+683,Books,Burns-Powell,True
+684,Electronics,Contreras Inc,True
+685,Electronics,"Ware, Leonard and Rivera",True
+686,Home,Carr-Brown,True
+687,Electronics,"Juarez, Fields and Saunders",False
+688,Books,Herman-Ramirez,False
+689,Books,Rogers-Wells,True
+690,Electronics,Montoya Ltd,True
+691,Electronics,"Strickland, Brooks and Martinez",False
+692,Electronics,Torres-Taylor,False
+693,Electronics,"Coleman, Flores and Jimenez",False
+694,Electronics,Ramirez-Maynard,False
+695,Books,Richard-Baker,False
+696,Home,"Sanchez, Shannon and Hampton",False
+697,Home,George Ltd,True
+698,Books,Chavez PLC,True
+699,Home,Lewis Inc,True
+700,Books,"Zuniga, Smith and Cummings",False
+701,Books,"Hill, Collins and Ballard",True
+702,Home,Miller-Hardin,True
+703,Electronics,"Carter, Sanders and Cooper",False
+704,Home,Andrade-Ryan,False
+705,Books,Garza-Young,False
+706,Home,Hardin and Sons,False
+707,Fashion,"Johnson, Jones and Hansen",False
+708,Fashion,"Freeman, Clayton and Frazier",False
+709,Fashion,Mendoza-King,True
+710,Books,Smith-Robertson,True
+711,Fashion,Mckinney-Young,False
+712,Fashion,"Smith, Luna and Rice",False
+713,Electronics,Reed-Vaughan,True
+714,Electronics,Jennings-Leonard,True
+715,Home,"Pineda, Myers and Butler",False
+716,Books,Decker and Sons,False
+717,Electronics,Holland-Barber,False
+718,Electronics,Smith LLC,True
+719,Home,Cooper-Burgess,True
+720,Electronics,Shaw LLC,False
+721,Books,"Berry, Zamora and Williams",True
+722,Fashion,Cole-Macdonald,False
+723,Books,Mack-Martinez,True
+724,Books,Berry Inc,True
+725,Home,Durham Group,True
+726,Electronics,Bryant-Smith,False
+727,Electronics,Reynolds-Stanley,True
+728,Home,Davis-Sutton,True
+729,Fashion,Brown-Saunders,False
+730,Fashion,Blackburn-Scott,False
+731,Home,Hernandez Ltd,True
+732,Books,Ramirez LLC,True
+733,Electronics,Atkinson-Adams,True
+734,Fashion,Smith and Sons,True
+735,Home,"Richardson, Gordon and Gilbert",True
+736,Home,Buchanan Inc,True
+737,Fashion,Chambers PLC,False
+738,Books,Mack and Sons,True
+739,Books,Ray Inc,True
+740,Books,Lopez-Rogers,True
+741,Electronics,Campbell-Garcia,True
+742,Home,"Anderson, Nelson and Howell",False
+743,Books,Cohen-Hobbs,True
+744,Electronics,"Williams, Navarro and Green",False
+745,Fashion,Weber Ltd,False
+746,Books,"Scott, Fisher and Dyer",False
+747,Fashion,Smith-Diaz,False
+748,Home,"Clark, Hawkins and Garner",True
+749,Home,"Olsen, Dickson and Fisher",False
+750,Home,Davis Inc,False
+751,Home,Young Inc,False
+752,Fashion,Gonzalez-Blanchard,True
+753,Electronics,Long LLC,False
+754,Home,"Rogers, Macias and Patterson",True
+755,Books,Sanchez PLC,False
+756,Fashion,Waller-Carlson,False
+757,Electronics,Welch-Caldwell,True
+758,Home,"Hawkins, Snow and King",True
+759,Fashion,Smith-Robinson,True
+760,Electronics,"Cruz, Moore and Warner",False
+761,Home,Hernandez Inc,False
+762,Electronics,Davila Inc,False
+763,Home,Neal-Guzman,False
+764,Electronics,Vang-Johnson,True
+765,Home,Hughes-Rocha,True
+766,Electronics,Watkins-Harris,True
+767,Home,"Pierce, Fox and Fox",False
+768,Books,Mayer LLC,True
+769,Fashion,"Rice, Gonzalez and Ramos",False
+770,Electronics,Perez-Hanna,False
+771,Fashion,Perez-Schroeder,False
+772,Books,"Smith, Gilmore and Brooks",True
+773,Books,Morrison Inc,True
+774,Books,"Johnson, Ward and Barron",True
+775,Electronics,Choi-Nguyen,False
+776,Fashion,"Heath, Le and Stewart",True
+777,Electronics,Roy PLC,True
+778,Books,"King, Franklin and Ryan",True
+779,Fashion,"Ward, Griffin and Porter",True
+780,Electronics,Howard-Flores,False
+781,Home,"Lopez, Hunter and Lucas",True
+782,Fashion,Foster LLC,True
+783,Fashion,"Mccormick, Pham and Rivera",False
+784,Electronics,Thomas-Hardin,True
+785,Books,Kelly and Sons,False
+786,Books,Taylor-Reid,False
+787,Home,"Green, Donaldson and Brown",True
+788,Books,"Rodriguez, Blackwell and Johnson",True
+789,Books,Sullivan Inc,True
+790,Fashion,"Colon, Fox and Hayes",True
+791,Books,"Elliott, Romero and Graham",True
+792,Fashion,Webb Ltd,False
+793,Electronics,Ferguson Group,True
+794,Home,Nelson-Mckee,False
+795,Fashion,"Fisher, Smith and Johnson",True
+796,Home,"Todd, Harris and Rush",True
+797,Electronics,"Benson, Carter and Smith",True
+798,Electronics,"Thompson, Hansen and Baxter",True
+799,Books,Boone-Welch,False
+800,Electronics,Smith-Hicks,False
+801,Electronics,Smith-Santana,True
+802,Fashion,"Wilcox, Ritter and Hancock",False
+803,Electronics,Reid and Sons,False
+804,Books,Burns LLC,False
+805,Electronics,Macias LLC,True
+806,Books,Zhang-Snyder,False
+807,Electronics,Goodman PLC,False
+808,Fashion,"Gray, Roberts and Davis",False
+809,Home,"Fritz, Garcia and Ashley",True
+810,Electronics,"Booker, Ochoa and Wilson",False
+811,Electronics,"Osborn, Williams and Guerrero",True
+812,Electronics,"Harris, Klein and Hunter",False
+813,Books,"Mendoza, Fisher and Hull",True
+814,Fashion,Caldwell Inc,True
+815,Books,Davidson-Alexander,True
+816,Home,Roy-Hester,True
+817,Electronics,"Yoder, Evans and Johnson",True
+818,Fashion,Hancock-Fischer,False
+819,Electronics,Daniels LLC,False
+820,Books,"Aguilar, Norton and Lopez",False
+821,Fashion,Martin-Edwards,False
+822,Fashion,Reynolds Inc,False
+823,Fashion,"Andersen, Miller and Wheeler",True
+824,Fashion,Harrell-Brown,True
+825,Books,"Mueller, Brown and Guzman",True
+826,Home,"Robertson, Johnson and Clark",False
+827,Electronics,Osborne PLC,True
+828,Home,"Martin, Hall and Nunez",False
+829,Fashion,"Miller, Lewis and Ortega",True
+830,Electronics,Howard PLC,False
+831,Books,Pratt PLC,True
+832,Electronics,"Weaver, Daniels and Brooks",False
+833,Books,Hansen-Freeman,False
+834,Electronics,Wagner-Ramirez,True
+835,Home,"Henry, Stevenson and Montoya",True
+836,Fashion,"Moore, Curtis and Daniel",True
+837,Home,Zimmerman PLC,False
+838,Books,Stark-Black,True
+839,Fashion,Hayden Ltd,True
+840,Fashion,Castaneda Inc,False
+841,Fashion,"Hammond, Mcdaniel and Porter",False
+842,Books,Moore-Osborn,False
+843,Home,Collins-Flores,False
+844,Fashion,"Smith, Thompson and Mendoza",True
+845,Books,Wu Inc,False
+846,Electronics,Colon-Walker,False
+847,Fashion,"Herring, Cline and Ward",True
+848,Books,Franklin-Garza,False
+849,Books,"Moore, Cochran and Johnson",True
+850,Books,Sanford-Williams,True
+851,Home,Harper PLC,True
+852,Fashion,Gomez Group,False
+853,Electronics,Lewis and Sons,False
+854,Home,Boyle-Guzman,False
+855,Home,Ali-Young,True
+856,Books,Price and Sons,False
+857,Fashion,Wolfe-Richard,False
+858,Books,Mann Inc,True
+859,Fashion,Bates-Miller,False
+860,Home,Payne LLC,False
+861,Electronics,Benson-Fowler,False
+862,Home,Bishop-Martin,True
+863,Home,Santana LLC,False
+864,Books,"Brewer, Vaughn and Burke",False
+865,Books,Washington-Bowen,False
+866,Fashion,Edwards-Garcia,False
+867,Home,Logan Ltd,True
+868,Books,"Padilla, Grant and Barnett",True
+869,Fashion,"Reilly, Olson and Stevens",False
+870,Home,Ramirez-Williamson,False
+871,Fashion,Thompson and Sons,True
+872,Books,"Bailey, Perry and Graham",True
+873,Home,"Leach, Hernandez and Palmer",True
+874,Home,"Bowen, Roth and Smith",False
+875,Home,Burch LLC,True
+876,Fashion,"Taylor, Mccoy and Horton",False
+877,Books,"Dickerson, Smith and Perkins",False
+878,Electronics,Lopez-Thompson,True
+879,Electronics,"Walker, Greene and Ramirez",False
+880,Fashion,"Harris, Barnes and Ramos",False
+881,Electronics,Miller Ltd,False
+882,Electronics,Murphy PLC,True
+883,Fashion,Moore Inc,False
+884,Books,"Smith, Hall and Key",True
+885,Fashion,Smith-Crawford,False
+886,Electronics,"Miller, Lopez and Reynolds",True
+887,Electronics,"Williams, Taylor and Chung",False
+888,Fashion,Thompson and Sons,False
+889,Home,Phillips-Ross,True
+890,Fashion,Johnson LLC,False
+891,Electronics,Farmer Ltd,False
+892,Home,"Chapman, Grant and Moreno",False
+893,Electronics,Williams LLC,True
+894,Books,Levy Ltd,True
+895,Books,"Williams, Mcclure and Hart",True
+896,Books,"Ho, Matthews and Hebert",True
+897,Fashion,Baker Ltd,True
+898,Fashion,"Johnson, Sanders and Gutierrez",True
+899,Home,Mcdaniel-Marquez,True
+900,Fashion,Beard Ltd,False
+901,Home,Pearson-Harris,False
+902,Fashion,King-Perez,False
+903,Electronics,Mcbride-Cox,True
+904,Books,"Brown, Moore and Salazar",False
+905,Books,Mack-Rodriguez,False
+906,Home,Owen-Ortiz,False
+907,Books,Hardy PLC,False
+908,Books,Day-Wells,True
+909,Fashion,Woods-Nunez,True
+910,Electronics,"Daniel, Walker and Smith",False
+911,Electronics,Simpson LLC,False
+912,Books,Maxwell-Wilson,True
+913,Home,Gonzalez-Pierce,False
+914,Books,"Holt, Hill and Watson",True
+915,Home,"Howell, Miller and Murray",True
+916,Electronics,Simmons-Flynn,False
+917,Electronics,"David, Jackson and Dominguez",True
+918,Books,"Lewis, Dickson and Acevedo",False
+919,Electronics,"Boone, Tran and Pierce",False
+920,Electronics,Contreras and Sons,False
+921,Fashion,Villegas LLC,True
+922,Books,Salas-Powell,False
+923,Books,Nixon-Johns,True
+924,Fashion,"Johnson, Black and Smith",False
+925,Home,"Hogan, Thomas and Park",False
+926,Books,Long Group,False
+927,Electronics,Robinson-Wallace,True
+928,Home,Goodman Inc,True
+929,Fashion,Hall-Nunez,False
+930,Books,Johnson and Sons,False
+931,Books,"Lee, Hayden and Clark",False
+932,Home,Everett-Oconnor,False
+933,Books,Davis LLC,True
+934,Books,Willis-Reeves,True
+935,Home,"Armstrong, Thompson and Jones",True
+936,Books,"Howard, Gutierrez and Dunn",True
+937,Home,"Castaneda, Jackson and Fowler",True
+938,Fashion,Smith-Nichols,True
+939,Home,Rowland-Lopez,False
+940,Books,"Phillips, Kelley and Sanchez",False
+941,Electronics,Cruz-Garner,True
+942,Books,Garcia-Smith,False
+943,Electronics,Barker PLC,False
+944,Electronics,Peters LLC,False
+945,Electronics,"Smith, Hernandez and Anderson",True
+946,Books,Ortega and Sons,True
+947,Home,Santos-Doyle,False
+948,Home,Jenkins-Roberts,False
+949,Electronics,Hill-Wright,True
+950,Books,Jensen Ltd,True
+951,Fashion,Obrien-Evans,False
+952,Electronics,Elliott-Graves,True
+953,Fashion,Jones and Sons,True
+954,Electronics,Yates-Scott,False
+955,Home,Orozco Ltd,True
+956,Electronics,Davis-Phelps,True
+957,Electronics,Riley-Aguilar,True
+958,Home,Henry-Taylor,False
+959,Home,Brown and Sons,False
+960,Electronics,Rodriguez Ltd,True
+961,Books,"Flores, Romero and Brady",True
+962,Home,"Martinez, Hernandez and Hoffman",False
+963,Books,Davenport Group,False
+964,Fashion,"Lee, Reid and Ramirez",True
+965,Electronics,"Bruce, Nichols and Morton",False
+966,Fashion,"Sanchez, Pena and Martinez",False
+967,Home,Anderson-Owens,False
+968,Fashion,Austin PLC,False
+969,Electronics,Porter PLC,False
+970,Electronics,Sanders-Berger,True
+971,Home,"Griffin, French and Mccarthy",True
+972,Fashion,"Wilson, Kirby and Johnson",False
+973,Books,Brown-Church,False
+974,Books,Cruz-Ross,False
+975,Books,Vaughan Inc,False
+976,Fashion,Shaw-Hayes,True
+977,Fashion,Flores LLC,False
+978,Books,Ross LLC,False
+979,Fashion,Oconnor-Rush,False
+980,Electronics,Perry Inc,False
+981,Books,"English, Hunt and Compton",False
+982,Home,Johnson-Castillo,False
+983,Electronics,Richardson-Baker,True
+984,Electronics,Miller-Simon,False
+985,Home,"Perez, Hancock and Ford",False
+986,Electronics,Miller-Gibson,True
+987,Home,Hawkins-Hansen,False
+988,Fashion,Randolph LLC,True
+989,Books,Williamson Ltd,False
+990,Books,Thompson-Saunders,False
+991,Electronics,Young PLC,True
+992,Books,"Johns, Clark and Harris",False
+993,Books,Kelly LLC,False
+994,Books,Kane LLC,False
+995,Electronics,Bishop-Soto,False
+996,Books,Hurley PLC,True
+997,Electronics,Cochran PLC,False
+998,Electronics,Moon-Dawson,True
+999,Home,Gonzalez-Davis,True
+1000,Home,"Trujillo, Mora and Green",True
+1001,Home,"Cruz, Rhodes and Smith",False
+1002,Home,Kelley-Johnson,False
+1003,Home,"White, Holt and Johnson",True
+1004,Books,Escobar-Carroll,True
+1005,Books,Schultz Ltd,True
+1006,Home,Henry-Rogers,False
+1007,Home,Zimmerman LLC,False
+1008,Fashion,Lopez-Coleman,False
+1009,Books,Graves LLC,True
+1010,Electronics,Garner-Gibbs,False
+1011,Home,"Rivera, Vasquez and Alvarez",False
+1012,Fashion,"Martin, Lee and Strickland",False
+1013,Home,Thomas-Ford,True
+1014,Books,"Arnold, Hall and Landry",False
+1015,Electronics,Roth PLC,True
+1016,Electronics,Garcia-Terry,False
+1017,Books,"Richards, Beasley and Moore",True
+1018,Fashion,Thompson Ltd,False
+1019,Fashion,"Jackson, Alvarado and Perkins",True
+1020,Fashion,"Johnson, Warner and Phillips",False
+1021,Books,Patton-Johnson,True
+1022,Electronics,Walters-Harper,False
+1023,Books,Evans Ltd,False
+1024,Books,"Torres, Butler and Wright",True
+1025,Books,Taylor PLC,False
+1026,Electronics,"Jones, Davis and Lucas",True
+1027,Fashion,Larson LLC,True
+1028,Fashion,Silva and Sons,False
+1029,Books,"Williams, Edwards and Chavez",False
+1030,Books,"Jones, Mcguire and Nguyen",False
+1031,Books,Lee Group,True
+1032,Electronics,"Edwards, Murray and Palmer",False
+1033,Books,Baker LLC,True
+1034,Books,Miller-Jackson,True
+1035,Books,Williams-Barnes,False
+1036,Books,"Richardson, White and Anderson",False
+1037,Electronics,Walters and Sons,False
+1038,Fashion,Armstrong-Robles,True
+1039,Books,"Sullivan, Edwards and Perez",True
+1040,Electronics,Fernandez Inc,True
+1041,Electronics,"Cisneros, Campbell and Levy",True
+1042,Fashion,Delgado-Pitts,False
+1043,Fashion,"Brown, Wright and Villa",False
+1044,Books,Harper-Young,False
+1045,Electronics,Miller Group,False
+1046,Books,"Hughes, Schultz and Morrison",False
+1047,Home,Morgan-Turner,False
+1048,Books,Montgomery-Smith,False
+1049,Electronics,Walker LLC,False
+1050,Fashion,Smith Inc,False
+1051,Home,Miranda and Sons,False
+1052,Fashion,Johnson LLC,False
+1053,Home,"Burch, Wilson and Buckley",False
+1054,Electronics,"Pena, Sellers and Evans",True
+1055,Electronics,Davis Ltd,False
+1056,Books,Diaz-Perry,True
+1057,Electronics,May-Dean,True
+1058,Electronics,Cooper Inc,True
+1059,Fashion,"Norman, Moses and Baker",False
+1060,Fashion,"Parsons, Kelly and Stuart",True
+1061,Electronics,"Henderson, Smith and Walsh",True
+1062,Electronics,Contreras-Jarvis,False
+1063,Fashion,Harrison PLC,False
+1064,Home,Bell Group,True
+1065,Home,Hernandez-Nguyen,False
+1066,Books,Stafford-Moody,False
+1067,Books,"Baker, Mullins and Yoder",True
+1068,Electronics,Sellers Ltd,True
+1069,Fashion,Huang-Lucas,True
+1070,Fashion,Chavez LLC,True
+1071,Home,Bailey-Russell,True
+1072,Home,Hubbard and Sons,True
+1073,Home,"Gould, Ellison and Taylor",True
+1074,Home,Townsend LLC,False
+1075,Home,Moran-Pacheco,False
+1076,Fashion,Spence-Johnston,False
+1077,Books,Macias and Sons,False
+1078,Electronics,Suarez-Stone,True
+1079,Books,Anderson-Woods,False
+1080,Fashion,Lee-Patterson,True
+1081,Fashion,"Knight, Stephens and Kennedy",True
+1082,Home,"White, Reed and Mclean",False
+1083,Home,Kennedy-Edwards,True
+1084,Electronics,Dalton PLC,True
+1085,Home,Robles PLC,False
+1086,Home,"Huerta, Bond and Davidson",False
+1087,Books,"Morrison, Bishop and Austin",False
+1088,Electronics,"Fox, Ramos and Flores",False
+1089,Fashion,Thornton-Owens,False
+1090,Electronics,"Boyd, Moreno and Torres",False
+1091,Home,Hodge Group,True
+1092,Electronics,Flores-Bridges,True
+1093,Electronics,"Valencia, Tanner and Hayes",False
+1094,Electronics,Kennedy-Daniel,False
+1095,Fashion,"Dyer, Norris and Miller",True
+1096,Books,"Watkins, Peterson and Dunlap",False
+1097,Fashion,"Yang, Bauer and Rivera",True
+1098,Home,"Rogers, Willis and Webb",False
+1099,Home,"Foster, Cervantes and Taylor",False
+1100,Home,Joyce-Woods,False
+1101,Electronics,"Jackson, Harper and Mitchell",True
+1102,Electronics,"Owens, Huang and Dunn",True
+1103,Home,"Harris, Campbell and Newman",False
+1104,Books,Vance Ltd,True
+1105,Books,Martinez Ltd,False
+1106,Home,Howell-Mckay,True
+1107,Electronics,White-Wilson,True
+1108,Electronics,Ford-Everett,False
+1109,Fashion,Reyes Group,False
+1110,Fashion,Ibarra Inc,False
+1111,Home,Lopez-Marshall,True
+1112,Home,Leon and Sons,False
+1113,Fashion,"Williams, Campbell and Peterson",False
+1114,Electronics,Kent Inc,False
+1115,Electronics,Hill LLC,True
+1116,Home,"Butler, Blackwell and Reid",False
+1117,Home,Williams-Delacruz,True
+1118,Fashion,Harding-Hughes,False
+1119,Electronics,"Little, Lane and Garcia",False
+1120,Home,"Pugh, George and Jones",True
+1121,Home,Hughes-Soto,True
+1122,Home,"Patel, Hughes and Woods",True
+1123,Home,Hull-Abbott,True
+1124,Home,Acosta-Jensen,False
+1125,Home,"Ramirez, Hurst and Johnson",False
+1126,Home,Todd-Williams,True
+1127,Fashion,Clark Ltd,True
+1128,Books,Weiss-Koch,True
+1129,Books,"Lewis, Wright and Jones",True
+1130,Electronics,"Adams, Johnson and Berger",False
+1131,Books,Davis-Jimenez,True
+1132,Books,Lee Group,True
+1133,Home,Nolan-Smith,True
+1134,Electronics,Wilcox LLC,True
+1135,Electronics,Hall-Martinez,False
+1136,Home,Bradley Inc,False
+1137,Home,Best-Olson,True
+1138,Home,"Fuller, Conrad and Serrano",False
+1139,Fashion,Brown Group,True
+1140,Home,"Schultz, Aguilar and Coleman",False
+1141,Electronics,Conrad LLC,True
+1142,Fashion,"Graham, Clark and Bailey",True
+1143,Electronics,Brown-Lee,False
+1144,Electronics,"Brown, Mckinney and Reyes",False
+1145,Books,"Leblanc, Webb and Hernandez",True
+1146,Electronics,Humphrey-Jackson,False
+1147,Fashion,Phillips and Sons,True
+1148,Electronics,Bush-Parker,True
+1149,Home,"Rodriguez, King and Mcconnell",True
+1150,Fashion,Roberts Ltd,True
+1151,Books,Griffith and Sons,True
+1152,Electronics,Barnes PLC,False
+1153,Home,Clark Ltd,False
+1154,Home,Hensley PLC,False
+1155,Fashion,"Myers, Glenn and Cannon",False
+1156,Books,Morton-Jones,False
+1157,Books,"Simmons, Smith and Randall",False
+1158,Books,Jones-Orozco,True
+1159,Fashion,Reed and Sons,True
+1160,Home,Rose Ltd,True
+1161,Electronics,Green-Martin,True
+1162,Home,"Ford, Herrera and Murray",True
+1163,Home,"Love, Thompson and Jones",False
+1164,Books,"West, Grant and Perez",True
+1165,Electronics,Arellano Inc,False
+1166,Books,Foster LLC,True
+1167,Fashion,"Gomez, Curtis and Jackson",False
+1168,Fashion,"Brown, Walker and Hamilton",True
+1169,Electronics,"Brown, Davies and Campbell",False
+1170,Home,Reynolds LLC,False
+1171,Books,Mills Ltd,True
+1172,Books,"Brooks, Clark and Brown",False
+1173,Home,"Kirby, Ramirez and Richardson",False
+1174,Fashion,"Johnson, Kemp and Gray",False
+1175,Books,Hart-Davis,False
+1176,Electronics,"Fields, Potter and Harris",True
+1177,Fashion,"Mcgrath, Morales and Chan",False
+1178,Electronics,"Roy, Grant and Taylor",False
+1179,Home,Lin Inc,False
+1180,Home,"Goodwin, Mitchell and Nash",True
+1181,Electronics,Carter Inc,True
+1182,Electronics,Reed LLC,False
+1183,Home,Berger-Vazquez,True
+1184,Electronics,"Bowen, Harris and Sullivan",False
+1185,Books,Higgins Ltd,True
+1186,Books,Baldwin Group,False
+1187,Fashion,Harris Inc,True
+1188,Books,Liu-Mendoza,False
+1189,Home,"Parker, Horne and Wheeler",False
+1190,Books,Lopez Group,True
+1191,Fashion,"Gilbert, Turner and Powell",True
+1192,Fashion,Smith-Rogers,False
+1193,Home,Mcbride PLC,False
+1194,Electronics,Stein and Sons,False
+1195,Fashion,"Wilson, Boyd and White",True
+1196,Books,"Herring, Bailey and Walker",True
+1197,Electronics,Williams and Sons,True
+1198,Electronics,"Scott, Wilson and Castillo",True
+1199,Electronics,"Sanchez, Henderson and Brown",True
+1200,Books,Orozco-Houston,False
+1201,Fashion,"King, Watkins and Conner",True
+1202,Books,Bruce-Mcfarland,False
+1203,Fashion,Carter LLC,False
+1204,Electronics,"Mercado, Clark and Anderson",False
+1205,Books,Hart-Brown,False
+1206,Home,Marshall and Sons,False
+1207,Electronics,"Farmer, Jackson and Fitzgerald",True
+1208,Books,Owens Inc,True
+1209,Home,"Mcdonald, Johnson and Poole",True
+1210,Books,Sanchez and Sons,False
+1211,Books,King Ltd,False
+1212,Fashion,"Cook, Farley and Thomas",True
+1213,Fashion,Merritt-Cross,True
+1214,Fashion,Walters-Harvey,True
+1215,Electronics,"Parsons, Bauer and Monroe",True
+1216,Books,"Cole, Kennedy and Spencer",True
+1217,Fashion,"Cabrera, Holland and Perry",True
+1218,Electronics,Davis Group,False
+1219,Fashion,Morales-Higgins,True
+1220,Electronics,Huff-Clark,False
+1221,Home,Nguyen LLC,True
+1222,Books,Anderson PLC,False
+1223,Home,"Taylor, Payne and Russell",True
+1224,Electronics,"Fernandez, Morris and Jones",False
+1225,Electronics,"Bryant, Grant and Hernandez",False
+1226,Fashion,Khan PLC,True
+1227,Electronics,Farrell PLC,False
+1228,Books,Ortiz-Dawson,True
+1229,Fashion,"Ryan, Sutton and Murphy",True
+1230,Home,Powell-Hall,False
+1231,Home,"Rosales, Ray and Caldwell",False
+1232,Books,"Vazquez, Taylor and Woodard",True
+1233,Electronics,"Cruz, Boyd and Buck",False
+1234,Electronics,Rodriguez LLC,False
+1235,Electronics,Miles Inc,False
+1236,Books,"Arellano, Ross and Hart",True
+1237,Books,"Collins, Weaver and Holden",False
+1238,Fashion,Phillips-Moreno,True
+1239,Home,Smith LLC,True
+1240,Electronics,Grant-Munoz,True
+1241,Electronics,"Webster, Alvarez and Rollins",False
+1242,Fashion,"Love, Garcia and Diaz",True
+1243,Home,Walker-Leonard,False
+1244,Electronics,Perry-Henry,True
+1245,Electronics,"Tran, Ayala and Kline",False
+1246,Electronics,"Rivera, Simpson and Nelson",False
+1247,Books,Jimenez-Wright,False
+1248,Books,"Smith, White and Johnson",False
+1249,Home,Mendoza-Dawson,False
+1250,Books,Meyers Inc,False
+1251,Books,Johns LLC,True
+1252,Fashion,"Smith, Beck and Hernandez",True
+1253,Books,Montoya-Reyes,False
+1254,Home,"Johnson, Riley and Lynch",False
+1255,Books,"Schwartz, Moreno and Reynolds",True
+1256,Electronics,"Harris, Cochran and Waters",True
+1257,Books,Williams LLC,False
+1258,Books,Torres PLC,False
+1259,Fashion,"White, Snyder and Chavez",True
+1260,Electronics,"Nichols, Brock and Gonzales",True
+1261,Home,White LLC,False
+1262,Fashion,"Buchanan, Martin and Booth",True
+1263,Home,"Reed, Mccarthy and Bauer",True
+1264,Electronics,Green Group,False
+1265,Fashion,Young and Sons,True
+1266,Books,Logan and Sons,True
+1267,Electronics,Martinez Inc,True
+1268,Fashion,Walker LLC,False
+1269,Books,Larson-Jordan,False
+1270,Home,"Garza, Figueroa and Briggs",False
+1271,Books,Davis Inc,False
+1272,Fashion,Bridges-Obrien,False
+1273,Home,Davis-Allen,True
+1274,Books,Hood Group,True
+1275,Fashion,Wilson-Barron,False
+1276,Electronics,Cruz-Livingston,True
+1277,Books,Rivas LLC,True
+1278,Fashion,Simpson Ltd,True
+1279,Fashion,Smith and Sons,False
+1280,Fashion,"Gregory, Flores and Williams",True
+1281,Books,Lewis and Sons,True
+1282,Books,Marquez-Johnson,True
+1283,Fashion,Mack PLC,True
+1284,Electronics,Lewis and Sons,False
+1285,Electronics,Avery-Chandler,False
+1286,Electronics,Garcia-Spencer,True
+1287,Fashion,Goodman and Sons,False
+1288,Electronics,"Krueger, Clark and Buckley",False
+1289,Home,Villa-Wolfe,True
+1290,Electronics,Hanson Inc,False
+1291,Home,Gonzalez-Brown,False
+1292,Books,"Marquez, Williams and Williams",True
+1293,Electronics,Kane-Bray,True
+1294,Fashion,Young Ltd,False
+1295,Electronics,"Thomas, Smith and Stone",False
+1296,Electronics,"Hill, Cook and Ramsey",True
+1297,Electronics,Allen Ltd,False
+1298,Books,"Johnson, Wood and Hendricks",False
+1299,Fashion,Brown Inc,False
+1300,Fashion,"Fischer, Stanton and Grimes",True
+1301,Home,Cline-Costa,True
+1302,Books,"Thomas, Wise and Burke",False
+1303,Fashion,Martinez Group,False
+1304,Electronics,"Gibson, Fox and Francis",True
+1305,Electronics,"Miller, Griffin and Greene",False
+1306,Electronics,"Rivas, Hall and Cruz",False
+1307,Books,"Adams, Sullivan and Espinoza",False
+1308,Home,"Payne, Salazar and Ortiz",False
+1309,Home,"Richardson, Melendez and Williamson",True
+1310,Home,Thompson-Chang,False
+1311,Fashion,Kennedy Inc,False
+1312,Home,Carter-Adams,False
+1313,Home,"Simpson, Adams and Rodriguez",True
+1314,Books,"Torres, King and Bailey",False
+1315,Fashion,Williams-Moore,False
+1316,Fashion,Goodwin-Johnson,False
+1317,Books,"Rivera, Potts and Taylor",False
+1318,Books,"Hayes, Joseph and Orozco",False
+1319,Books,"West, Hurst and Lopez",True
+1320,Home,Garrett PLC,True
+1321,Books,Castillo Group,False
+1322,Electronics,Wagner Group,True
+1323,Fashion,Mcclure-Collier,True
+1324,Books,"Sutton, Gonzalez and Black",True
+1325,Electronics,"Simmons, Harris and Armstrong",False
+1326,Electronics,Becker-Marsh,False
+1327,Electronics,"Fields, Evans and Diaz",False
+1328,Electronics,"George, Zavala and Moore",False
+1329,Electronics,Lopez-Conrad,False
+1330,Fashion,Jones-Thompson,True
+1331,Fashion,Mcguire Inc,True
+1332,Home,"Hudson, Davis and Elliott",False
+1333,Books,Diaz Inc,True
+1334,Home,"Mcconnell, Murphy and Floyd",False
+1335,Electronics,"Moore, Klein and James",True
+1336,Home,"Flynn, Payne and Woods",False
+1337,Fashion,Blackwell-Lawrence,True
+1338,Home,Garza Inc,True
+1339,Books,Miranda Inc,True
+1340,Electronics,"Reid, Ayers and Butler",False
+1341,Fashion,"Hudson, Rosario and Jones",True
+1342,Home,"Scott, Peck and Weber",False
+1343,Books,"Ortiz, Moran and Skinner",True
+1344,Fashion,Compton-Robertson,True
+1345,Electronics,Gardner and Sons,False
+1346,Electronics,"Colon, Maldonado and Brewer",True
+1347,Home,May-Robbins,True
+1348,Home,"Kaufman, Hall and Coleman",True
+1349,Books,Barrera and Sons,True
+1350,Home,Carter LLC,False
+1351,Electronics,Rush and Sons,False
+1352,Books,"Taylor, Lewis and Browning",True
+1353,Home,Moore PLC,False
+1354,Fashion,Charles Ltd,False
+1355,Home,Trujillo Inc,True
+1356,Books,Brennan-Davis,False
+1357,Books,Bennett Ltd,True
+1358,Electronics,Richards-Wells,False
+1359,Home,Cook PLC,True
+1360,Electronics,Mills Ltd,False
+1361,Home,Adkins-Marquez,False
+1362,Home,Morrow PLC,True
+1363,Fashion,"Bauer, Taylor and Clark",True
+1364,Books,"Wells, Garcia and Espinoza",True
+1365,Home,Hunter-Hall,False
+1366,Electronics,"Vance, Robinson and Golden",True
+1367,Home,Pineda LLC,True
+1368,Books,Barajas and Sons,True
+1369,Electronics,White-Roberts,False
+1370,Home,Stevenson Ltd,False
+1371,Fashion,Dunn Ltd,False
+1372,Fashion,"Ryan, Reed and Williams",False
+1373,Books,Sanders-Dillon,True
+1374,Fashion,"Cole, Holt and Hill",True
+1375,Fashion,"Adams, Ramos and Rhodes",False
+1376,Electronics,Alvarado-Russell,True
+1377,Books,Clark Inc,False
+1378,Books,"Norman, Jones and Jacobs",True
+1379,Home,Giles-Gutierrez,True
+1380,Home,Wilson-Smith,True
+1381,Books,Kramer-Hurst,False
+1382,Home,Reeves-Johnson,False
+1383,Books,"Williams, David and Dominguez",False
+1384,Fashion,Shelton Inc,True
+1385,Home,Miller PLC,False
+1386,Books,Fernandez-Smith,False
+1387,Electronics,"Mueller, Kelly and Steele",False
+1388,Fashion,Gomez PLC,True
+1389,Books,Cuevas Ltd,False
+1390,Electronics,Smith Ltd,False
+1391,Electronics,Ramirez PLC,True
+1392,Home,Peterson PLC,True
+1393,Home,"Scott, Davis and Richardson",False
+1394,Home,Simpson-Dillon,False
+1395,Electronics,"Tapia, Taylor and White",False
+1396,Electronics,"Smith, Tyler and Richard",True
+1397,Home,"Shaw, Smith and Dean",False
+1398,Home,Parks LLC,False
+1399,Electronics,Jordan Ltd,False
+1400,Books,"Powers, Cortez and Ware",False
+1401,Home,"Martinez, Kim and Suarez",False
+1402,Home,Marquez-Short,True
+1403,Fashion,Perez Inc,True
+1404,Electronics,Maynard-Hunt,True
+1405,Books,Smith-Roy,False
+1406,Electronics,Castaneda-Ryan,False
+1407,Fashion,Hill-Miranda,True
+1408,Home,"Jimenez, Woods and Hopkins",False
+1409,Fashion,"Marshall, Parks and Cook",True
+1410,Home,"Olson, Glover and Cobb",False
+1411,Fashion,Carroll LLC,False
+1412,Electronics,"Dillon, Pena and Ramos",False
+1413,Electronics,Williams-Stevenson,True
+1414,Home,"Mcdaniel, Schmitt and Austin",True
+1415,Home,Knapp-Robinson,True
+1416,Books,Park-Davis,False
+1417,Home,Johnson Group,False
+1418,Books,Banks Group,True
+1419,Home,Hernandez and Sons,True
+1420,Electronics,"Kennedy, Gibbs and Parker",True
+1421,Electronics,"Malone, Johnson and Bell",True
+1422,Home,Blair-Carlson,False
+1423,Fashion,Lee PLC,True
+1424,Fashion,Mathews-Miller,True
+1425,Home,Fox Inc,False
+1426,Home,"Carpenter, Martin and Hull",True
+1427,Electronics,Johnson-Thompson,True
+1428,Books,"Flores, Riley and Ward",False
+1429,Electronics,"King, Johnson and Ortiz",True
+1430,Books,Anderson LLC,False
+1431,Electronics,Scott-Taylor,False
+1432,Books,Mckinney PLC,False
+1433,Fashion,Padilla-Rodriguez,True
+1434,Electronics,"Jones, Vega and Bowman",False
+1435,Home,"Clarke, Lowe and Bennett",False
+1436,Books,Nash-Gregory,False
+1437,Electronics,"Sparks, Hubbard and Allen",True
+1438,Fashion,Jackson PLC,True
+1439,Fashion,Reid-Tyler,True
+1440,Electronics,"Thomas, Munoz and Kline",False
+1441,Home,Rice Group,True
+1442,Books,Baker Ltd,False
+1443,Home,"French, Walker and Brown",True
+1444,Fashion,Mills-Meza,True
+1445,Books,Romero-Ortiz,False
+1446,Home,"Farrell, Larson and Phillips",False
+1447,Fashion,"Gardner, Davis and Harrison",False
+1448,Home,Myers Ltd,False
+1449,Fashion,"Patterson, Harrison and Walker",True
+1450,Fashion,Taylor-Bridges,True
+1451,Books,Keith-Beasley,False
+1452,Books,Castillo Inc,True
+1453,Books,"Johnson, Evans and Lloyd",True
+1454,Electronics,Hernandez-Sims,True
+1455,Home,"Miller, Floyd and Anthony",True
+1456,Electronics,Newman-Beck,True
+1457,Electronics,Mcgee-Black,True
+1458,Electronics,Cantu Group,True
+1459,Home,Lloyd-Phillips,True
+1460,Books,Mccarthy Inc,True
+1461,Books,Perkins-Miller,False
+1462,Fashion,"Pierce, Morrison and Wade",True
+1463,Electronics,"Evans, Price and Leonard",True
+1464,Electronics,"Hoffman, Williams and Wilkerson",False
+1465,Electronics,"Butler, Webb and Chen",True
+1466,Electronics,Jones-Jones,False
+1467,Fashion,Wright-Thomas,True
+1468,Fashion,Curry-Atkins,False
+1469,Books,Thomas-Richards,False
+1470,Fashion,"Nguyen, Horn and Smith",True
+1471,Home,Stein-Dorsey,False
+1472,Electronics,"Ruiz, Scott and Meyer",False
+1473,Electronics,"Todd, Mclaughlin and Duffy",True
+1474,Books,Alvarez PLC,True
+1475,Fashion,Chavez-Ware,False
+1476,Fashion,Thomas-Cameron,True
+1477,Home,Griffith Group,True
+1478,Books,Garrett Ltd,True
+1479,Home,Moore and Sons,True
+1480,Home,Smith and Sons,True
+1481,Books,Moore-Ryan,True
+1482,Books,Moore-Bishop,False
+1483,Home,Carr-Patterson,False
+1484,Electronics,Fuentes-Vargas,True
+1485,Fashion,Luna PLC,True
+1486,Fashion,"Rodgers, Jenkins and Craig",False
+1487,Home,"Anthony, Prince and Shaw",False
+1488,Books,Jacobs and Sons,True
+1489,Fashion,Gardner-Kaiser,False
+1490,Books,Ramirez PLC,True
+1491,Electronics,"Moore, Byrd and Ross",False
+1492,Electronics,Shaffer-Gay,True
+1493,Home,"Henderson, Anthony and Perez",False
+1494,Books,"Livingston, Wright and Hall",False
+1495,Fashion,Dyer LLC,True
+1496,Fashion,"Fuentes, Thompson and Lang",False
+1497,Electronics,Farrell Inc,False
+1498,Electronics,"Long, Johnson and Jones",False
+1499,Electronics,"Kidd, Vaughan and Rollins",False
+1500,Books,Miller-Gregory,False
+1501,Fashion,Brown-Schroeder,True
+1502,Fashion,"Oliver, Zamora and Cook",False
+1503,Electronics,Anderson-Garcia,False
+1504,Home,Williams and Sons,False
+1505,Electronics,Jones-Medina,True
+1506,Electronics,"Jackson, Moreno and Cook",False
+1507,Fashion,"Kramer, Miller and Lin",False
+1508,Home,Clark-Turner,False
+1509,Books,Kirby-Nelson,False
+1510,Home,Pena LLC,True
+1511,Electronics,Lynch-Riggs,True
+1512,Books,"Gutierrez, Chandler and Doyle",True
+1513,Books,Smith-King,False
+1514,Electronics,Love LLC,False
+1515,Fashion,Jackson Inc,True
+1516,Electronics,Smith LLC,True
+1517,Home,Orr LLC,False
+1518,Electronics,"Smith, Farmer and Kennedy",True
+1519,Books,Davidson Group,False
+1520,Fashion,Rodriguez PLC,False
+1521,Books,Smith-Murphy,False
+1522,Fashion,Mooney PLC,True
+1523,Home,Flores Group,False
+1524,Home,Rojas-Robertson,False
+1525,Electronics,"Rodriguez, Dalton and Wood",False
+1526,Books,"Brown, Garrett and Long",True
+1527,Electronics,Chan Ltd,True
+1528,Home,"Burke, Adams and Murphy",True
+1529,Fashion,"Anderson, Martinez and Todd",True
+1530,Books,Cortez Group,True
+1531,Home,Norton-Adams,True
+1532,Home,Barnes-Massey,False
+1533,Books,"Nguyen, Boyd and Harris",True
+1534,Electronics,Brown Ltd,True
+1535,Home,Robertson LLC,True
+1536,Electronics,Johns-Thomas,False
+1537,Books,Rodriguez-Mclean,True
+1538,Home,Melton-Hoffman,False
+1539,Books,"Burch, Burch and Williamson",True
+1540,Home,Yoder-Hodges,False
+1541,Books,Crawford-Gray,True
+1542,Home,"Christensen, Hughes and Randall",False
+1543,Books,Miller Ltd,False
+1544,Books,Taylor LLC,False
+1545,Fashion,"Huffman, Short and Fisher",True
+1546,Fashion,"Barton, Thompson and Murray",False
+1547,Books,Day and Sons,True
+1548,Electronics,"Jenkins, Christian and Thompson",True
+1549,Electronics,Little-Shelton,True
+1550,Books,Hall-Watson,True
+1551,Home,Wilkins Inc,False
+1552,Home,"Sheppard, Lee and Ryan",True
+1553,Electronics,"Avery, Mcclure and Green",False
+1554,Fashion,Pierce-Norris,True
+1555,Fashion,Newman LLC,True
+1556,Fashion,Zimmerman-Green,True
+1557,Home,"Boyd, Hubbard and Kim",False
+1558,Home,"Reynolds, Torres and Haas",False
+1559,Fashion,Moore and Sons,True
+1560,Books,Kennedy Group,True
+1561,Books,Davis Group,False
+1562,Home,"Morgan, Carter and Hurst",False
+1563,Home,Lane LLC,False
+1564,Home,"Chang, Evans and Walker",True
+1565,Home,Taylor-Miller,False
+1566,Home,"Preston, Huang and Snyder",False
+1567,Home,Lloyd LLC,True
+1568,Books,Johnson and Sons,False
+1569,Home,Roy and Sons,False
+1570,Fashion,Barnett-Baker,False
+1571,Home,"Hull, James and Howell",False
+1572,Electronics,"Garcia, Potter and Santiago",True
+1573,Electronics,Green-Ashley,True
+1574,Electronics,Newton and Sons,True
+1575,Home,"Barnett, Williams and Thomas",False
+1576,Home,Wright-Livingston,False
+1577,Home,"Blankenship, Smith and Wood",False
+1578,Fashion,Williams and Sons,True
+1579,Home,"Brown, Vaughan and Moran",False
+1580,Home,"Simon, Jackson and Richardson",True
+1581,Home,Christian Group,False
+1582,Home,Lewis-Hall,False
+1583,Electronics,Andrade and Sons,False
+1584,Electronics,"Anderson, Hardy and Johnson",False
+1585,Home,Yates LLC,True
+1586,Home,Levy Ltd,False
+1587,Fashion,"Clayton, Gutierrez and Rogers",True
+1588,Books,Cunningham PLC,True
+1589,Books,Zavala Ltd,False
+1590,Electronics,Martinez-Summers,True
+1591,Electronics,Keller and Sons,False
+1592,Electronics,Brown-Anderson,True
+1593,Books,Hamilton-Mcdonald,False
+1594,Home,"Howard, Clayton and Camacho",False
+1595,Home,Charles Inc,True
+1596,Fashion,Carrillo-Young,True
+1597,Fashion,Gregory Group,True
+1598,Fashion,Holmes-Villegas,False
+1599,Electronics,Carrillo Group,False
+1600,Books,Jones and Sons,True
+1601,Electronics,Chambers Inc,True
+1602,Electronics,Perez LLC,False
+1603,Books,Brown LLC,False
+1604,Home,Rowe-Miller,True
+1605,Books,Smith-Barton,True
+1606,Home,Mitchell-Martin,True
+1607,Home,Hamilton and Sons,True
+1608,Books,Castro-Valdez,True
+1609,Home,"Russell, Weber and Green",True
+1610,Books,"Gamble, Chavez and Glenn",False
+1611,Books,Robles-Wallace,False
+1612,Fashion,Smith-Hernandez,False
+1613,Books,"Avery, White and Mahoney",False
+1614,Fashion,Lewis-Schwartz,False
+1615,Electronics,"Cole, Salazar and Hughes",False
+1616,Electronics,Rogers-Mason,False
+1617,Books,"Thomas, Buchanan and Kane",False
+1618,Home,Gamble Group,False
+1619,Electronics,Chang-Knapp,False
+1620,Fashion,Johnson and Sons,True
+1621,Books,"Flores, Welch and Savage",False
+1622,Fashion,"Liu, Jones and Barry",True
+1623,Books,"Gallegos, Olsen and Baker",True
+1624,Electronics,Perez and Sons,False
+1625,Fashion,"Miller, Tate and Briggs",True
+1626,Fashion,Adams Ltd,False
+1627,Electronics,Nunez-Hamilton,False
+1628,Home,Gomez-Hernandez,False
+1629,Home,"Singh, Wong and Ellis",True
+1630,Fashion,Gordon LLC,False
+1631,Home,Garza Ltd,False
+1632,Books,Conway Group,False
+1633,Home,"White, Davenport and Wilson",False
+1634,Electronics,Cooper Ltd,True
+1635,Books,Stewart-Anderson,True
+1636,Fashion,Stephens-Robinson,True
+1637,Books,Sullivan-Jimenez,True
+1638,Books,Stewart PLC,True
+1639,Electronics,Shaw-Stewart,True
+1640,Home,Smith-Romero,False
+1641,Electronics,"Jenkins, Johnson and Barker",True
+1642,Fashion,Snyder Group,False
+1643,Home,Morse Ltd,True
+1644,Fashion,"Austin, Watson and Hill",True
+1645,Home,"Bird, Lopez and Murillo",True
+1646,Fashion,Hernandez Group,False
+1647,Home,"Wright, Torres and Harris",False
+1648,Books,Campbell-Spears,True
+1649,Electronics,"Burch, Jones and White",False
+1650,Fashion,"Brown, Moore and Mendez",False
+1651,Home,"Wright, Townsend and Salazar",True
+1652,Home,Morgan-Evans,True
+1653,Home,Taylor-Atkinson,True
+1654,Books,"Evans, Hunter and Powers",True
+1655,Fashion,Mosley Ltd,False
+1656,Electronics,"Morris, Wright and Powell",True
+1657,Fashion,Schultz Ltd,True
+1658,Books,"Hubbard, Hoffman and Figueroa",False
+1659,Electronics,Moran Inc,True
+1660,Electronics,Garcia and Sons,True
+1661,Books,Davis Inc,True
+1662,Books,Watson-Lopez,False
+1663,Fashion,"Rowe, House and Summers",False
+1664,Home,"Jackson, Ramos and Costa",True
+1665,Fashion,"Williams, Harrison and Johnson",False
+1666,Books,Keller Inc,True
+1667,Fashion,Graham-Shaffer,False
+1668,Fashion,Jimenez Ltd,True
+1669,Home,"Chase, Miller and Lewis",False
+1670,Home,"Harper, Rivera and Moreno",True
+1671,Books,Giles PLC,True
+1672,Books,Graham PLC,True
+1673,Fashion,Hess-Carroll,False
+1674,Fashion,Jones-Yates,True
+1675,Home,Hudson Ltd,True
+1676,Home,Gibson Group,True
+1677,Home,Jones-Page,True
+1678,Books,Knight and Sons,True
+1679,Fashion,Johnson and Sons,False
+1680,Home,Doyle-Sparks,True
+1681,Home,Barnes Inc,False
+1682,Home,Jensen-Bell,True
+1683,Books,Jones-Anderson,True
+1684,Fashion,King-Burns,True
+1685,Home,"Johnson, Shaffer and Mcintosh",False
+1686,Books,Conley Ltd,True
+1687,Fashion,Greene Group,False
+1688,Electronics,King-Torres,False
+1689,Home,"Moore, Montoya and Garcia",True
+1690,Electronics,Thomas Group,False
+1691,Electronics,Mayo-Davis,True
+1692,Fashion,Mckinney PLC,True
+1693,Electronics,Warner-Howard,False
+1694,Home,Cruz Ltd,True
+1695,Books,"Carpenter, Bailey and Jackson",False
+1696,Fashion,"Aguilar, Adams and Ross",True
+1697,Home,Hill PLC,True
+1698,Books,Avila-Rivera,True
+1699,Home,"Arnold, Robbins and Braun",False
+1700,Fashion,Smith Ltd,True
+1701,Home,"Ramirez, Dickerson and Miller",False
+1702,Home,Porter PLC,False
+1703,Fashion,Powell-Martinez,False
+1704,Electronics,"Perez, Weaver and Aguilar",True
+1705,Home,Salinas Ltd,True
+1706,Books,Shaw LLC,False
+1707,Books,Montgomery-Dixon,True
+1708,Electronics,Johnson-Ponce,False
+1709,Home,"Browning, Walker and Johnson",False
+1710,Fashion,Shelton PLC,True
+1711,Electronics,Gray LLC,False
+1712,Fashion,"Ford, Whitney and Flores",False
+1713,Books,Farley-Sanders,True
+1714,Home,Trevino PLC,True
+1715,Home,Jones-Anderson,False
+1716,Books,Griffith-Gardner,False
+1717,Electronics,Garcia PLC,True
+1718,Books,"Moore, Baldwin and Elliott",False
+1719,Electronics,Fisher PLC,False
+1720,Books,"Walker, Johnson and Hawkins",False
+1721,Home,Scott-Lutz,False
+1722,Electronics,"Williams, Webster and Smith",False
+1723,Home,Mitchell-Boyer,False
+1724,Books,"Brown, Daniels and Daugherty",True
+1725,Fashion,Mahoney PLC,True
+1726,Fashion,Scott-Wiley,False
+1727,Fashion,Brown LLC,True
+1728,Home,Stone Inc,True
+1729,Electronics,"Downs, Newton and Cardenas",True
+1730,Books,"Perkins, Thomas and Crawford",True
+1731,Electronics,Bush PLC,True
+1732,Electronics,"Smith, Smith and Medina",False
+1733,Books,Jones-Prince,True
+1734,Fashion,Jensen-Howard,False
+1735,Fashion,Hurley-Prince,False
+1736,Electronics,George-Young,True
+1737,Home,Gonzalez LLC,True
+1738,Electronics,"Hernandez, Smith and Vang",True
+1739,Books,Kirby and Sons,True
+1740,Fashion,Meza LLC,True
+1741,Fashion,Bond Inc,True
+1742,Books,Atkinson and Sons,True
+1743,Home,"Brown, Wright and Campos",True
+1744,Fashion,"Dawson, Hamilton and Munoz",False
+1745,Home,"Reeves, Joyce and Villa",False
+1746,Fashion,Farrell Ltd,True
+1747,Home,Stephens Inc,True
+1748,Fashion,Schmidt-King,False
+1749,Fashion,"Jones, Kemp and Nichols",True
+1750,Fashion,"Mitchell, Hamilton and Berry",True
+1751,Fashion,"Montoya, Kennedy and Perez",True
+1752,Electronics,Rose-Calderon,True
+1753,Electronics,Grant Ltd,True
+1754,Fashion,"Williams, Hogan and Henry",False
+1755,Fashion,Miller-Thompson,True
+1756,Home,"Baker, Harris and Johnson",True
+1757,Home,Brown and Sons,True
+1758,Books,"Smith, Perez and Lester",True
+1759,Fashion,Harris LLC,False
+1760,Fashion,"Strong, Garcia and Cunningham",True
+1761,Home,Burns-Montoya,False
+1762,Electronics,Savage-Webb,False
+1763,Books,Santana-Cook,True
+1764,Home,Caldwell-Maynard,False
+1765,Books,Cole-Thomas,False
+1766,Books,"Alexander, Brown and Miller",False
+1767,Electronics,"Leonard, Henry and Johnson",False
+1768,Books,Williams Ltd,False
+1769,Fashion,"Mcpherson, Baker and Ortiz",False
+1770,Electronics,Davis-Green,False
+1771,Electronics,Park and Sons,True
+1772,Electronics,Adams LLC,False
+1773,Electronics,Dunn Group,True
+1774,Books,Hall-Pierce,True
+1775,Fashion,Watson PLC,False
+1776,Electronics,Hess-Hardy,True
+1777,Books,"Mcdonald, Tyler and Ellison",True
+1778,Electronics,Haley-Stephens,False
+1779,Books,Smith Inc,False
+1780,Fashion,Reyes-Wagner,False
+1781,Electronics,Cook-Gay,False
+1782,Fashion,White Inc,False
+1783,Fashion,Edwards-Charles,True
+1784,Home,Cantu-Villanueva,False
+1785,Books,"Cherry, Macias and Reid",False
+1786,Books,"Spencer, Smith and Ward",True
+1787,Fashion,Morris Group,False
+1788,Fashion,Green-Ballard,True
+1789,Electronics,Mcgee-Chan,False
+1790,Books,Gonzales Group,True
+1791,Fashion,Butler-Everett,True
+1792,Fashion,Miles-Powers,True
+1793,Fashion,Smith Ltd,True
+1794,Electronics,Oneal-Mclaughlin,True
+1795,Home,Burton Group,True
+1796,Fashion,"Nguyen, Barnes and Velasquez",True
+1797,Home,Archer-Harris,True
+1798,Books,Dixon Ltd,True
+1799,Books,"Ortiz, Smith and Perry",True
+1800,Home,"Brown, Cannon and Roach",True
+1801,Electronics,"Barnett, Douglas and Jenkins",False
+1802,Home,Quinn-Ortiz,True
+1803,Fashion,Brown-Lopez,False
+1804,Home,"Moody, Gross and White",True
+1805,Fashion,Harris Ltd,True
+1806,Home,"Wood, Ho and Small",False
+1807,Books,"Walker, Watkins and Smith",False
+1808,Electronics,Greene and Sons,True
+1809,Fashion,Castro-Miller,False
+1810,Electronics,Flores-Johnson,False
+1811,Books,Banks-Lozano,True
+1812,Fashion,Aguirre LLC,True
+1813,Books,Dalton-Browning,False
+1814,Electronics,Patterson-Gregory,False
+1815,Fashion,Booth-Mckenzie,False
+1816,Fashion,Nguyen-York,True
+1817,Books,Lynn PLC,False
+1818,Electronics,Ramos-Owens,True
+1819,Home,"Brown, Garza and Grant",True
+1820,Electronics,Thompson-Kim,False
+1821,Home,Green-Wallace,False
+1822,Home,Simmons-Palmer,False
+1823,Electronics,"Chandler, Watts and Ruiz",True
+1824,Home,Green-Patterson,False
+1825,Fashion,"Cruz, Powell and Morris",True
+1826,Fashion,"Bonilla, Morris and Floyd",True
+1827,Electronics,"Lindsey, Potter and Aguilar",True
+1828,Books,Greene-Shah,True
+1829,Books,"Patrick, Brown and James",True
+1830,Books,"Wright, Mathis and Chapman",False
+1831,Home,Tran-Ramirez,False
+1832,Books,"Castillo, Raymond and Dalton",False
+1833,Books,Manning-Mitchell,False
+1834,Fashion,"Baker, Pittman and Chaney",True
+1835,Home,Bradley Group,True
+1836,Home,"Allen, Smith and Chavez",False
+1837,Home,Long PLC,True
+1838,Books,Ewing-Chung,True
+1839,Fashion,Martinez Inc,False
+1840,Electronics,Pham and Sons,True
+1841,Home,Mercado and Sons,True
+1842,Home,"Jones, Martinez and Harrison",False
+1843,Electronics,Fletcher PLC,True
+1844,Electronics,Pope-Rogers,False
+1845,Home,Coffey and Sons,False
+1846,Fashion,Gregory Group,False
+1847,Electronics,Frazier Group,True
+1848,Books,Friedman-Collins,False
+1849,Books,Keller LLC,False
+1850,Electronics,Hernandez Group,False
+1851,Electronics,Lang Inc,False
+1852,Books,"Marshall, Butler and Yang",False
+1853,Books,"Abbott, Johnson and Kemp",True
+1854,Fashion,"Martin, Bean and Sanchez",True
+1855,Books,Bowen Group,False
+1856,Fashion,Murphy Inc,False
+1857,Home,Ward-Arnold,True
+1858,Fashion,Hall-Martinez,True
+1859,Books,"Davis, Leon and Daniels",False
+1860,Home,"Wilson, Greene and Torres",True
+1861,Fashion,"Carter, Thomas and Parks",False
+1862,Electronics,Reed-Rodriguez,False
+1863,Fashion,Proctor-Vincent,False
+1864,Electronics,"Ferguson, Sims and Barnes",True
+1865,Books,Mclaughlin-Armstrong,True
+1866,Home,"Roberson, Craig and Richardson",True
+1867,Home,Wright-Clark,True
+1868,Electronics,"Hill, Garcia and Singh",True
+1869,Electronics,"Moore, Singh and Hoffman",False
+1870,Books,French and Sons,True
+1871,Electronics,Hartman Ltd,False
+1872,Fashion,Acosta-Rojas,True
+1873,Fashion,Wong-Butler,True
+1874,Home,Santos-Watson,True
+1875,Books,"Phillips, Rivera and Booth",False
+1876,Books,Tucker PLC,False
+1877,Books,Johnson and Sons,False
+1878,Electronics,"Sanchez, Bradley and Arroyo",False
+1879,Books,Johnson Group,False
+1880,Home,Carlson-Haas,False
+1881,Fashion,"Ramirez, Taylor and Rowland",False
+1882,Fashion,Ramos-Curry,True
+1883,Books,"Henry, Jimenez and Mcdonald",True
+1884,Books,Jackson Group,True
+1885,Electronics,Tucker-Leach,True
+1886,Electronics,Mckay Inc,True
+1887,Fashion,"Ballard, Davidson and Ramos",False
+1888,Home,Ruiz LLC,True
+1889,Home,Heath-Lewis,False
+1890,Home,"Bryant, Ross and Stewart",True
+1891,Electronics,Johnson Ltd,True
+1892,Books,Weber-Francis,False
+1893,Electronics,"Martinez, Thompson and Navarro",True
+1894,Home,Marquez-Jennings,False
+1895,Electronics,Carpenter and Sons,True
+1896,Electronics,"Smith, Haley and Tyler",False
+1897,Fashion,Ford-Cole,True
+1898,Electronics,Gonzalez-Atkinson,False
+1899,Fashion,Brown-Wright,True
+1900,Home,Williams-Mclaughlin,True
+1901,Electronics,"Rogers, White and Barrett",False
+1902,Home,Cooper-Little,True
+1903,Home,"Newman, Jacobs and Ford",True
+1904,Fashion,Ellison Ltd,True
+1905,Electronics,Small-Cardenas,False
+1906,Electronics,Smith Inc,False
+1907,Fashion,Perez-Meza,True
+1908,Electronics,Newton LLC,False
+1909,Home,Mclean-Kelley,True
+1910,Fashion,White-Kane,True
+1911,Home,"Diaz, Thomas and Avila",False
+1912,Home,Carr-Gross,True
+1913,Books,Bryant-Taylor,False
+1914,Electronics,Santos-Gonzalez,False
+1915,Books,"Mays, Perez and Griffin",False
+1916,Electronics,Rose-Hicks,False
+1917,Electronics,"Watts, Davis and Brooks",False
+1918,Fashion,Hernandez-Jones,False
+1919,Electronics,"Meyer, Hicks and Schmidt",False
+1920,Books,Baker LLC,True
+1921,Home,Owen Group,True
+1922,Home,Mooney-Wood,True
+1923,Books,Whitehead-Hopkins,False
+1924,Electronics,Pennington Group,True
+1925,Electronics,Peters-Lee,False
+1926,Fashion,"Carr, Jackson and Snow",False
+1927,Electronics,Livingston Inc,True
+1928,Home,Richardson Group,True
+1929,Electronics,Garcia-Morris,True
+1930,Books,Kennedy PLC,True
+1931,Books,Smith LLC,True
+1932,Home,Phillips Inc,True
+1933,Home,"Cantrell, Barton and Conner",True
+1934,Home,Hardy-Robertson,True
+1935,Electronics,Jones Ltd,False
+1936,Electronics,"Frank, Clark and Castillo",False
+1937,Home,Mcclain-Hayes,True
+1938,Home,Rodriguez Ltd,False
+1939,Fashion,Allen Inc,False
+1940,Home,Stone-Phelps,True
+1941,Electronics,Williams PLC,True
+1942,Books,Lee Group,True
+1943,Books,Mcintyre-Maxwell,True
+1944,Fashion,Johnston-Zamora,True
+1945,Electronics,"Tran, Lane and Pugh",False
+1946,Fashion,Gray LLC,False
+1947,Electronics,Munoz Ltd,False
+1948,Home,"Moore, Brady and Boyle",True
+1949,Home,Fields-Campbell,True
+1950,Books,Coleman-Bentley,True
+1951,Books,"Blair, Powell and Freeman",True
+1952,Home,"Gonzalez, Clark and Briggs",True
+1953,Fashion,Prince and Sons,False
+1954,Electronics,"Williams, Beasley and Ferguson",True
+1955,Electronics,Hood-Barrera,True
+1956,Electronics,"Sanchez, Stein and Myers",True
+1957,Home,Hawkins Inc,True
+1958,Electronics,Fernandez-Scott,True
+1959,Fashion,"Johnson, Snyder and Sandoval",False
+1960,Electronics,Smith and Sons,True
+1961,Fashion,"Gonzalez, Holmes and Hill",False
+1962,Home,"Williams, Lynn and Thomas",True
+1963,Home,"Mejia, Gross and Myers",False
+1964,Fashion,Wilkerson-Olson,False
+1965,Home,Young Ltd,True
+1966,Home,"Smith, Velasquez and Miranda",False
+1967,Electronics,"Stewart, Johnson and Dawson",True
+1968,Books,Crosby Group,False
+1969,Home,"Fuller, Lynch and Vaughn",True
+1970,Books,"Green, Hensley and Anderson",True
+1971,Books,Hudson-Randolph,False
+1972,Books,"Goodwin, Cline and Smith",False
+1973,Electronics,Miles Group,True
+1974,Electronics,Schmidt Inc,False
+1975,Electronics,Schultz-Mercer,True
+1976,Fashion,Franklin-Miller,False
+1977,Fashion,Smith-Martin,False
+1978,Fashion,Guerrero Inc,True
+1979,Books,Perez-Page,False
+1980,Books,Taylor-Brown,False
+1981,Fashion,Lee-Peterson,False
+1982,Books,Weeks-Guerrero,False
+1983,Electronics,Marquez and Sons,True
+1984,Books,Mccall-Heath,True
+1985,Fashion,"Mitchell, Mcbride and Griffith",False
+1986,Electronics,Stone-Collins,True
+1987,Home,Green-Davis,True
+1988,Fashion,Reed-Richards,True
+1989,Electronics,Eaton-Newman,False
+1990,Books,Brown-Jones,True
+1991,Electronics,Massey-Coleman,True
+1992,Fashion,Pierce-Morrow,False
+1993,Books,Wilkinson PLC,True
+1994,Books,Cruz-Benson,True
+1995,Electronics,Castaneda LLC,True
+1996,Books,Ayers-Wilcox,True
+1997,Home,Thomas Inc,True
+1998,Fashion,Francis-Gordon,False
+1999,Books,Rios Group,True
+2000,Books,"Arellano, Jones and Jacobs",False
+2001,Electronics,"Larsen, Harrison and Moore",True
+2002,Electronics,Martinez Group,False
+2003,Electronics,Clark Ltd,True
+2004,Electronics,Casey-Brown,True
+2005,Books,Madden and Sons,False
+2006,Books,Mueller PLC,True
+2007,Books,"Brewer, Reeves and Peters",True
+2008,Books,Scott PLC,True
+2009,Fashion,Smith-Rodriguez,True
+2010,Home,"Russell, Caldwell and Davis",True
+2011,Books,"Martinez, Allen and Mendez",False
+2012,Books,"Wilson, Kelly and Gardner",False
+2013,Books,Lang-Yates,True
+2014,Home,"Lewis, Ramirez and Kidd",False
+2015,Electronics,Freeman-Ballard,True
+2016,Electronics,"Pope, Kane and Moore",False
+2017,Electronics,"Olson, Henry and Arellano",True
+2018,Fashion,"Graham, Cooper and Odonnell",True
+2019,Books,"Ryan, Bean and Moreno",True
+2020,Home,"Lewis, Martin and Valdez",True
+2021,Electronics,Landry and Sons,False
+2022,Home,Reyes PLC,False
+2023,Home,"Nixon, Horton and Jones",False
+2024,Electronics,Wright-Peters,False
+2025,Electronics,"Petersen, Caldwell and Phillips",True
+2026,Home,Swanson-Miller,True
+2027,Books,"Mann, Collins and Smith",True
+2028,Books,Montoya Inc,True
+2029,Home,Clarke-Miller,True
+2030,Fashion,Costa Group,True
+2031,Books,Robinson and Sons,False
+2032,Electronics,Johns-Hernandez,True
+2033,Electronics,"Payne, Evans and Gutierrez",False
+2034,Fashion,Vincent-Lucero,False
+2035,Books,"Clark, Olson and Anderson",False
+2036,Electronics,Decker-Paul,True
+2037,Fashion,"Martinez, Lynch and Lopez",True
+2038,Books,Baker-Adams,False
+2039,Home,Baxter-Cross,True
+2040,Electronics,"Thomas, Lopez and Nichols",False
+2041,Books,Hahn-Davis,False
+2042,Home,Nelson Group,False
+2043,Electronics,Taylor PLC,True
+2044,Home,Ellis and Sons,True
+2045,Books,Walsh-Gonzales,False
+2046,Fashion,Hernandez-Davis,True
+2047,Home,Carroll-Salazar,False
+2048,Home,Leach-Hampton,True
+2049,Fashion,Parks-Huynh,False
+2050,Electronics,"Chandler, Vasquez and Scott",True
+2051,Books,King-Le,True
+2052,Fashion,Warner-Wilson,True
+2053,Fashion,Krause Inc,False
+2054,Books,Gregory-Roberson,False
+2055,Books,Zavala-Miles,False
+2056,Home,Harmon-Wood,False
+2057,Books,"Ross, Mason and Doyle",False
+2058,Fashion,Jacobs-Figueroa,False
+2059,Electronics,Joseph and Sons,False
+2060,Fashion,"Walsh, Madden and Jones",False
+2061,Books,Murray-Phillips,False
+2062,Fashion,Matthews Ltd,True
+2063,Books,"Lee, Robinson and Love",True
+2064,Electronics,"Carter, Stuart and Johnson",True
+2065,Electronics,Jackson PLC,False
+2066,Electronics,Fuentes-Bennett,True
+2067,Fashion,"Floyd, Taylor and Perez",False
+2068,Electronics,Hampton-Golden,True
+2069,Electronics,Ray Group,True
+2070,Fashion,"Cox, Brown and Martinez",True
+2071,Electronics,Bell-Young,True
+2072,Fashion,"Wells, Stewart and Allen",False
+2073,Electronics,Bernard-Lang,False
+2074,Electronics,"Ortiz, Morales and Meyer",True
+2075,Books,"Thompson, Brady and Harding",False
+2076,Books,"Vincent, Conner and Gonzalez",False
+2077,Electronics,Harris Group,False
+2078,Books,Howard-Floyd,True
+2079,Electronics,Walter-Cruz,False
+2080,Books,"Sherman, Wilson and Gordon",False
+2081,Home,Ramirez Group,False
+2082,Electronics,Olson PLC,False
+2083,Fashion,Cook-Grant,False
+2084,Books,Brown and Sons,True
+2085,Books,Summers LLC,True
+2086,Fashion,Jones-Johnson,True
+2087,Books,Smith Ltd,False
+2088,Fashion,Mckinney-Davis,False
+2089,Electronics,"Lopez, Simmons and Young",True
+2090,Home,Rodriguez Inc,False
+2091,Electronics,Lopez PLC,True
+2092,Books,Perry-Ballard,True
+2093,Fashion,"Martin, Smith and Peters",False
+2094,Books,"Martinez, Rodriguez and Calderon",False
+2095,Home,Woodard-Munoz,True
+2096,Electronics,"Hernandez, Ochoa and Lindsey",False
+2097,Books,Frazier Inc,False
+2098,Home,"Chambers, Brock and Peterson",True
+2099,Fashion,Thomas-Webb,False
+2100,Home,"Wells, Wall and Simpson",False
+2101,Fashion,"Weeks, Gray and Smith",True
+2102,Electronics,"Carlson, Espinoza and Perez",True
+2103,Fashion,"Rivera, Charles and Hayes",False
+2104,Books,"Hogan, Madden and Rhodes",False
+2105,Electronics,Woodward Ltd,False
+2106,Home,"Thomas, Lee and Hansen",False
+2107,Fashion,"Ross, Nguyen and West",True
+2108,Books,"Braun, Berry and Higgins",True
+2109,Books,Hodges-Hopkins,True
+2110,Electronics,Roberts-Garza,False
+2111,Books,Daniels Ltd,False
+2112,Fashion,Hernandez-Elliott,False
+2113,Home,Sullivan PLC,False
+2114,Books,Simmons-Jackson,True
+2115,Electronics,Cardenas-Lawson,True
+2116,Home,Wilson Group,True
+2117,Electronics,Merritt Inc,True
+2118,Fashion,"Watson, Bates and Benson",False
+2119,Fashion,"Garza, Little and Reese",False
+2120,Home,Flowers LLC,True
+2121,Fashion,"Johnson, Blackburn and Hunt",False
+2122,Books,Valdez Inc,True
+2123,Home,Jones and Sons,True
+2124,Fashion,"Boyer, Deleon and Clark",True
+2125,Books,Johnson Group,False
+2126,Books,Brown LLC,True
+2127,Books,Larson and Sons,True
+2128,Electronics,Gomez-Edwards,True
+2129,Books,Hicks Group,False
+2130,Home,Payne Inc,False
+2131,Fashion,"Paul, Mitchell and Aguilar",False
+2132,Fashion,"Gonzalez, Parker and Roberts",False
+2133,Books,Lambert Group,False
+2134,Fashion,Hanson and Sons,True
+2135,Home,Wilkinson Inc,False
+2136,Electronics,Castro and Sons,False
+2137,Home,Wallace-Parker,False
+2138,Electronics,Moore-Moreno,True
+2139,Books,Harris-Adams,True
+2140,Fashion,"Turner, Reynolds and Edwards",False
+2141,Books,Hernandez-Preston,False
+2142,Electronics,"Wright, Edwards and Moore",True
+2143,Home,Sweeney PLC,False
+2144,Books,"Walter, Arias and Cohen",True
+2145,Fashion,Sherman-Murphy,False
+2146,Home,Moon-Hensley,True
+2147,Fashion,"Mendoza, Watson and Taylor",True
+2148,Electronics,Hayes and Sons,False
+2149,Fashion,Burke-Spence,True
+2150,Books,Warner Inc,True
+2151,Books,Morrow-Pena,True
+2152,Electronics,King-Abbott,False
+2153,Books,Anderson Ltd,False
+2154,Electronics,Miller Ltd,True
+2155,Home,Morales-Yoder,True
+2156,Fashion,Klein Inc,True
+2157,Home,Mcfarland-Chen,False
+2158,Electronics,Lee and Sons,True
+2159,Fashion,"Blackburn, Roy and Wilson",False
+2160,Home,Lyons and Sons,False
+2161,Electronics,Mooney Group,True
+2162,Fashion,Dawson-Johnston,False
+2163,Electronics,Steele Inc,False
+2164,Books,Randall-Atkinson,False
+2165,Fashion,Harrison PLC,False
+2166,Electronics,Vance-Morgan,False
+2167,Home,"Rios, Harvey and Mora",True
+2168,Fashion,Martin LLC,True
+2169,Fashion,Newman LLC,False
+2170,Electronics,"Robles, Arnold and Jones",True
+2171,Books,Hull and Sons,False
+2172,Books,Garcia-Schmidt,False
+2173,Home,Bartlett Ltd,False
+2174,Electronics,Dillon-Wilson,True
+2175,Home,"Reed, Martinez and Carney",True
+2176,Home,Carey Group,False
+2177,Books,"Russell, Campbell and Smith",True
+2178,Fashion,Duncan-Phillips,False
+2179,Books,Mckenzie LLC,True
+2180,Fashion,Gallegos-Salinas,False
+2181,Electronics,Phillips-Brown,False
+2182,Fashion,Alvarez-Boone,False
+2183,Books,Cooper-Cunningham,False
+2184,Electronics,"Schultz, Reyes and Taylor",False
+2185,Electronics,Mercer Ltd,False
+2186,Fashion,Carney Ltd,True
+2187,Home,"Potter, Bond and Briggs",False
+2188,Books,"Ayala, Williams and Lee",True
+2189,Home,"Sanchez, Sampson and Glover",True
+2190,Home,"Gonzalez, Oconnor and Howard",True
+2191,Books,"Greene, Spears and Alexander",False
+2192,Home,"Reeves, Cox and Watson",True
+2193,Books,Walsh-Brown,True
+2194,Books,"Burton, Pittman and Coleman",False
+2195,Books,Bishop-Rodriguez,False
+2196,Fashion,Sanchez Inc,True
+2197,Books,"Burch, Barnes and Middleton",True
+2198,Home,"Payne, Harris and Chandler",False
+2199,Electronics,"Newman, Smith and Harvey",True
+2200,Books,"Mahoney, Rios and Kent",False
+2201,Electronics,"Wilson, Evans and Chavez",False
+2202,Home,Lopez-Cooper,True
+2203,Electronics,Montoya-Dixon,True
+2204,Fashion,Villa Group,False
+2205,Books,Mccullough-Rodriguez,True
+2206,Home,Farrell-Randolph,False
+2207,Fashion,Humphrey-Hernandez,False
+2208,Fashion,Johnson Group,False
+2209,Books,Young-Cox,False
+2210,Books,Diaz PLC,False
+2211,Home,Bass-Taylor,True
+2212,Fashion,Smith Group,True
+2213,Home,"Lutz, Barnes and Cox",False
+2214,Electronics,Miranda Ltd,False
+2215,Home,"Huff, Mack and Acosta",True
+2216,Fashion,Roberts-Green,False
+2217,Home,"Johnson, Oconnell and Perez",True
+2218,Fashion,"Holmes, Owen and Hamilton",True
+2219,Books,Chase and Sons,False
+2220,Books,"Gardner, Clark and Murphy",False
+2221,Fashion,Thompson-Tanner,True
+2222,Books,Hubbard-Hill,False
+2223,Home,Hernandez and Sons,False
+2224,Fashion,Ferguson Inc,False
+2225,Home,Davis Group,False
+2226,Home,Ross Inc,False
+2227,Electronics,Reyes Group,True
+2228,Home,"Hernandez, Brown and Riley",True
+2229,Books,"Anderson, Edwards and Andrews",False
+2230,Home,"Gordon, Schmitt and Rodriguez",False
+2231,Fashion,"Wood, Ellison and Taylor",False
+2232,Home,Carpenter-Palmer,True
+2233,Fashion,Roberts-Chan,True
+2234,Home,"Martinez, Johnson and Garcia",False
+2235,Electronics,"Taylor, Wilson and Harris",False
+2236,Home,Herman-Davies,False
+2237,Books,Jackson-Elliott,False
+2238,Home,White-Campbell,True
+2239,Electronics,Mills PLC,True
+2240,Books,Gonzalez Ltd,False
+2241,Fashion,Scott and Sons,False
+2242,Electronics,Simmons-Barton,False
+2243,Fashion,Bauer-Fisher,False
+2244,Fashion,Tucker-Roman,False
+2245,Electronics,"Adams, Miles and Miller",False
+2246,Fashion,Orr LLC,False
+2247,Home,Jones PLC,True
+2248,Electronics,Howard LLC,True
+2249,Books,"Carroll, Eaton and Browning",True
+2250,Home,Johnson-Humphrey,False
+2251,Home,Garza and Sons,True
+2252,Home,Baker Group,True
+2253,Fashion,Smith-Duncan,False
+2254,Electronics,Valdez-Horton,False
+2255,Books,Martin and Sons,False
+2256,Electronics,"Bentley, Lamb and Dennis",False
+2257,Books,"Chapman, Wells and Lopez",True
+2258,Home,Kane-Rodgers,True
+2259,Books,"Jacobs, Dawson and Bass",True
+2260,Home,Thomas-Garcia,False
+2261,Books,Callahan-Stanton,True
+2262,Electronics,Smith PLC,False
+2263,Books,Turner-Harmon,False
+2264,Fashion,Butler-Jones,False
+2265,Electronics,Barber-Collins,False
+2266,Books,Mccarthy-Luna,True
+2267,Books,Glenn-Allen,True
+2268,Electronics,"Williams, Richardson and Moore",False
+2269,Fashion,Freeman LLC,False
+2270,Books,"Gutierrez, Long and Briggs",True
+2271,Fashion,"Silva, Anderson and Harris",False
+2272,Fashion,Phillips Group,True
+2273,Home,"Torres, Lopez and Mora",True
+2274,Fashion,Moran-Mitchell,True
+2275,Electronics,Miller Inc,False
+2276,Books,"Garcia, Collins and Lewis",False
+2277,Electronics,"Brewer, Wright and Winters",False
+2278,Fashion,"Contreras, Bryant and Garcia",False
+2279,Books,Browning and Sons,False
+2280,Books,"Estes, Jones and Scott",False
+2281,Fashion,"Pierce, Carpenter and Jackson",True
+2282,Fashion,"Taylor, Brown and Harris",True
+2283,Home,Harris Ltd,False
+2284,Fashion,Lowery Group,True
+2285,Home,Meyer Ltd,False
+2286,Books,"Dudley, Powell and Blackwell",False
+2287,Books,Guerra and Sons,True
+2288,Books,Harmon Ltd,True
+2289,Books,"Flores, Davis and Green",False
+2290,Electronics,"Bartlett, Stewart and Harris",False
+2291,Home,Quinn Group,False
+2292,Fashion,"Snow, Lane and Pacheco",False
+2293,Books,"Arnold, Curtis and Snyder",False
+2294,Fashion,"Simon, Arnold and Nash",True
+2295,Home,Perez-Molina,True
+2296,Electronics,"Barker, Palmer and Solis",True
+2297,Fashion,Andrews Group,False
+2298,Electronics,Scott-Young,True
+2299,Books,Rodriguez-White,True
+2300,Home,Atkinson and Sons,False
+2301,Home,Smith Group,True
+2302,Home,Rice Group,False
+2303,Electronics,James-Robinson,True
+2304,Home,Vega PLC,False
+2305,Fashion,Clark LLC,True
+2306,Electronics,Daniels PLC,True
+2307,Home,Day-Sparks,True
+2308,Books,Martinez-Stephens,True
+2309,Electronics,Gonzalez-Hill,False
+2310,Electronics,Boyd LLC,False
+2311,Books,"Jennings, Olson and Madden",False
+2312,Books,"Perez, Webster and Wade",True
+2313,Electronics,Rodriguez-Nunez,True
+2314,Electronics,Fry-Kent,False
+2315,Home,Howard LLC,False
+2316,Fashion,Ellison Group,True
+2317,Fashion,Cisneros-Mendoza,False
+2318,Home,Ward-Stuart,True
+2319,Home,Reynolds and Sons,False
+2320,Electronics,Stewart LLC,True
+2321,Home,"Clark, George and Ortega",True
+2322,Fashion,"White, Miller and Kelly",True
+2323,Electronics,"Torres, Thomas and Scott",True
+2324,Electronics,"Jensen, Graves and Fitzpatrick",True
+2325,Home,Marshall Group,False
+2326,Books,Bell-Cummings,False
+2327,Home,Neal-Sandoval,True
+2328,Home,Nguyen-Martin,False
+2329,Books,"Spence, Robinson and Henson",False
+2330,Electronics,"Fleming, Fuentes and Hart",True
+2331,Electronics,Green-Martinez,False
+2332,Electronics,"Brock, Dixon and Turner",False
+2333,Books,"Wallace, Fritz and Allen",True
+2334,Home,"Arroyo, Ellis and Rice",True
+2335,Fashion,Hamilton-Evans,True
+2336,Electronics,Wilson Group,False
+2337,Fashion,Tanner Ltd,False
+2338,Home,Benson-Park,False
+2339,Books,"Johnson, Stevenson and Bernard",True
+2340,Books,"Morris, Winters and Martinez",False
+2341,Fashion,"Strickland, Marshall and Lopez",False
+2342,Books,"Kelley, Harrison and Bradley",True
+2343,Books,"Anderson, Johnson and House",False
+2344,Home,Thompson-Evans,False
+2345,Electronics,Fischer PLC,True
+2346,Books,Savage-Marshall,True
+2347,Fashion,Zuniga LLC,False
+2348,Books,Scott Group,True
+2349,Fashion,Harris PLC,True
+2350,Books,Davis-Ryan,True
+2351,Home,"Cameron, Wood and Hicks",True
+2352,Home,Chambers-Cooke,True
+2353,Fashion,"Cooper, Petty and Martin",True
+2354,Electronics,Phillips-Campbell,True
+2355,Home,"Griffith, Nelson and Gallagher",False
+2356,Home,Robinson-Davis,True
+2357,Home,"Rowe, Hall and Cohen",True
+2358,Books,Villegas-Black,False
+2359,Fashion,Gomez-Watson,True
+2360,Fashion,Brady-Moore,False
+2361,Fashion,Baker-Spears,True
+2362,Electronics,Payne Group,True
+2363,Electronics,Allen-Jackson,True
+2364,Fashion,West LLC,True
+2365,Electronics,"Hawkins, Zamora and Maynard",True
+2366,Home,Burns Ltd,True
+2367,Home,Davis-Ford,False
+2368,Home,"Castro, Henry and Ali",False
+2369,Books,Daniels Inc,True
+2370,Books,Ryan Group,True
+2371,Books,"Allen, Jennings and Delgado",True
+2372,Fashion,Andrews Group,True
+2373,Home,Cruz-James,True
+2374,Electronics,Malone Group,False
+2375,Home,Clark Ltd,False
+2376,Electronics,Moore-Huffman,True
+2377,Fashion,Torres-Ramsey,True
+2378,Home,Berry-Porter,True
+2379,Fashion,Sutton-Montoya,False
+2380,Electronics,"Payne, Lewis and White",False
+2381,Books,"Russell, Smith and Wagner",False
+2382,Fashion,"Jacobs, Vincent and Jimenez",True
+2383,Electronics,Ramos-Jackson,True
+2384,Electronics,"Washington, Lopez and Petersen",False
+2385,Home,Santana-Schaefer,False
+2386,Fashion,"Barnett, Clark and Payne",True
+2387,Books,"Ramirez, Nelson and Hill",True
+2388,Books,Curtis-Parker,True
+2389,Electronics,"Reid, Sandoval and Gibbs",True
+2390,Books,Fox Inc,False
+2391,Electronics,"Vasquez, Mitchell and Warner",False
+2392,Books,Cooper LLC,False
+2393,Fashion,Myers LLC,True
+2394,Home,Smith Group,False
+2395,Fashion,West Inc,False
+2396,Electronics,Carney Ltd,True
+2397,Electronics,Jones-Hatfield,False
+2398,Electronics,"Baldwin, Gonzales and Smith",True
+2399,Electronics,Avila-Patterson,False
+2400,Fashion,Coleman-Bryan,False
+2401,Electronics,Lee PLC,False
+2402,Home,Santiago-Maldonado,True
+2403,Home,Meyers-Calderon,False
+2404,Fashion,Welch-Lawrence,False
+2405,Books,"Haas, Greene and Perez",True
+2406,Fashion,Peters PLC,True
+2407,Electronics,Rodriguez PLC,False
+2408,Electronics,"Gordon, Weber and Howard",True
+2409,Home,"Arroyo, Moore and Oliver",True
+2410,Home,Gonzalez PLC,True
+2411,Electronics,Buck-Morrison,False
+2412,Fashion,Gonzalez-Parker,True
+2413,Home,Jenkins-Williams,False
+2414,Fashion,Vasquez-Blake,False
+2415,Electronics,Leon LLC,False
+2416,Books,Morrison PLC,True
+2417,Home,"Rodriguez, Sullivan and Collins",False
+2418,Home,"Pierce, Mcdowell and Miller",False
+2419,Home,Carrillo-Santos,False
+2420,Electronics,Morrison-Holmes,False
+2421,Fashion,Martin-Clark,True
+2422,Home,"Johnson, Davis and Baker",True
+2423,Home,"Simpson, Anderson and Brown",False
+2424,Home,Velasquez LLC,True
+2425,Electronics,"Glover, Diaz and Fleming",True
+2426,Home,Orozco Inc,True
+2427,Electronics,"Jackson, Coffey and Higgins",True
+2428,Fashion,Turner LLC,True
+2429,Books,"Lewis, Davis and Lang",False
+2430,Books,Carter PLC,False
+2431,Electronics,Jackson-Salazar,False
+2432,Fashion,Robinson Group,True
+2433,Home,Watkins-Gibbs,False
+2434,Electronics,"Bell, Tucker and Brooks",False
+2435,Fashion,"Vazquez, Robinson and Taylor",False
+2436,Fashion,Holmes LLC,True
+2437,Electronics,Smith-Foster,True
+2438,Home,"Sullivan, Velasquez and Baker",False
+2439,Books,"Green, Young and Meyers",True
+2440,Electronics,Miller LLC,True
+2441,Books,Gilbert-Patterson,True
+2442,Fashion,"Thomas, Davis and Palmer",False
+2443,Books,Thomas Inc,True
+2444,Electronics,Robinson Group,True
+2445,Electronics,"Grant, Robertson and Santos",False
+2446,Books,"Turner, Brown and Carter",False
+2447,Home,Butler LLC,True
+2448,Electronics,Hebert-Brown,False
+2449,Home,Barry Inc,False
+2450,Electronics,"Brown, Randolph and Galloway",True
+2451,Home,Ferguson Inc,True
+2452,Home,Garner and Sons,True
+2453,Home,Preston PLC,True
+2454,Home,Conway Inc,True
+2455,Electronics,Smith-Mendez,True
+2456,Fashion,Moore-Alvarado,False
+2457,Electronics,Carter LLC,False
+2458,Electronics,Richardson-Knight,True
+2459,Electronics,King Ltd,False
+2460,Home,Mendez-Miller,False
+2461,Electronics,"Cohen, Burnett and Rosales",True
+2462,Fashion,Alvarez-Roach,False
+2463,Electronics,Osborne PLC,True
+2464,Home,Kramer-Moran,False
+2465,Fashion,Silva Group,False
+2466,Home,"Rodgers, Shaffer and Morales",True
+2467,Books,Ayers LLC,True
+2468,Home,"Freeman, Williams and Johnson",False
+2469,Books,"Ramos, Summers and Carr",True
+2470,Home,"Harvey, Jackson and Estrada",False
+2471,Electronics,"Miller, Freeman and Torres",True
+2472,Books,"Lee, Munoz and Thomas",True
+2473,Electronics,"Larsen, Acosta and Jackson",True
+2474,Fashion,"Baxter, May and Smith",True
+2475,Electronics,Wiley-Horton,False
+2476,Fashion,"Murphy, Dominguez and Sanders",False
+2477,Electronics,Acevedo-Donovan,False
+2478,Books,Hubbard LLC,True
+2479,Electronics,"Hughes, Hamilton and Parsons",True
+2480,Home,Wolfe PLC,True
+2481,Fashion,Rogers and Sons,False
+2482,Electronics,"Johnson, Nelson and Mcguire",False
+2483,Home,"Petty, Diaz and Hamilton",True
+2484,Books,"Morales, Palmer and Fields",True
+2485,Fashion,"Parker, Wells and Greene",True
+2486,Books,Potter-Johnson,False
+2487,Home,"Brown, Nunez and Miller",True
+2488,Electronics,Mcdonald Inc,True
+2489,Electronics,"Gilbert, Warren and Griffin",True
+2490,Fashion,Carpenter Ltd,True
+2491,Fashion,Smith and Sons,True
+2492,Electronics,Howard Ltd,False
+2493,Books,Fox-Byrd,False
+2494,Home,"Flores, Griffith and Lucero",False
+2495,Books,Odom-Johnson,False
+2496,Fashion,Pace-Torres,True
+2497,Fashion,Arroyo LLC,True
+2498,Books,Campbell PLC,False
+2499,Electronics,"Ortiz, Turner and Johnson",False
+2500,Fashion,Boone Group,False
+2501,Home,"Flores, Gray and Steele",False
+2502,Fashion,"Costa, Johnson and Whitney",True
+2503,Electronics,Savage Group,False
+2504,Home,Edwards Inc,True
+2505,Home,Hudson-Bennett,True
+2506,Electronics,Moore-Smith,False
+2507,Home,Flores-Elliott,True
+2508,Home,"Thompson, James and Crawford",True
+2509,Electronics,Werner-Higgins,False
+2510,Fashion,Williams-Leonard,False
+2511,Fashion,"Wright, Sanchez and Wu",False
+2512,Books,"Bailey, Carson and Shaw",False
+2513,Fashion,Jones-Brown,True
+2514,Electronics,Lee-Jordan,False
+2515,Fashion,Hardin Inc,False
+2516,Home,Anderson-Davis,True
+2517,Electronics,"Marsh, Patel and Soto",False
+2518,Electronics,Allen and Sons,False
+2519,Books,Carson Ltd,True
+2520,Home,Obrien Group,False
+2521,Home,Miller Inc,True
+2522,Home,"Rojas, Smith and Smith",False
+2523,Home,Cruz-Scott,True
+2524,Books,"Patterson, Mccall and Coffey",False
+2525,Fashion,"Elliott, Murray and Thomas",False
+2526,Fashion,"Tucker, Molina and Gonzalez",True
+2527,Electronics,Garcia-Kramer,False
+2528,Fashion,"Strickland, Flores and Shaw",True
+2529,Home,Powell PLC,True
+2530,Home,Tapia Group,False
+2531,Fashion,"Knox, Holden and Christensen",True
+2532,Fashion,"Smith, Salas and Lopez",True
+2533,Fashion,Hood-Monroe,True
+2534,Books,"Guzman, Oneal and Harris",True
+2535,Books,"Gonzalez, Hammond and Coleman",False
+2536,Electronics,Watts-Dodson,True
+2537,Home,Ellis LLC,True
+2538,Electronics,Simmons-Garcia,False
+2539,Home,Edwards-Ball,False
+2540,Electronics,"Henderson, Cruz and Stevens",True
+2541,Electronics,Mckinney-Davis,False
+2542,Home,Oliver LLC,False
+2543,Fashion,Reeves Inc,False
+2544,Fashion,James-Vaughan,True
+2545,Fashion,Howard-Andrews,True
+2546,Fashion,Coleman-Sims,False
+2547,Electronics,"Bolton, Weaver and Lewis",True
+2548,Electronics,Duarte PLC,True
+2549,Electronics,Schroeder-Boyer,True
+2550,Fashion,Mack-Thomas,True
+2551,Home,Frey-Reed,False
+2552,Home,"Gomez, Smith and Bowman",False
+2553,Fashion,French-Adams,True
+2554,Home,Lewis Inc,True
+2555,Books,Moore and Sons,False
+2556,Electronics,"Miller, Lopez and Hogan",False
+2557,Home,"Morris, Dunn and Houston",True
+2558,Fashion,Burns-Gibson,False
+2559,Books,Owens Ltd,True
+2560,Fashion,Santiago-Morris,False
+2561,Electronics,Hall Inc,False
+2562,Books,Price and Sons,False
+2563,Books,Montgomery-Keller,False
+2564,Fashion,Ramirez-Jones,False
+2565,Books,"Rhodes, Miller and Delgado",False
+2566,Home,Allen PLC,True
+2567,Electronics,Smith Inc,True
+2568,Home,Kelley LLC,True
+2569,Books,"Castaneda, Roberts and Miller",False
+2570,Home,"Perez, Brown and Green",False
+2571,Books,"West, Myers and Hudson",True
+2572,Books,"Henderson, Webb and Miller",False
+2573,Fashion,"Crawford, Wilson and Johnson",True
+2574,Books,Smith Inc,True
+2575,Electronics,Chen-Lee,False
+2576,Electronics,"Lucas, Jennings and Barrett",True
+2577,Home,"Smith, Powers and May",False
+2578,Home,Lopez-Peters,True
+2579,Home,Holland-Zimmerman,True
+2580,Fashion,Cooper-Cook,True
+2581,Electronics,"Harrison, Porter and Reid",True
+2582,Fashion,Davis-Williams,False
+2583,Electronics,"Roberts, Jackson and Martinez",False
+2584,Fashion,"Barnes, Marquez and Becker",True
+2585,Home,Schneider-Simmons,True
+2586,Fashion,Garcia-Ramirez,True
+2587,Fashion,"Bates, Jordan and Romero",True
+2588,Home,Stewart PLC,True
+2589,Fashion,Alexander-Thompson,True
+2590,Books,"Nixon, Williams and Hill",True
+2591,Books,"Gardner, Proctor and Wilson",False
+2592,Books,Cole-Buchanan,False
+2593,Home,Hernandez-Pacheco,False
+2594,Books,"Abbott, Rodriguez and Orozco",True
+2595,Books,Larsen-Raymond,True
+2596,Electronics,Cook-Dalton,False
+2597,Electronics,"Wagner, Rose and Rhodes",True
+2598,Electronics,"Spears, Morrison and Golden",False
+2599,Books,Cross-Martinez,False
+2600,Fashion,"Gallegos, Castaneda and Dudley",True
+2601,Electronics,Payne-Peterson,True
+2602,Books,Haynes-Miller,True
+2603,Home,"Campbell, Garza and Carter",False
+2604,Books,"Mayer, Robinson and Gilmore",True
+2605,Fashion,"Mills, Robles and Moreno",False
+2606,Home,Lawson-Price,True
+2607,Fashion,Garcia-Kim,False
+2608,Fashion,"Gonzalez, Riddle and Gonzalez",False
+2609,Home,Spencer PLC,False
+2610,Books,Pope LLC,True
+2611,Books,Olson-Wright,True
+2612,Home,Moreno Group,False
+2613,Books,"Santos, Bates and Jennings",False
+2614,Electronics,Turner Group,True
+2615,Home,"Butler, Friedman and Evans",False
+2616,Electronics,Wells-Dennis,True
+2617,Books,Ayala Ltd,False
+2618,Home,Donaldson-Boyd,False
+2619,Electronics,"Vaughn, Martinez and Bryan",True
+2620,Fashion,Pearson Ltd,False
+2621,Home,"Peters, Evans and Perez",False
+2622,Fashion,Williams-Trujillo,False
+2623,Home,"Higgins, Hunt and Chandler",True
+2624,Books,"Lee, Evans and Morrow",True
+2625,Books,"Hines, Gonzalez and Wells",False
+2626,Books,Murray and Sons,True
+2627,Home,Reeves Inc,False
+2628,Books,Mullen PLC,False
+2629,Electronics,"Barajas, Cummings and Glenn",True
+2630,Electronics,York PLC,False
+2631,Electronics,Johnson-Page,True
+2632,Books,Wagner Inc,False
+2633,Fashion,Madden-Thomas,False
+2634,Books,Gonzalez-Watkins,False
+2635,Home,Fields Inc,False
+2636,Books,Griffin LLC,False
+2637,Home,Velez Ltd,True
+2638,Books,"Warren, Lee and Martin",True
+2639,Fashion,Smith Group,True
+2640,Electronics,"Romero, Mendoza and Charles",False
+2641,Books,Herrera Ltd,False
+2642,Home,Johnson LLC,False
+2643,Electronics,"Porter, Myers and Wood",True
+2644,Home,"Ayala, Leach and Lawson",False
+2645,Home,"Williams, Mckinney and Vance",False
+2646,Books,Brown LLC,False
+2647,Electronics,Hood-Fisher,False
+2648,Electronics,Garcia-Butler,False
+2649,Books,"Kelly, Perry and Maynard",True
+2650,Home,Ferguson-Smith,False
+2651,Home,Smith-Hubbard,True
+2652,Electronics,Ferguson-Wallace,True
+2653,Electronics,"Hughes, Williams and Johnson",False
+2654,Fashion,Rios PLC,True
+2655,Home,"Soto, Harris and Shepard",True
+2656,Fashion,"Patterson, Mitchell and Barrett",False
+2657,Fashion,"Watson, Gonzalez and Howell",False
+2658,Fashion,"Evans, Hopkins and Walker",True
+2659,Fashion,Ramsey PLC,False
+2660,Books,"Lam, Ramirez and Adams",False
+2661,Fashion,"Gardner, Johnson and Pruitt",False
+2662,Electronics,"Nguyen, Webb and Meyer",False
+2663,Home,"Roth, Daniels and Petty",False
+2664,Fashion,Guzman Ltd,False
+2665,Electronics,Barnes and Sons,False
+2666,Books,Wilson-Mitchell,False
+2667,Home,Berry Ltd,False
+2668,Home,Taylor LLC,True
+2669,Books,Johnson Ltd,False
+2670,Fashion,Flores-Delgado,False
+2671,Fashion,Harris Inc,False
+2672,Home,Jackson-Williams,True
+2673,Fashion,"Huff, Bauer and Daugherty",True
+2674,Electronics,"Adams, Dean and Webb",True
+2675,Fashion,Barker Group,True
+2676,Home,"Harmon, Reed and Arroyo",True
+2677,Electronics,"Tran, Burke and Murray",False
+2678,Home,Donaldson-Scott,False
+2679,Electronics,Collins-Cobb,False
+2680,Fashion,Nunez and Sons,False
+2681,Home,"Salazar, Romero and Aguirre",True
+2682,Electronics,Rivera-Church,True
+2683,Home,Ballard-Mckee,False
+2684,Books,Floyd-Thompson,True
+2685,Books,"Foster, King and Parks",False
+2686,Fashion,"Anderson, Freeman and Kelly",False
+2687,Fashion,Stewart-Clark,False
+2688,Electronics,Branch-Clark,True
+2689,Fashion,"Tanner, Thompson and Jones",True
+2690,Electronics,"Kim, Morrow and Clark",False
+2691,Books,"Lewis, Bush and Forbes",True
+2692,Fashion,"Newman, Morris and Lopez",True
+2693,Home,Neal Group,True
+2694,Books,Frederick Ltd,False
+2695,Electronics,Mcfarland Ltd,False
+2696,Books,Tran Group,True
+2697,Home,"Turner, Sutton and Harvey",False
+2698,Home,"Morrison, Johnson and Fletcher",False
+2699,Fashion,Martin-Wright,True
+2700,Books,Manning LLC,False
+2701,Home,"Lawrence, Cook and Williams",True
+2702,Electronics,"Dudley, Taylor and Randolph",True
+2703,Electronics,Cooper-Hunt,True
+2704,Electronics,Hill Inc,False
+2705,Books,Pratt Inc,False
+2706,Electronics,Wilson Ltd,False
+2707,Electronics,"Wells, Sanchez and Wilson",False
+2708,Fashion,"Woods, Jenkins and Martin",True
+2709,Fashion,Watson and Sons,True
+2710,Home,"Eaton, Moore and Mitchell",True
+2711,Books,Watkins LLC,False
+2712,Electronics,Larson and Sons,False
+2713,Books,"Howell, Buck and Vaughn",True
+2714,Books,"Anderson, Miranda and Jackson",True
+2715,Home,"Mccoy, Reynolds and Strickland",False
+2716,Home,"Shah, Reynolds and Rodriguez",True
+2717,Electronics,Miller Ltd,False
+2718,Fashion,"Harrington, Hamilton and Hawkins",False
+2719,Fashion,"Campos, Moss and Macdonald",True
+2720,Electronics,"Simmons, Butler and Lee",False
+2721,Electronics,"Allen, Fisher and Edwards",False
+2722,Fashion,Davis-Hunt,True
+2723,Electronics,"Beasley, Bradshaw and Gordon",False
+2724,Books,Graham Ltd,True
+2725,Fashion,Anthony LLC,True
+2726,Books,Lane PLC,False
+2727,Home,"Bell, Lowe and Cox",True
+2728,Books,Harding-Moore,False
+2729,Home,Wong Group,True
+2730,Books,Diaz Group,True
+2731,Electronics,Garcia and Sons,False
+2732,Books,Vaughn-Davis,False
+2733,Books,Smith-Daniel,True
+2734,Electronics,"Hayes, Hansen and Clark",True
+2735,Electronics,Nelson LLC,True
+2736,Fashion,"Castillo, Tate and Gutierrez",True
+2737,Home,"Hunter, Smith and Davis",True
+2738,Fashion,Fischer-Mcneil,True
+2739,Fashion,"Cuevas, Doyle and Gallagher",False
+2740,Fashion,"Kennedy, Russo and Holland",True
+2741,Fashion,Luna and Sons,False
+2742,Books,Daugherty Inc,False
+2743,Electronics,"Gomez, Hanson and Bowers",False
+2744,Home,Cook-Nelson,True
+2745,Books,Baker-Warren,True
+2746,Fashion,Harrison Inc,False
+2747,Home,Perez-Fleming,False
+2748,Home,Miller PLC,False
+2749,Electronics,Mack Ltd,False
+2750,Electronics,Horton LLC,True
+2751,Books,"Hawkins, Lester and West",True
+2752,Books,Nguyen-Moyer,False
+2753,Home,Goodwin-Reynolds,False
+2754,Fashion,York PLC,False
+2755,Fashion,Hughes Inc,True
+2756,Books,"Kelley, Solomon and Murray",True
+2757,Fashion,"Rivas, Hamilton and Lewis",True
+2758,Home,Thompson-Henry,False
+2759,Electronics,Lopez-Bell,False
+2760,Electronics,Stephenson-Green,False
+2761,Books,White-Terry,False
+2762,Electronics,"Russell, Rose and Collins",True
+2763,Fashion,"Schneider, Miller and Ferguson",False
+2764,Home,Nelson-Ruiz,False
+2765,Home,Wade-Moore,True
+2766,Electronics,Todd PLC,False
+2767,Fashion,Hines-Armstrong,False
+2768,Books,"Wallace, Ross and Clark",True
+2769,Fashion,Ortiz-Riley,False
+2770,Books,Mccullough Group,True
+2771,Home,"Estrada, Schultz and Miller",True
+2772,Fashion,Jordan-Jones,False
+2773,Books,"Ayala, Johnson and Brown",True
+2774,Fashion,"Mayo, Mcdonald and Rodriguez",False
+2775,Fashion,Maldonado-Gamble,False
+2776,Books,Martin LLC,False
+2777,Home,Serrano PLC,False
+2778,Electronics,Mcknight Ltd,False
+2779,Home,Scott-Norman,True
+2780,Electronics,Figueroa-Ellis,True
+2781,Books,Daugherty-Davis,False
+2782,Books,Willis-Anderson,True
+2783,Fashion,"Woods, Barber and Brown",True
+2784,Books,Soto PLC,False
+2785,Electronics,Johnson-Williams,True
+2786,Electronics,"Brown, Allen and Coleman",False
+2787,Home,Hobbs and Sons,True
+2788,Fashion,Leach and Sons,False
+2789,Fashion,Mitchell Group,False
+2790,Fashion,Campbell Ltd,True
+2791,Books,"Walsh, Banks and Brown",False
+2792,Fashion,King Ltd,True
+2793,Fashion,Stephens-Warner,True
+2794,Home,"Myers, Richardson and Johnson",True
+2795,Home,Michael and Sons,True
+2796,Books,Glover Ltd,False
+2797,Books,"Mills, Salazar and Johnson",False
+2798,Electronics,Luna-Oconnell,False
+2799,Books,Dougherty Inc,False
+2800,Books,Chambers-Sanchez,True
+2801,Fashion,Stein-George,False
+2802,Home,Wall-Li,True
+2803,Books,"Conner, Jackson and Gardner",False
+2804,Electronics,"Vasquez, Barrett and Ramsey",False
+2805,Fashion,Edwards and Sons,True
+2806,Home,"Clark, Moore and Lang",True
+2807,Fashion,Martin LLC,True
+2808,Books,Rivas PLC,True
+2809,Books,Harris and Sons,True
+2810,Home,Singleton-Liu,True
+2811,Books,Mcdaniel-Munoz,False
+2812,Books,"Hayden, Soto and Underwood",False
+2813,Electronics,Flores-Horton,True
+2814,Books,Booth-Cox,False
+2815,Books,Hart-Richardson,False
+2816,Fashion,"Clarke, Reynolds and Mcgee",True
+2817,Electronics,Roberts-Navarro,True
+2818,Fashion,"Perkins, Nixon and Beard",True
+2819,Books,Baker Group,False
+2820,Electronics,Cross-Oconnell,True
+2821,Books,"Watts, Sanchez and Good",True
+2822,Home,Edwards PLC,False
+2823,Electronics,Smith-Stone,True
+2824,Electronics,"Douglas, Richardson and Powell",True
+2825,Fashion,Lucas-Kelley,False
+2826,Electronics,Cole-Schroeder,False
+2827,Fashion,Mendoza-Reeves,True
+2828,Fashion,Maxwell Group,False
+2829,Home,Lopez-Hernandez,False
+2830,Fashion,"Bailey, Barnes and Fletcher",False
+2831,Fashion,Houston LLC,True
+2832,Fashion,Hansen-Heath,False
+2833,Home,"Brandt, Castro and Herrera",False
+2834,Home,"Weaver, Brown and Noble",True
+2835,Books,Norris Inc,False
+2836,Fashion,"Johnson, Wilcox and Gilbert",True
+2837,Fashion,Mendez-Smith,False
+2838,Fashion,Rodriguez PLC,True
+2839,Home,Reynolds-Smith,True
+2840,Books,"Henderson, Obrien and Owens",True
+2841,Electronics,Mitchell-Allen,False
+2842,Electronics,Robinson Group,False
+2843,Electronics,Meyers-Riley,True
+2844,Electronics,Harper LLC,True
+2845,Home,Hill LLC,True
+2846,Fashion,Conner Group,True
+2847,Books,Barnett-Johnson,True
+2848,Books,Hodges PLC,True
+2849,Home,Sullivan-Fuller,False
+2850,Home,Mckay Ltd,True
+2851,Fashion,Lopez-Fields,False
+2852,Home,Burton-Warner,False
+2853,Fashion,Peterson Inc,False
+2854,Books,"Levine, Ryan and Johnson",True
+2855,Fashion,Daniels Inc,False
+2856,Fashion,Vega Group,True
+2857,Fashion,"Gallagher, Smith and Brown",True
+2858,Home,"Walker, Jones and Graham",False
+2859,Fashion,Lewis-Daniels,True
+2860,Home,Jackson-Wheeler,True
+2861,Electronics,Oconnell Group,False
+2862,Fashion,Nielsen-Chavez,True
+2863,Books,Hampton Ltd,False
+2864,Home,Wright PLC,True
+2865,Electronics,Lee-Simpson,False
+2866,Home,Taylor Inc,True
+2867,Books,Rogers-Martin,True
+2868,Books,Duran-Cochran,True
+2869,Home,Strong and Sons,False
+2870,Electronics,"Barrett, Mccarthy and Carlson",True
+2871,Fashion,Day-Zimmerman,False
+2872,Books,"Shaffer, Estrada and Smith",True
+2873,Home,Schaefer Group,False
+2874,Home,Oconnell LLC,True
+2875,Books,Garcia-Walker,False
+2876,Home,Smith-Gonzales,False
+2877,Electronics,"Johnson, Wilkinson and Bennett",True
+2878,Electronics,Kane-Moore,True
+2879,Fashion,Lewis Ltd,True
+2880,Books,Gibbs Inc,True
+2881,Fashion,Vasquez Group,True
+2882,Electronics,"Lopez, Mooney and Johnston",False
+2883,Books,"Hernandez, Rodriguez and Smith",False
+2884,Home,Larsen-Valdez,True
+2885,Books,Blake-Jackson,True
+2886,Books,"Owens, Barnes and Estrada",False
+2887,Electronics,Sanchez-Roach,False
+2888,Books,Lowery-Middleton,False
+2889,Home,Lee Inc,False
+2890,Electronics,Perry-Pacheco,False
+2891,Books,Perry-Baxter,False
+2892,Books,"Black, Fowler and Wilson",True
+2893,Fashion,"Smith, Shepherd and Smith",True
+2894,Fashion,Douglas-Walsh,False
+2895,Home,Powell-Jones,False
+2896,Home,Romero-Mendoza,True
+2897,Home,Nguyen and Sons,True
+2898,Books,"Stevens, Freeman and Hughes",True
+2899,Home,Parker LLC,True
+2900,Home,Coleman Group,True
+2901,Home,Hancock PLC,True
+2902,Books,"Murphy, Phelps and Wiggins",True
+2903,Books,Sandoval-Peters,True
+2904,Electronics,Bauer-Mills,False
+2905,Books,"Jones, Terry and Powers",False
+2906,Home,"Davis, Ramos and Hess",False
+2907,Fashion,"Fernandez, Butler and Gallegos",True
+2908,Fashion,"Morgan, Weber and Peterson",True
+2909,Fashion,Miller-Guerra,False
+2910,Fashion,Walsh PLC,True
+2911,Books,Williams LLC,True
+2912,Electronics,Griffith Ltd,True
+2913,Fashion,Haley LLC,False
+2914,Books,"Hughes, Huber and Elliott",True
+2915,Electronics,"Rush, Rodriguez and Harrington",False
+2916,Home,"Thompson, Clark and Chavez",True
+2917,Electronics,Rodriguez-Boyd,True
+2918,Home,Olsen Inc,True
+2919,Home,Woodward Group,True
+2920,Fashion,"Schaefer, Jackson and Yoder",True
+2921,Fashion,Guerrero-Perez,False
+2922,Electronics,Davis LLC,True
+2923,Home,White-Mcbride,False
+2924,Fashion,West PLC,False
+2925,Electronics,Smith-Ray,True
+2926,Home,"Brown, Watts and French",False
+2927,Fashion,Adams LLC,False
+2928,Fashion,Smith Ltd,True
+2929,Books,"Smith, Tran and Norton",True
+2930,Electronics,Smith PLC,False
+2931,Fashion,Rodriguez-Taylor,True
+2932,Home,"Davis, Brown and Tanner",False
+2933,Books,Swanson Ltd,True
+2934,Home,"Stevens, Walker and Edwards",False
+2935,Fashion,Kemp Inc,True
+2936,Fashion,Cross-Baker,False
+2937,Home,Love-Avery,True
+2938,Books,Rivas-Roberts,False
+2939,Fashion,"Salazar, Thompson and Ford",True
+2940,Electronics,"Munoz, Taylor and Mccarthy",False
+2941,Fashion,"Lamb, Hunt and Moore",False
+2942,Home,Farmer-Powell,True
+2943,Fashion,Jones-Wells,False
+2944,Home,Serrano-Tucker,False
+2945,Electronics,Ruiz Inc,False
+2946,Electronics,"Stanley, Mendez and Wright",True
+2947,Books,"Jones, Blair and Hill",True
+2948,Home,Gomez Group,False
+2949,Fashion,Wells LLC,True
+2950,Home,Calderon-Potter,False
+2951,Fashion,"Kennedy, Cook and Mcdaniel",False
+2952,Home,"Edwards, Dunn and Vaughan",True
+2953,Fashion,Vance-Drake,True
+2954,Books,Hester-Nunez,True
+2955,Fashion,Thomas Group,False
+2956,Books,"Brown, Rich and Gonzalez",False
+2957,Books,Baker Ltd,True
+2958,Books,Booth-Dixon,True
+2959,Books,Graves Ltd,True
+2960,Home,Rubio-Williams,False
+2961,Fashion,Flores-Eaton,True
+2962,Books,"Zamora, Johnson and Anderson",True
+2963,Books,Ferguson-Walters,True
+2964,Books,"Anderson, Horne and Castro",False
+2965,Electronics,Wiggins-Blevins,True
+2966,Books,Edwards-Foster,False
+2967,Books,Schaefer-Barr,True
+2968,Books,Smith and Sons,False
+2969,Fashion,Hahn-Pierce,True
+2970,Fashion,Lopez and Sons,True
+2971,Books,"Lopez, Thomas and Guzman",False
+2972,Electronics,Pena PLC,False
+2973,Books,"Leon, Calderon and Thompson",True
+2974,Books,Dixon-Smith,False
+2975,Fashion,Meyer PLC,True
+2976,Home,"Barton, Garcia and Martin",True
+2977,Books,"Le, Munoz and Benitez",True
+2978,Fashion,Reed-Russell,True
+2979,Electronics,Brooks-Vazquez,False
+2980,Books,Joseph-Freeman,False
+2981,Home,"Johnson, Atkins and May",False
+2982,Home,"Allen, Boyd and Mccall",False
+2983,Home,"Davis, Campbell and Bond",True
+2984,Electronics,Rose-Lopez,True
+2985,Home,Perry Inc,False
+2986,Fashion,"Rocha, Huerta and Beard",True
+2987,Books,Baker-Bell,False
+2988,Home,Hebert-Robertson,True
+2989,Home,"Jones, Fisher and Richards",False
+2990,Electronics,Schneider-Pope,False
+2991,Electronics,Gonzalez-Martin,False
+2992,Fashion,Mitchell-Wilson,False
+2993,Electronics,"Ramos, Carter and Thompson",True
+2994,Books,"Thomas, Rodriguez and Reynolds",True
+2995,Books,"Lewis, Mercado and Sutton",False
+2996,Home,Flores-Huffman,False
+2997,Home,Sexton Ltd,False
+2998,Books,Reese PLC,True
+2999,Home,"Valencia, Liu and Padilla",True
+3000,Home,"Zuniga, Good and Carpenter",True
+3001,Home,Cruz Group,True
+3002,Home,Walker Group,False
+3003,Fashion,Harris Inc,False
+3004,Electronics,Rodriguez Group,True
+3005,Home,Smith-Nielsen,False
+3006,Fashion,"Simpson, Garcia and Monroe",True
+3007,Fashion,Nelson-Harvey,True
+3008,Fashion,Vargas PLC,True
+3009,Books,"Howe, Russell and Vazquez",False
+3010,Fashion,Hunter Group,False
+3011,Fashion,Cole Ltd,False
+3012,Home,Rowland and Sons,True
+3013,Books,"Le, Franklin and Robinson",False
+3014,Books,Wilson Group,True
+3015,Home,Vargas-Meza,False
+3016,Fashion,Kelly-Lawrence,True
+3017,Home,Diaz Group,False
+3018,Fashion,Fleming-Gonzalez,False
+3019,Books,"Holland, Drake and Turner",True
+3020,Books,Mata LLC,False
+3021,Fashion,Thompson-Roberts,False
+3022,Electronics,"Lopez, Mcgee and Gardner",True
+3023,Books,Douglas PLC,True
+3024,Books,Taylor-Vargas,False
+3025,Fashion,Perry PLC,False
+3026,Home,Jones and Sons,False
+3027,Fashion,"Reed, Mcgrath and Valencia",False
+3028,Home,Bradley and Sons,True
+3029,Books,"Johnson, Miller and Montgomery",False
+3030,Fashion,"Sullivan, Walker and Allen",False
+3031,Books,Avery LLC,True
+3032,Electronics,Ortiz PLC,False
+3033,Fashion,Jones LLC,False
+3034,Home,Montes-Burch,False
+3035,Electronics,"Stevens, Adams and Lambert",False
+3036,Fashion,Miller-Simmons,False
+3037,Fashion,Lewis-Mendoza,True
+3038,Home,Wagner Group,True
+3039,Home,Dennis Ltd,True
+3040,Electronics,Rodgers-Rodriguez,False
+3041,Home,Sutton-Payne,False
+3042,Electronics,Hebert LLC,False
+3043,Books,"Richards, Hughes and Black",False
+3044,Fashion,"Fernandez, Sanchez and Williams",False
+3045,Fashion,Washington LLC,False
+3046,Books,"Mueller, Torres and Smith",False
+3047,Electronics,Zimmerman and Sons,False
+3048,Electronics,"Marquez, Perez and Shannon",False
+3049,Fashion,Baker and Sons,False
+3050,Books,"Harris, Durham and Rodriguez",True
+3051,Fashion,"Bennett, Smith and Rivas",False
+3052,Home,Smith-Davis,False
+3053,Books,Wells-Gonzalez,False
+3054,Fashion,Copeland-Owen,True
+3055,Books,Roberts Inc,False
+3056,Books,"Manning, Johnson and Gray",False
+3057,Electronics,"Richardson, Watson and Alvarado",True
+3058,Electronics,"Watkins, Vaughn and Reed",False
+3059,Home,Mejia PLC,True
+3060,Home,Robinson and Sons,True
+3061,Books,"Gonzales, Alvarez and Pratt",True
+3062,Fashion,Simpson-Salinas,False
+3063,Books,Clark Group,True
+3064,Home,Sullivan and Sons,True
+3065,Home,Jackson LLC,True
+3066,Electronics,"Andrade, Miller and Taylor",False
+3067,Electronics,"Humphrey, Bradford and Allen",True
+3068,Fashion,Woodard and Sons,True
+3069,Electronics,Bishop PLC,True
+3070,Home,"Johnson, Carter and Molina",True
+3071,Fashion,Morris-Arroyo,True
+3072,Electronics,"Stewart, Reid and Kim",True
+3073,Home,Castro-Jones,True
+3074,Electronics,"Thomas, Phillips and Foster",True
+3075,Home,"Miller, Henry and Wright",False
+3076,Home,"Martinez, Smith and Monroe",False
+3077,Fashion,Jones Inc,True
+3078,Home,"Wells, Flores and Alvarado",False
+3079,Home,Smith-Fernandez,True
+3080,Fashion,"Hayes, Roberts and Allen",False
+3081,Fashion,"Jones, Rivera and May",True
+3082,Home,Porter-Dennis,False
+3083,Home,"Cline, Wright and Nash",False
+3084,Home,Martinez LLC,False
+3085,Books,"Campbell, Johnson and Christensen",False
+3086,Home,"Koch, Lopez and Robbins",True
+3087,Books,Hernandez Inc,True
+3088,Fashion,Glass Ltd,True
+3089,Fashion,Haney-Delgado,False
+3090,Books,Romero-Reynolds,False
+3091,Electronics,Sanchez Inc,True
+3092,Fashion,Harris Ltd,False
+3093,Fashion,Wilson and Sons,True
+3094,Fashion,Conrad PLC,False
+3095,Electronics,Banks-Cruz,True
+3096,Electronics,Schultz-Burnett,True
+3097,Books,Snyder-Lewis,True
+3098,Books,Payne PLC,False
+3099,Home,"Stuart, Wilson and Thomas",True
+3100,Fashion,"Moore, Moyer and Burgess",False
+3101,Fashion,Scott-Snyder,False
+3102,Electronics,Williams PLC,False
+3103,Books,Davenport-Stewart,True
+3104,Fashion,"Graham, Miller and Barnes",False
+3105,Fashion,"Murillo, King and Shaw",True
+3106,Books,"Melendez, Martin and Manning",True
+3107,Fashion,Maddox PLC,True
+3108,Fashion,"Schmidt, Hayes and Jennings",True
+3109,Books,Stewart Ltd,True
+3110,Books,Boyer-Moses,True
+3111,Fashion,Hill-Henderson,True
+3112,Electronics,"Williams, Thompson and Kaiser",False
+3113,Books,Jones-Jordan,True
+3114,Electronics,Mays PLC,True
+3115,Electronics,"Washington, Tyler and Edwards",True
+3116,Fashion,"Johnston, Francis and Heath",True
+3117,Books,"Obrien, White and Reid",False
+3118,Electronics,Owen-Foster,True
+3119,Home,"Warren, Harvey and Martin",False
+3120,Home,Humphrey-White,True
+3121,Home,"Anderson, Galloway and Chen",False
+3122,Home,"Jacobs, Stanley and Johnson",False
+3123,Electronics,Gordon PLC,True
+3124,Fashion,Grant Inc,False
+3125,Home,Flores-Wood,False
+3126,Fashion,Clark Ltd,False
+3127,Fashion,Hill LLC,False
+3128,Fashion,"Garcia, Anderson and Smith",False
+3129,Electronics,Conrad PLC,True
+3130,Fashion,Brown-Kelly,False
+3131,Fashion,Miller-Vargas,True
+3132,Fashion,Haney Inc,True
+3133,Books,Roth PLC,False
+3134,Electronics,"Acosta, Marshall and Walker",False
+3135,Home,Phillips and Sons,True
+3136,Electronics,Farrell-Johnson,True
+3137,Fashion,Ramos PLC,False
+3138,Books,Gray Inc,True
+3139,Books,Leon-Rodriguez,True
+3140,Home,Francis and Sons,True
+3141,Electronics,"Duncan, Harris and Riley",True
+3142,Books,"Klein, Bryan and Snyder",False
+3143,Fashion,Montoya PLC,True
+3144,Fashion,Hancock-Cunningham,True
+3145,Books,Daniels PLC,False
+3146,Home,"Burke, Larsen and Williams",True
+3147,Home,Cook-Williams,True
+3148,Fashion,Huynh Ltd,False
+3149,Books,"Hamilton, Shaw and Aguirre",False
+3150,Fashion,"Davis, Grimes and Hunt",True
+3151,Home,Knight-Huffman,False
+3152,Home,Wall-Day,True
+3153,Electronics,Hoffman Group,True
+3154,Electronics,Eaton-Mullen,True
+3155,Home,Fields-Cabrera,False
+3156,Home,"Berry, Curtis and Powell",False
+3157,Home,Gardner Inc,False
+3158,Fashion,Simmons-Herrera,True
+3159,Books,"Francis, Hurley and Klein",False
+3160,Electronics,Juarez-Avery,False
+3161,Electronics,"Johnson, Trevino and Espinoza",False
+3162,Electronics,Munoz-Wagner,True
+3163,Fashion,Caldwell-Scott,True
+3164,Electronics,"Wilson, Nunez and Turner",False
+3165,Books,"Anderson, Ruiz and Weaver",False
+3166,Electronics,Rodriguez-Bennett,True
+3167,Home,Combs-Rodriguez,False
+3168,Fashion,Underwood-Morgan,True
+3169,Electronics,"Johnson, Garcia and Green",True
+3170,Fashion,"Miller, Anderson and Evans",True
+3171,Home,Hawkins Ltd,True
+3172,Electronics,Turner PLC,True
+3173,Books,Webb-Mullins,True
+3174,Electronics,Wilson LLC,True
+3175,Fashion,Turner Inc,False
+3176,Fashion,Garcia LLC,False
+3177,Books,Smith-Wilson,False
+3178,Home,Moran-Rodriguez,True
+3179,Fashion,"Parker, Pierce and Gonzalez",False
+3180,Fashion,"Roberts, Parker and Ayala",False
+3181,Electronics,"Mitchell, Mccoy and Ramirez",True
+3182,Books,"Bennett, Russell and Cooper",False
+3183,Fashion,"Keller, Turner and Acosta",True
+3184,Electronics,Mcguire-Burke,True
+3185,Fashion,"Gonzalez, Ellis and Nguyen",False
+3186,Electronics,"Parks, English and Garcia",False
+3187,Books,"Thompson, Clark and Hernandez",False
+3188,Books,"Shepherd, Weeks and Brown",True
+3189,Electronics,Tate PLC,True
+3190,Books,Ochoa-Horn,False
+3191,Books,Rodriguez-Pearson,True
+3192,Electronics,Ferguson Ltd,True
+3193,Fashion,Herman Ltd,False
+3194,Home,Garcia-Garcia,False
+3195,Fashion,Roberts-Miller,False
+3196,Books,"Hayden, Smith and Boyd",False
+3197,Books,Caldwell-Harper,True
+3198,Electronics,Guerra Inc,True
+3199,Home,"Jackson, Mayer and Ross",True
+3200,Home,Wilson and Sons,False
+3201,Electronics,"Sanders, Hall and Atkins",False
+3202,Books,Kidd-Brooks,False
+3203,Fashion,Grimes Group,False
+3204,Books,Fleming Ltd,True
+3205,Books,"Tyler, Brown and Johnson",True
+3206,Home,"Benson, Herrera and Sullivan",False
+3207,Home,Coleman and Sons,False
+3208,Books,Delgado Inc,False
+3209,Books,Kaufman-Willis,False
+3210,Books,Matthews Inc,False
+3211,Home,"Taylor, Thomas and Frazier",False
+3212,Books,Carter Ltd,True
+3213,Home,Hernandez and Sons,True
+3214,Books,Hernandez-Ramos,False
+3215,Electronics,"Frazier, Hopkins and Reynolds",False
+3216,Books,Ford-Weaver,False
+3217,Home,"Chan, Martinez and Davenport",False
+3218,Electronics,"Stanley, Carter and Marquez",True
+3219,Home,Lewis-Nelson,True
+3220,Home,Morales and Sons,True
+3221,Home,"Bryan, Robertson and Clayton",False
+3222,Books,May Inc,True
+3223,Home,Bailey LLC,True
+3224,Books,Hunter-Edwards,False
+3225,Books,Johnson and Sons,False
+3226,Home,Ward-Gillespie,True
+3227,Electronics,Owens-Scott,False
+3228,Books,Walsh-Stewart,False
+3229,Electronics,"Miles, Sanchez and Hicks",False
+3230,Fashion,Vargas LLC,True
+3231,Home,Obrien-Roberts,True
+3232,Home,"Green, Dixon and Robbins",True
+3233,Books,"Palmer, French and Hammond",True
+3234,Books,"Rich, Sanford and Espinoza",False
+3235,Electronics,Williams-Gallagher,True
+3236,Electronics,Jimenez-Johnson,True
+3237,Fashion,Fernandez Ltd,False
+3238,Fashion,Thomas LLC,True
+3239,Fashion,"Bryant, Sanders and Morris",True
+3240,Electronics,Vasquez Ltd,True
+3241,Home,Ellis-Diaz,False
+3242,Books,"Combs, Bennett and Stewart",True
+3243,Books,"Davis, Harris and Orozco",False
+3244,Fashion,Ross Ltd,False
+3245,Electronics,"Walker, Harris and Gardner",False
+3246,Books,"Rodriguez, Duncan and Pitts",False
+3247,Books,Graves PLC,True
+3248,Home,"Manning, Rivera and Johnson",True
+3249,Fashion,Hopkins Inc,False
+3250,Home,Mitchell LLC,False
+3251,Fashion,"Powers, Chaney and Jenkins",False
+3252,Fashion,Simon-Davis,True
+3253,Home,Nguyen-Tanner,False
+3254,Electronics,Rogers-Farley,False
+3255,Home,Dean-Nelson,True
+3256,Home,Smith-Hardin,False
+3257,Fashion,Warren-Haley,True
+3258,Books,"Adams, Bowen and Sanchez",False
+3259,Electronics,"Obrien, Santiago and Brown",True
+3260,Electronics,Perez-Morse,True
+3261,Electronics,"Orr, West and Calhoun",True
+3262,Books,Rivera Ltd,False
+3263,Books,Meyer-Jimenez,True
+3264,Electronics,Hernandez-Kelly,True
+3265,Electronics,"Robertson, Turner and Floyd",False
+3266,Books,"Johnson, Wallace and Wiggins",True
+3267,Fashion,"Williams, Myers and Harris",False
+3268,Electronics,"Salinas, Mathews and Edwards",True
+3269,Electronics,Garcia PLC,False
+3270,Electronics,Sanchez-Moore,False
+3271,Home,Rodgers Group,False
+3272,Electronics,Weber-Bonilla,False
+3273,Home,Bruce and Sons,True
+3274,Electronics,Washington-Valdez,False
+3275,Books,Barajas and Sons,False
+3276,Fashion,Thomas LLC,False
+3277,Home,"Warren, Wolf and Lopez",False
+3278,Home,"Rios, Edwards and May",True
+3279,Electronics,House-Nelson,True
+3280,Home,Gray-Merritt,True
+3281,Electronics,Henry-Mcmahon,False
+3282,Electronics,Smith LLC,True
+3283,Books,Winters LLC,False
+3284,Home,Pacheco-Johnson,True
+3285,Books,"Solis, Wilkins and Lopez",False
+3286,Fashion,Orozco-Brown,False
+3287,Home,Maldonado-Butler,True
+3288,Home,Quinn-Thomas,False
+3289,Electronics,Cox LLC,False
+3290,Electronics,Hernandez-Mcdowell,True
+3291,Fashion,Vang Ltd,False
+3292,Home,"Valentine, Armstrong and Robles",False
+3293,Books,Bryant LLC,True
+3294,Books,Church Inc,False
+3295,Electronics,Washington PLC,False
+3296,Electronics,Guzman LLC,False
+3297,Home,"Hardin, Hernandez and Santos",True
+3298,Fashion,"Hall, Martin and Sellers",False
+3299,Electronics,Russell Inc,True
+3300,Home,Perez LLC,True
+3301,Books,Matthews Inc,False
+3302,Home,"Brown, Chung and Page",False
+3303,Fashion,"Li, Kelly and Jackson",False
+3304,Books,Ramirez-Hunter,True
+3305,Books,Torres-Rivera,True
+3306,Fashion,Gray PLC,False
+3307,Electronics,Flores PLC,False
+3308,Books,Marquez and Sons,False
+3309,Electronics,"Buckley, Salinas and Gill",False
+3310,Electronics,Smith LLC,True
+3311,Books,Scott-Nguyen,False
+3312,Electronics,Stokes-Beasley,True
+3313,Electronics,Pearson Ltd,True
+3314,Fashion,"Anderson, Burke and Brown",False
+3315,Electronics,Johnson LLC,True
+3316,Electronics,Conrad Group,False
+3317,Home,"Raymond, Carson and Baker",False
+3318,Electronics,Patel Group,False
+3319,Books,"Johnson, Foster and Glover",True
+3320,Home,Russell PLC,False
+3321,Fashion,Gomez-Wilson,False
+3322,Books,"Patel, Benitez and Glover",True
+3323,Fashion,Sharp LLC,False
+3324,Home,"Stanton, Bryan and Martin",False
+3325,Electronics,"Harrison, Richardson and Williams",True
+3326,Books,Jones PLC,False
+3327,Electronics,Wall-Payne,True
+3328,Electronics,"Ward, Watts and Murray",True
+3329,Electronics,Roberts and Sons,True
+3330,Fashion,"Gonzalez, James and Coleman",False
+3331,Home,Lopez Ltd,True
+3332,Fashion,Torres LLC,True
+3333,Electronics,"Gould, Butler and Brown",False
+3334,Fashion,"Roberts, Ramirez and Johnson",True
+3335,Home,Donovan and Sons,True
+3336,Books,Cooper PLC,True
+3337,Books,"Rivera, Bowman and Scott",True
+3338,Fashion,Hansen PLC,False
+3339,Books,"Gilbert, Rush and Smith",False
+3340,Fashion,Thomas-James,True
+3341,Books,"Cortez, French and Murphy",True
+3342,Electronics,Vang-Holmes,True
+3343,Fashion,Stuart-Turner,True
+3344,Electronics,Wilcox-Aguilar,True
+3345,Fashion,"Daniels, Brewer and Roberts",True
+3346,Home,"Noble, Knight and Beltran",False
+3347,Home,Fowler LLC,True
+3348,Home,Mendoza Ltd,True
+3349,Books,"Ortega, Fitzpatrick and Hopkins",True
+3350,Books,"Fletcher, Carter and Bailey",False
+3351,Home,Nguyen Ltd,False
+3352,Electronics,Hodge-Walker,True
+3353,Home,Cline Group,True
+3354,Home,Noble Ltd,True
+3355,Electronics,Gaines-Robinson,True
+3356,Home,"Ellis, Hayes and Green",True
+3357,Fashion,Johnson Group,False
+3358,Electronics,Mcmillan-Edwards,False
+3359,Electronics,Parker Ltd,True
+3360,Fashion,Preston Ltd,True
+3361,Fashion,"Cortez, Williams and Simmons",False
+3362,Books,"Sanders, Archer and Martin",False
+3363,Fashion,"Salazar, Contreras and Martinez",False
+3364,Electronics,Banks LLC,True
+3365,Electronics,Rogers-Bolton,False
+3366,Books,"Jones, Smith and Gonzales",True
+3367,Home,"Gallegos, Rogers and Cordova",True
+3368,Books,Wright Inc,True
+3369,Fashion,"Booker, Garcia and Jacobs",True
+3370,Home,Ross and Sons,True
+3371,Fashion,Hoffman Inc,False
+3372,Fashion,Wilcox LLC,True
+3373,Electronics,"Mack, Harris and Wood",True
+3374,Home,Clark-Bailey,True
+3375,Books,"Johnson, Parks and Bishop",False
+3376,Home,"Stanley, Flynn and Nelson",False
+3377,Books,Harris and Sons,True
+3378,Electronics,Collins-Carr,True
+3379,Books,"Greene, Diaz and Gonzalez",False
+3380,Electronics,Bender LLC,True
+3381,Books,Wong-Jones,True
+3382,Electronics,Hayes-Alvarez,True
+3383,Electronics,"Jones, Kelly and Howard",True
+3384,Home,"Torres, Rangel and Rowe",True
+3385,Books,"Patterson, Chen and King",False
+3386,Books,Roberts-Franklin,False
+3387,Home,Smith-Mendoza,True
+3388,Books,"Bennett, Adams and Prince",True
+3389,Fashion,"Hogan, Walters and Walters",True
+3390,Fashion,Jones-Melton,False
+3391,Electronics,"Mitchell, Gross and Morris",True
+3392,Electronics,Bryant LLC,True
+3393,Home,Miller-Wilson,False
+3394,Books,"James, Love and Bell",False
+3395,Electronics,Lyons Inc,True
+3396,Electronics,Williams-Nielsen,False
+3397,Home,Oliver-Griffin,False
+3398,Home,"Santiago, Hernandez and Mckee",False
+3399,Books,"Woods, Conway and Sanders",True
+3400,Home,"White, Swanson and Travis",False
+3401,Books,"Brandt, Jones and Adams",True
+3402,Electronics,Bentley and Sons,False
+3403,Books,"Byrd, Garcia and Parks",False
+3404,Home,"Acevedo, Garcia and Case",True
+3405,Electronics,"Berg, Nichols and Gonzalez",False
+3406,Home,"Castaneda, Davidson and Roman",False
+3407,Fashion,Ford Ltd,False
+3408,Electronics,Calhoun Group,False
+3409,Books,Brown Group,False
+3410,Electronics,Anderson Inc,False
+3411,Home,Nelson-Pope,False
+3412,Home,Hall-Castillo,False
+3413,Home,Webster Inc,False
+3414,Home,Pruitt-Hoover,True
+3415,Home,Hunter Ltd,False
+3416,Fashion,"Johnson, Walton and Williams",False
+3417,Fashion,"Wagner, Gonzalez and Norris",False
+3418,Home,Perkins-Melendez,False
+3419,Home,"Blackwell, Ramos and Hardin",True
+3420,Fashion,Richards-Morgan,True
+3421,Home,Arnold and Sons,True
+3422,Electronics,Wallace PLC,False
+3423,Home,Dixon-Mcguire,True
+3424,Electronics,Jacobs-Gonzalez,True
+3425,Electronics,"Wallace, Munoz and Lee",True
+3426,Books,Cunningham-Graham,False
+3427,Home,Evans Ltd,False
+3428,Fashion,"Roberts, Montgomery and Collins",True
+3429,Books,Dixon Inc,False
+3430,Books,Pace Ltd,True
+3431,Books,Perez-Watkins,True
+3432,Home,"Parker, Liu and Avila",False
+3433,Fashion,Moore and Sons,True
+3434,Home,"Steele, Doyle and Greene",True
+3435,Fashion,White-Giles,False
+3436,Electronics,Flores and Sons,True
+3437,Fashion,Lawson and Sons,False
+3438,Electronics,Ward Ltd,True
+3439,Home,Gonzalez-Schmidt,False
+3440,Fashion,Collins Inc,True
+3441,Fashion,Zhang PLC,False
+3442,Fashion,"Martin, Perez and Ellis",True
+3443,Books,Conway and Sons,False
+3444,Electronics,Garcia and Sons,False
+3445,Home,"Bradford, Gonzalez and Wilson",True
+3446,Books,"Short, Bryant and Smith",True
+3447,Electronics,Powell Inc,False
+3448,Fashion,Brown Group,True
+3449,Fashion,Lewis-Frazier,False
+3450,Books,Le-Lee,True
+3451,Fashion,Bell Inc,False
+3452,Fashion,"Johnston, Cooper and Ross",True
+3453,Electronics,Christensen-Vaughan,False
+3454,Fashion,"Mendoza, Ramos and Martinez",False
+3455,Home,Delgado-White,False
+3456,Fashion,Johnson-Roy,False
+3457,Fashion,Mathews-Pope,True
+3458,Electronics,Johnson-Martinez,False
+3459,Home,Lopez and Sons,True
+3460,Electronics,Ali Ltd,False
+3461,Electronics,Clark LLC,True
+3462,Electronics,Hudson-Moody,False
+3463,Fashion,"Bond, Murphy and Russell",True
+3464,Books,"Wiggins, Thomas and Velasquez",True
+3465,Home,Kelley-Shelton,True
+3466,Electronics,"Shepherd, Lopez and Wilson",False
+3467,Home,Perry-Stuart,True
+3468,Fashion,"Aguirre, Patterson and Stevens",False
+3469,Home,Huff-Martinez,True
+3470,Home,Maxwell Group,True
+3471,Fashion,Robinson and Sons,False
+3472,Books,Browning-Ortiz,True
+3473,Books,Gomez-Fox,True
+3474,Electronics,Smith-Mitchell,False
+3475,Electronics,York Ltd,True
+3476,Fashion,Larson-Adams,False
+3477,Fashion,Watkins Group,False
+3478,Fashion,Shaw Inc,True
+3479,Electronics,Harris-Herman,True
+3480,Books,"Mosley, Acevedo and Contreras",True
+3481,Electronics,Jones-Brown,False
+3482,Fashion,Kennedy-Mccann,True
+3483,Fashion,Zimmerman PLC,False
+3484,Fashion,Clark-Byrd,True
+3485,Books,Ross PLC,True
+3486,Home,Bennett-Kennedy,False
+3487,Books,"Bowman, Williams and Phillips",True
+3488,Electronics,"Guzman, Rose and Preston",False
+3489,Electronics,Michael-Palmer,True
+3490,Electronics,Whitehead LLC,True
+3491,Home,Davis-Jackson,False
+3492,Books,Watson-Pearson,True
+3493,Electronics,Cunningham Inc,True
+3494,Home,Adams-Shaffer,True
+3495,Fashion,Jones Group,False
+3496,Fashion,Ramirez PLC,False
+3497,Home,Harper-Harris,False
+3498,Fashion,Johnson-Marquez,True
+3499,Books,"Taylor, Durham and Smith",False
+3500,Electronics,"Wood, Day and Summers",False
+3501,Fashion,"Miller, Thompson and Bruce",True
+3502,Electronics,"Berry, Wolfe and Henderson",True
+3503,Books,Church Group,False
+3504,Home,Dunn LLC,True
+3505,Books,Ray-Chang,False
+3506,Home,Sexton Group,True
+3507,Electronics,Simmons and Sons,True
+3508,Electronics,Robbins PLC,False
+3509,Home,Pollard Ltd,False
+3510,Electronics,"Evans, Rodriguez and Miller",True
+3511,Books,"Marquez, Cruz and Roberts",False
+3512,Books,Green-Garner,True
+3513,Electronics,Hill-Davis,True
+3514,Fashion,Mcintosh and Sons,True
+3515,Books,Edwards-Mueller,True
+3516,Home,"Schmidt, Stafford and Smith",False
+3517,Home,"Richardson, Valenzuela and Harding",True
+3518,Electronics,Dickson-Lawrence,True
+3519,Electronics,"Arnold, Saunders and Jackson",True
+3520,Books,"Hopkins, Wade and Fitzgerald",False
+3521,Home,Phelps PLC,False
+3522,Home,"Jensen, Price and Wiggins",True
+3523,Books,Cordova PLC,True
+3524,Home,"Ramirez, Turner and Clark",False
+3525,Electronics,"Thomas, Singh and Lindsey",False
+3526,Home,Hughes Inc,True
+3527,Books,Clay and Sons,True
+3528,Electronics,"Ruiz, Mccarthy and Hayden",True
+3529,Electronics,Anderson-Cruz,True
+3530,Electronics,"Fitzgerald, Anderson and Turner",True
+3531,Fashion,"Hall, Chan and Jones",False
+3532,Fashion,Murphy LLC,False
+3533,Fashion,Taylor-Nelson,False
+3534,Electronics,Gutierrez Ltd,True
+3535,Fashion,Rojas-Brown,True
+3536,Fashion,Davis PLC,True
+3537,Electronics,"Watson, Campbell and Velasquez",True
+3538,Books,Hess Ltd,True
+3539,Fashion,Garcia-Robertson,False
+3540,Electronics,"Mueller, Maddox and Parrish",False
+3541,Electronics,Hancock Group,False
+3542,Books,Harris and Sons,False
+3543,Fashion,Lee LLC,False
+3544,Fashion,Sims-Jones,True
+3545,Fashion,"Howell, Morales and Hall",False
+3546,Home,"Adams, Smith and Cortez",False
+3547,Home,"Moore, Cooper and Hayden",False
+3548,Books,Frazier-Hutchinson,False
+3549,Fashion,Bell-Walters,True
+3550,Books,Farley Ltd,True
+3551,Home,"Stein, Rollins and Jackson",False
+3552,Home,Burch-Mahoney,True
+3553,Fashion,"Rojas, Stevens and Wright",False
+3554,Home,Ellison-Fields,True
+3555,Home,Atkins PLC,False
+3556,Fashion,"Ramirez, Rhodes and Garrett",True
+3557,Books,Stone Ltd,True
+3558,Home,"Sims, Mann and Guerra",False
+3559,Books,Brown Ltd,False
+3560,Books,Riddle and Sons,True
+3561,Fashion,"Wang, Lang and Webb",False
+3562,Books,Knight Ltd,False
+3563,Electronics,"Williams, Buchanan and Castillo",False
+3564,Home,Lucas-Shaw,False
+3565,Electronics,"Walker, Griffin and Smith",False
+3566,Home,Williams Group,False
+3567,Fashion,Smith-Zuniga,True
+3568,Home,"Morales, Morris and Perez",True
+3569,Electronics,Mccormick-Benitez,False
+3570,Books,"Jones, Spencer and Lee",False
+3571,Fashion,"Dodson, Fox and Howard",False
+3572,Home,"Villa, Armstrong and Maldonado",False
+3573,Electronics,Delgado-Ray,False
+3574,Home,"Barber, Lyons and Hernandez",True
+3575,Books,Smith-Owens,True
+3576,Books,"Kent, Olson and Huynh",True
+3577,Fashion,Clark-Berry,False
+3578,Books,"Wilson, Moore and Jordan",True
+3579,Electronics,Arnold-Newman,True
+3580,Books,Short and Sons,True
+3581,Electronics,Jones Ltd,False
+3582,Books,Hunt-Lee,False
+3583,Fashion,"Wilson, Bruce and Long",False
+3584,Fashion,Diaz LLC,True
+3585,Electronics,"Fletcher, Russell and Williams",False
+3586,Home,"Valencia, Yang and Brock",True
+3587,Home,Potter and Sons,True
+3588,Electronics,Salazar PLC,False
+3589,Electronics,Thompson Group,False
+3590,Fashion,Wood-Moore,False
+3591,Electronics,Brewer Inc,False
+3592,Electronics,"Charles, Shannon and Johnson",True
+3593,Home,"Bonilla, Thomas and King",False
+3594,Home,Morse Ltd,True
+3595,Books,Bernard-Burns,False
+3596,Home,Moore-Jones,False
+3597,Books,"Nichols, Goodman and Turner",False
+3598,Books,Molina-Jackson,False
+3599,Home,Valenzuela-Young,True
+3600,Home,Hunt-Herrera,False
+3601,Fashion,Hill LLC,True
+3602,Home,"Williams, Martin and Kennedy",True
+3603,Books,"Gardner, Martinez and Lane",True
+3604,Books,Jimenez Ltd,False
+3605,Books,Logan-Alexander,False
+3606,Books,Aguirre-Barrett,False
+3607,Electronics,"Hicks, Rodriguez and Taylor",False
+3608,Books,"Conner, Cruz and Cannon",False
+3609,Fashion,Pineda-Hayes,False
+3610,Fashion,Parker Ltd,True
+3611,Electronics,Coleman Inc,False
+3612,Electronics,"Griffith, Fleming and Gilmore",False
+3613,Books,"Rogers, Randall and Parker",False
+3614,Home,"Escobar, Miller and Moreno",True
+3615,Electronics,Tucker-Oconnor,True
+3616,Fashion,Fox-Atkins,False
+3617,Books,"Mejia, Wilkerson and Patterson",False
+3618,Electronics,Harrison-Carney,True
+3619,Books,"Jones, Morgan and Little",False
+3620,Fashion,Castro-Gardner,True
+3621,Books,"Boone, Reynolds and Ferguson",True
+3622,Electronics,"Chapman, Short and Nguyen",True
+3623,Fashion,Flores Inc,False
+3624,Books,Gray-Davis,True
+3625,Home,Henson-Hernandez,True
+3626,Books,"Flores, Cox and Grimes",False
+3627,Books,Brooks Ltd,True
+3628,Home,"Roberts, Fleming and Dickson",True
+3629,Fashion,"Yang, Haley and Robinson",True
+3630,Fashion,Figueroa Ltd,False
+3631,Electronics,Wheeler-Mcdowell,True
+3632,Electronics,"Willis, Smith and Stevens",True
+3633,Home,Mendez-Barrett,False
+3634,Books,"Todd, Stevens and Harrington",False
+3635,Electronics,"Spencer, Anderson and Williams",False
+3636,Fashion,"Oliver, Martin and Valentine",False
+3637,Electronics,Walker Ltd,True
+3638,Fashion,"Moore, Figueroa and Hall",False
+3639,Books,Bray and Sons,False
+3640,Electronics,"Berger, Mercer and Gonzalez",False
+3641,Fashion,Brewer-Pittman,True
+3642,Home,"Fox, Crawford and Perry",True
+3643,Electronics,"Hansen, Jones and Ibarra",True
+3644,Books,"Mason, Smith and Gardner",True
+3645,Fashion,Howe-Lopez,True
+3646,Fashion,"Lane, Clark and Sherman",False
+3647,Electronics,Combs Inc,False
+3648,Electronics,Bennett-Hart,False
+3649,Books,Peterson-Garza,False
+3650,Electronics,Watts PLC,False
+3651,Books,White PLC,True
+3652,Books,Knight-Medina,True
+3653,Electronics,Pruitt and Sons,False
+3654,Fashion,"Ball, Thomas and Prince",False
+3655,Home,"Lowe, Durham and Murphy",True
+3656,Books,"Young, Thomas and Guzman",False
+3657,Books,"King, Golden and Whitaker",True
+3658,Electronics,Perry-Sanchez,True
+3659,Electronics,Harvey and Sons,False
+3660,Books,Dunn-Davis,False
+3661,Home,Wright PLC,True
+3662,Electronics,White LLC,False
+3663,Electronics,Phillips Group,True
+3664,Fashion,Jordan-Stephens,True
+3665,Home,Lee-Hunter,False
+3666,Books,Hall Inc,True
+3667,Electronics,Miles-Payne,False
+3668,Electronics,Stewart and Sons,True
+3669,Home,Wong and Sons,True
+3670,Books,Garcia-Stewart,True
+3671,Electronics,Price-Edwards,False
+3672,Electronics,Camacho-Black,True
+3673,Electronics,"Woodard, Brown and Johnson",True
+3674,Fashion,Serrano-Romero,True
+3675,Fashion,"Schroeder, Marshall and Roman",True
+3676,Fashion,Martinez PLC,False
+3677,Fashion,"Turner, Brooks and Murray",True
+3678,Home,Shepherd-Murray,True
+3679,Electronics,Franklin-Mclean,True
+3680,Electronics,Vasquez-Allison,True
+3681,Books,Christensen-Garcia,True
+3682,Home,Gonzales-Alexander,True
+3683,Electronics,White-Rivera,False
+3684,Books,Willis-Craig,False
+3685,Books,Morris-Stevens,True
+3686,Electronics,Murphy-Avery,True
+3687,Home,Daniels-Woods,False
+3688,Electronics,Smith LLC,True
+3689,Books,Moore Ltd,True
+3690,Fashion,"Kline, Mitchell and Velasquez",True
+3691,Fashion,Rogers-Barry,False
+3692,Electronics,Blair-Cole,False
+3693,Home,"Stark, Reyes and Forbes",True
+3694,Home,"Johnson, Olson and Schneider",False
+3695,Electronics,Dunlap-Contreras,False
+3696,Books,Freeman-Sullivan,True
+3697,Electronics,"Michael, Wade and Bowman",True
+3698,Books,"Gray, Rogers and Davis",True
+3699,Fashion,Wong Ltd,False
+3700,Home,"Smith, Howard and Roberts",False
+3701,Books,"Velazquez, Boone and Hanson",False
+3702,Home,Sullivan-Brown,True
+3703,Fashion,Morris-Smith,False
+3704,Fashion,Rowe-Frazier,True
+3705,Fashion,Coleman Group,False
+3706,Home,Nelson Inc,True
+3707,Home,Johnson-Cooper,False
+3708,Home,Perkins Group,False
+3709,Electronics,"Hughes, Ramirez and Jordan",True
+3710,Home,Livingston Ltd,True
+3711,Home,Mcintosh-Butler,True
+3712,Books,Bailey LLC,True
+3713,Fashion,"Martinez, Marshall and Blair",False
+3714,Fashion,"Buckley, Russell and Jones",True
+3715,Electronics,Cox-James,False
+3716,Home,Young PLC,False
+3717,Books,"Graham, Hodges and Simon",False
+3718,Electronics,"Hampton, Malone and Osborne",True
+3719,Fashion,"Price, Williams and Walter",True
+3720,Fashion,Fitzgerald-Gutierrez,True
+3721,Books,Mitchell-Taylor,True
+3722,Fashion,"Davis, Gonzalez and Ruiz",True
+3723,Electronics,Thompson-Campbell,True
+3724,Electronics,Pham-Murphy,False
+3725,Books,Benson Ltd,False
+3726,Books,"Sawyer, Parker and Everett",False
+3727,Home,Lopez-Mccarthy,True
+3728,Fashion,Holmes and Sons,False
+3729,Electronics,Morgan Ltd,False
+3730,Fashion,Gilbert and Sons,True
+3731,Electronics,Bell Inc,False
+3732,Books,"Kim, Martin and Tate",True
+3733,Electronics,Bailey Inc,False
+3734,Books,Escobar and Sons,False
+3735,Books,Gutierrez-Wheeler,False
+3736,Fashion,"Henderson, Chavez and Cuevas",False
+3737,Electronics,Burns Group,True
+3738,Books,Harper and Sons,False
+3739,Electronics,"Melendez, Adams and Perez",True
+3740,Home,"Dean, Mccullough and Smith",False
+3741,Electronics,Ramirez and Sons,False
+3742,Home,Santos-Peterson,False
+3743,Home,Mcguire-Vazquez,False
+3744,Home,Cunningham LLC,False
+3745,Books,Mathis Group,False
+3746,Books,Carter Group,False
+3747,Electronics,Brown Inc,True
+3748,Books,"Chung, Rodriguez and Simmons",True
+3749,Home,Lynch Ltd,True
+3750,Home,Raymond-Johnson,True
+3751,Books,Middleton Group,True
+3752,Fashion,Parker Inc,False
+3753,Fashion,"Hernandez, Brown and Patton",True
+3754,Fashion,"Moore, Hardy and Donovan",False
+3755,Books,Watts-Parker,False
+3756,Home,Douglas-Fuller,False
+3757,Home,Webb and Sons,True
+3758,Books,Hernandez-Nguyen,False
+3759,Home,Cox Inc,False
+3760,Home,Mccarty Ltd,False
+3761,Home,Chapman Ltd,True
+3762,Fashion,"Morales, Weber and Matthews",True
+3763,Electronics,"Gardner, Melton and Jackson",True
+3764,Electronics,Garcia LLC,False
+3765,Fashion,Durham-Benjamin,False
+3766,Books,Flores-Long,False
+3767,Home,Davenport-Whitaker,False
+3768,Fashion,"Henderson, Hinton and Gallegos",True
+3769,Fashion,Adams-Dawson,True
+3770,Fashion,Booth-Khan,False
+3771,Home,Cannon-Cohen,True
+3772,Fashion,Gordon-Wilson,False
+3773,Books,"Andrade, Harper and Davis",False
+3774,Fashion,Carter-Compton,True
+3775,Books,Barnett-Molina,False
+3776,Books,Wyatt-Martinez,False
+3777,Home,"Stewart, Cooper and Steele",True
+3778,Electronics,"Wise, Mclaughlin and Walsh",True
+3779,Electronics,Clark-Adams,True
+3780,Fashion,Newton-Sutton,True
+3781,Books,Hernandez Ltd,False
+3782,Electronics,Ramirez-Powell,True
+3783,Home,Dunn Ltd,False
+3784,Books,Reed-Lewis,True
+3785,Electronics,"Rodgers, Harrison and Smith",False
+3786,Electronics,"Rogers, King and Mccall",True
+3787,Electronics,"Ramsey, Wells and Hensley",False
+3788,Electronics,Williams-Price,False
+3789,Fashion,Anderson-Mack,True
+3790,Electronics,Fowler-Gates,False
+3791,Fashion,Moore-Miller,False
+3792,Fashion,"Davidson, Shepard and Gibbs",True
+3793,Electronics,"Pace, Richardson and Yang",False
+3794,Books,Howell and Sons,False
+3795,Home,Mullins-Thompson,True
+3796,Electronics,"Jacobs, Fox and Dixon",False
+3797,Fashion,"Richards, Simpson and Graham",False
+3798,Home,"Franklin, Cannon and Higgins",True
+3799,Home,Campbell-Warner,False
+3800,Fashion,Lynn and Sons,True
+3801,Home,Hernandez Ltd,True
+3802,Electronics,"Smith, Johnson and Cox",True
+3803,Electronics,"Hawkins, Jones and Harper",True
+3804,Home,Oconnor-Riddle,False
+3805,Fashion,Moon-Peterson,True
+3806,Electronics,"Sherman, Jennings and Willis",True
+3807,Books,Chandler Group,False
+3808,Fashion,Wells LLC,True
+3809,Electronics,Cantu and Sons,False
+3810,Home,"Campos, Vega and Curry",False
+3811,Home,Smith-Nguyen,True
+3812,Books,"Lewis, Chapman and Jones",False
+3813,Fashion,"Davis, Williams and Kim",True
+3814,Fashion,"Rose, Mann and Hernandez",False
+3815,Fashion,Holmes Ltd,True
+3816,Books,Patel-Webb,False
+3817,Books,"Lynch, Fitzpatrick and Collier",True
+3818,Electronics,Williams PLC,True
+3819,Home,"Kelley, Harmon and Santos",True
+3820,Electronics,"Howell, Roy and Ramirez",True
+3821,Books,Mullins-Norman,False
+3822,Fashion,Green-Atkinson,False
+3823,Electronics,Johnson-Gallegos,False
+3824,Electronics,Barrett Ltd,False
+3825,Fashion,"Dillon, Chambers and Lewis",False
+3826,Home,Ingram Ltd,True
+3827,Fashion,Galloway PLC,True
+3828,Books,Richmond Group,False
+3829,Books,Neal-Mccall,True
+3830,Home,Nguyen-Hickman,True
+3831,Fashion,"Nguyen, Anderson and Hebert",True
+3832,Books,Romero Group,False
+3833,Home,"Hall, Lee and Mcintosh",True
+3834,Home,George-Davis,False
+3835,Electronics,"Gardner, Davis and Henson",False
+3836,Home,"Medina, Moore and Williams",False
+3837,Home,Moore PLC,True
+3838,Home,"Jones, Ramirez and Villa",False
+3839,Home,Norris-Dean,True
+3840,Books,Calderon and Sons,True
+3841,Home,Ashley-Hinton,False
+3842,Books,Ramos Inc,True
+3843,Fashion,"Smith, Huffman and Baker",False
+3844,Home,"Myers, Li and Gould",False
+3845,Home,"Carter, Lopez and Turner",True
+3846,Home,Rodriguez-Larson,True
+3847,Electronics,Kennedy and Sons,True
+3848,Electronics,"Ruiz, Vazquez and Garner",True
+3849,Home,Williams-Wood,False
+3850,Electronics,Gonzalez-Lee,True
+3851,Books,"Clarke, Glover and Watson",False
+3852,Home,"King, Jones and Benson",False
+3853,Home,Osborne LLC,True
+3854,Electronics,Powers and Sons,False
+3855,Books,"Trujillo, Silva and Caldwell",False
+3856,Books,Smith and Sons,True
+3857,Books,Liu Inc,True
+3858,Fashion,Warner-Thomas,True
+3859,Home,"Watts, Romero and Bell",True
+3860,Electronics,"Bates, Valenzuela and Sparks",True
+3861,Fashion,Garcia Inc,False
+3862,Home,Garcia PLC,True
+3863,Home,Morrison-Lewis,True
+3864,Home,"Manning, Erickson and Smith",False
+3865,Fashion,King LLC,False
+3866,Books,"Nguyen, Martinez and Bennett",True
+3867,Electronics,"Edwards, Robinson and Beasley",True
+3868,Home,Morales Group,True
+3869,Home,Jones and Sons,False
+3870,Books,Mason Ltd,True
+3871,Electronics,Patton-Cohen,True
+3872,Electronics,"James, Sparks and Anderson",True
+3873,Electronics,Atkins-Wilson,False
+3874,Home,Harris Ltd,True
+3875,Books,"Brown, Garcia and Martin",True
+3876,Fashion,"Vargas, Anderson and Jones",False
+3877,Fashion,Adams PLC,False
+3878,Fashion,Wilson-Daniel,False
+3879,Fashion,"Smith, Charles and Williams",True
+3880,Home,Soto Group,True
+3881,Home,Smith-Robinson,False
+3882,Home,Smith Ltd,False
+3883,Fashion,Wong-Jackson,False
+3884,Books,Patrick LLC,True
+3885,Books,Ward Group,True
+3886,Fashion,"Craig, Bell and Martinez",False
+3887,Fashion,Escobar-Lopez,False
+3888,Electronics,"Reynolds, Glover and Hanson",True
+3889,Home,Underwood-Sheppard,False
+3890,Fashion,"Webb, Howell and Bailey",False
+3891,Books,Parker Ltd,True
+3892,Books,Perry Inc,True
+3893,Books,Walker-Burch,False
+3894,Fashion,Dudley Inc,True
+3895,Electronics,Jones-Holt,False
+3896,Electronics,Walker and Sons,True
+3897,Electronics,Mayer Ltd,True
+3898,Books,Bush PLC,False
+3899,Home,Flowers Inc,True
+3900,Books,"Jordan, Diaz and Young",False
+3901,Home,Young-Schroeder,True
+3902,Home,Conrad LLC,True
+3903,Books,Cox Inc,False
+3904,Fashion,"Powers, Diaz and Stanley",True
+3905,Books,"Johnston, Espinoza and Browning",False
+3906,Electronics,Mercado-Olson,False
+3907,Books,Sanchez-Woods,True
+3908,Fashion,May-Jones,False
+3909,Books,Hayes LLC,False
+3910,Home,"Wood, Maldonado and Gutierrez",False
+3911,Electronics,Moore Group,False
+3912,Home,"Phillips, Dawson and Holland",True
+3913,Fashion,Chang Inc,True
+3914,Electronics,Brooks PLC,True
+3915,Home,Petersen Inc,False
+3916,Home,Carpenter Inc,False
+3917,Electronics,Davis PLC,True
+3918,Books,Murray Inc,True
+3919,Electronics,Stokes Ltd,True
+3920,Books,"Pittman, Hart and Gates",True
+3921,Fashion,Stephenson-Stark,False
+3922,Fashion,Willis-Hoffman,True
+3923,Fashion,"Foster, Clayton and Mills",False
+3924,Electronics,"Wong, White and Bailey",False
+3925,Fashion,Kim-Mcdowell,True
+3926,Electronics,Lewis-Melton,False
+3927,Home,White-Ellis,False
+3928,Electronics,Randall-Webster,True
+3929,Electronics,Payne-Wright,False
+3930,Fashion,Henderson-Gonzalez,False
+3931,Electronics,"Mcdaniel, Fowler and Peters",False
+3932,Home,"Black, Williams and Wheeler",False
+3933,Home,Salas-Webb,False
+3934,Fashion,Johnson-English,True
+3935,Electronics,Wheeler PLC,False
+3936,Home,Hanson and Sons,False
+3937,Books,Davis-Mcconnell,False
+3938,Books,Gamble PLC,False
+3939,Electronics,"Brown, Burgess and Khan",False
+3940,Books,Torres and Sons,False
+3941,Electronics,Brown-Davis,True
+3942,Electronics,Larsen-Smith,False
+3943,Fashion,"Hatfield, Perry and Ortiz",True
+3944,Fashion,"Ochoa, Ryan and Jordan",False
+3945,Fashion,"Castillo, Campos and Clark",True
+3946,Books,"Harrell, Phillips and Robinson",True
+3947,Electronics,King Ltd,False
+3948,Books,"Carter, Rodriguez and Davis",False
+3949,Books,Garcia Inc,False
+3950,Books,"Rodriguez, Stewart and Lopez",True
+3951,Books,Williams-Vega,True
+3952,Fashion,May Ltd,False
+3953,Electronics,"Moore, Cortez and Lopez",False
+3954,Books,Williams-Johnson,False
+3955,Books,Randall-Taylor,True
+3956,Books,Davis PLC,False
+3957,Electronics,Peters Ltd,False
+3958,Fashion,Morgan-Murphy,False
+3959,Electronics,Rodriguez-Ramirez,True
+3960,Books,Chase Ltd,False
+3961,Home,Morris-Todd,False
+3962,Fashion,Love-Keller,True
+3963,Books,Simpson-Graves,False
+3964,Books,"Hill, Cox and Brown",False
+3965,Electronics,"Figueroa, Scott and Reed",False
+3966,Electronics,Graves Inc,True
+3967,Home,"Miles, Cooper and Rodriguez",True
+3968,Home,Bartlett and Sons,True
+3969,Books,Mcmillan-Parker,False
+3970,Fashion,"Jones, Graves and Hill",False
+3971,Books,Nelson-Herman,True
+3972,Electronics,"Vance, Ramsey and Matthews",True
+3973,Electronics,Gonzalez Group,True
+3974,Electronics,Osborne-Wood,False
+3975,Electronics,Francis and Sons,False
+3976,Fashion,"Powell, Carter and Flores",True
+3977,Fashion,"Cummings, Evans and Macias",True
+3978,Books,Wyatt PLC,True
+3979,Electronics,"Campos, Gutierrez and Harris",True
+3980,Electronics,"Ramos, Davis and Ray",False
+3981,Fashion,"Hayes, Grimes and Brown",True
+3982,Books,Cooper-Kelly,False
+3983,Electronics,"Owen, Bailey and Bowers",True
+3984,Electronics,Parks-Harrison,False
+3985,Home,Hill Ltd,False
+3986,Books,"Murphy, Stevens and Schwartz",True
+3987,Electronics,"Mata, Allen and Ruiz",True
+3988,Books,Rowe-Brown,False
+3989,Home,Oconnor-Sanchez,True
+3990,Fashion,"Guzman, Thomas and Lester",False
+3991,Fashion,Mitchell-Hall,False
+3992,Electronics,"Benitez, Johnson and Hunt",False
+3993,Fashion,Walker and Sons,True
+3994,Fashion,"Fletcher, Smith and Fields",True
+3995,Books,Yoder-Hanson,False
+3996,Home,Madden-Fox,True
+3997,Books,Baldwin-Carlson,False
+3998,Fashion,"Glenn, Contreras and Evans",True
+3999,Fashion,Sanchez-Petersen,True
+4000,Books,Hancock Group,False
+4001,Fashion,Franklin-Graham,True
+4002,Fashion,Jones-Cain,False
+4003,Fashion,Cain-Smith,False
+4004,Books,Nelson-Higgins,True
+4005,Home,Ryan-Davis,False
+4006,Fashion,Miller Inc,False
+4007,Books,"Todd, Liu and Robertson",False
+4008,Electronics,"Jones, Esparza and Newton",True
+4009,Fashion,Nunez-Gonzalez,False
+4010,Books,Mitchell-Robinson,False
+4011,Home,Dominguez-Jenkins,True
+4012,Books,Mcintosh Ltd,True
+4013,Electronics,Martin PLC,False
+4014,Fashion,Gonzalez-Baker,False
+4015,Electronics,Andersen-Hodge,False
+4016,Home,"Griffith, Duarte and Mcmillan",True
+4017,Books,Cox-Shaffer,True
+4018,Electronics,"Farrell, Rollins and Murray",True
+4019,Home,Alvarez LLC,True
+4020,Fashion,Wilson-Williams,False
+4021,Electronics,Bailey PLC,True
+4022,Fashion,Reeves-Murphy,False
+4023,Books,"Bell, Gray and Evans",True
+4024,Books,"Leonard, Hill and Daniels",False
+4025,Books,Parker Ltd,False
+4026,Home,"Johnson, Reynolds and Welch",False
+4027,Home,"Robinson, Gonzalez and Vang",False
+4028,Books,Rodriguez-Brown,False
+4029,Home,Barker-Morales,False
+4030,Fashion,"Brown, Contreras and Alexander",True
+4031,Books,Robinson-Davila,True
+4032,Fashion,Gonzales-Huber,True
+4033,Fashion,"Mcbride, Burton and Gregory",False
+4034,Home,Smith Group,False
+4035,Books,"Flores, Walker and Peterson",False
+4036,Electronics,Cruz LLC,False
+4037,Electronics,Mosley Ltd,True
+4038,Electronics,Montgomery-Le,False
+4039,Electronics,Lynch-Ramsey,True
+4040,Home,White-Owens,False
+4041,Home,"Gomez, Trujillo and Williams",True
+4042,Books,Ramos-Rogers,False
+4043,Books,Howard and Sons,False
+4044,Fashion,"Craig, Johnson and Lopez",False
+4045,Home,"Wallace, Sherman and Hendricks",False
+4046,Books,"Underwood, Chavez and Serrano",False
+4047,Electronics,Brown-Jones,True
+4048,Home,Good Group,True
+4049,Fashion,"Adams, Potter and Knight",False
+4050,Fashion,"Jones, Thomas and Gilmore",True
+4051,Home,Wright Inc,True
+4052,Electronics,Johnson LLC,False
+4053,Home,"Wood, Chambers and Briggs",False
+4054,Fashion,Blackburn-Lucero,False
+4055,Books,Larson-Carr,False
+4056,Home,Brooks Inc,False
+4057,Fashion,Martinez and Sons,True
+4058,Books,Phillips Group,False
+4059,Electronics,Henson Group,True
+4060,Fashion,"Smith, Brown and Gaines",True
+4061,Books,Buchanan-Thomas,False
+4062,Books,Jacobs Ltd,False
+4063,Home,Gray-Moran,False
+4064,Electronics,Barnes-House,True
+4065,Home,Lewis Group,True
+4066,Books,"May, Rodriguez and Ware",True
+4067,Electronics,"Griffith, Lane and Irwin",True
+4068,Electronics,Williams-Ryan,True
+4069,Fashion,"Bowman, Humphrey and Peterson",False
+4070,Electronics,Velasquez-Hammond,True
+4071,Home,Wright-Pace,True
+4072,Books,Jones Group,True
+4073,Books,"Smith, Choi and Davis",True
+4074,Fashion,"Carpenter, Torres and Peters",True
+4075,Fashion,Rodriguez-Martinez,True
+4076,Electronics,Jimenez and Sons,False
+4077,Books,Franklin Group,False
+4078,Home,Cunningham PLC,False
+4079,Home,"Rodriguez, Cruz and Smith",True
+4080,Home,Rivera-Williams,False
+4081,Books,"Miller, Banks and Huang",False
+4082,Home,"Ritter, Le and Cohen",False
+4083,Books,Pacheco-Hancock,False
+4084,Books,Griffin PLC,False
+4085,Electronics,"Martin, Clark and Abbott",True
+4086,Home,Bowers-Lopez,True
+4087,Books,"Jones, Humphrey and Lee",False
+4088,Books,Stewart and Sons,True
+4089,Electronics,Nguyen Inc,False
+4090,Fashion,"Turner, Patterson and Perez",True
+4091,Home,Hall-Ellis,True
+4092,Electronics,"Rodgers, Davis and Martin",True
+4093,Fashion,"Lynn, Morrison and Anderson",False
+4094,Books,Espinoza-Mendoza,False
+4095,Books,Ross Group,False
+4096,Fashion,"Anderson, Howard and Graham",True
+4097,Electronics,Richardson-Martin,True
+4098,Fashion,"Hall, Wells and Lawrence",False
+4099,Home,Smith-Hanson,True
+4100,Fashion,Campbell and Sons,True
+4101,Home,"Jones, West and Hardy",True
+4102,Home,Alexander PLC,True
+4103,Electronics,Munoz-May,False
+4104,Fashion,Hardin-Bryan,True
+4105,Books,"Lowe, Rodriguez and Sandoval",False
+4106,Home,"Shaffer, Decker and Guerrero",True
+4107,Fashion,Davis-White,True
+4108,Home,Caldwell-Flores,True
+4109,Home,Parker-Barnes,False
+4110,Books,Bullock-Martin,False
+4111,Electronics,Anderson-Gallagher,True
+4112,Books,Hopkins PLC,True
+4113,Electronics,"Miranda, Johnson and Graham",False
+4114,Fashion,"Sheppard, Oneal and Garner",False
+4115,Electronics,"Moore, Lee and Miller",False
+4116,Home,Strickland-Young,True
+4117,Books,Scott and Sons,False
+4118,Books,Cardenas Ltd,True
+4119,Fashion,Thomas Group,False
+4120,Books,"Clarke, Schultz and Jackson",False
+4121,Books,Lucero LLC,True
+4122,Electronics,Wagner LLC,True
+4123,Home,Howe LLC,False
+4124,Home,"Smith, Klein and Arias",False
+4125,Electronics,"Johnson, Wheeler and Wilson",False
+4126,Fashion,Hammond PLC,True
+4127,Home,Rogers-Thomas,True
+4128,Fashion,Williams and Sons,False
+4129,Home,Michael-Olson,True
+4130,Electronics,Price-Gordon,True
+4131,Electronics,Downs-Barnes,True
+4132,Home,"Garrett, Bradley and Hill",True
+4133,Home,Garrett Ltd,True
+4134,Electronics,Guzman Group,True
+4135,Home,"Hernandez, Klein and Reilly",True
+4136,Books,Raymond Ltd,True
+4137,Fashion,Parker-Butler,False
+4138,Home,Gonzalez Inc,True
+4139,Fashion,Davis and Sons,False
+4140,Fashion,Cooper-Foster,True
+4141,Electronics,Jensen LLC,True
+4142,Home,"Bishop, Hicks and Frazier",True
+4143,Home,Bowers-Williams,True
+4144,Home,Dominguez-Hopkins,False
+4145,Electronics,Jones LLC,False
+4146,Books,Walker LLC,True
+4147,Electronics,"Manning, Stout and Hanson",False
+4148,Books,Walker-Smith,False
+4149,Fashion,"Pitts, Hill and Romero",True
+4150,Electronics,Barry-Ferguson,True
+4151,Electronics,"Roberts, Harmon and Crawford",False
+4152,Fashion,"Jenkins, Sheppard and Brady",False
+4153,Home,Bryant and Sons,True
+4154,Electronics,"Morgan, Decker and Brown",False
+4155,Electronics,Gregory Group,False
+4156,Home,Lee-Ross,True
+4157,Books,Horn-Davis,False
+4158,Fashion,Walker-Mitchell,True
+4159,Fashion,"Blake, Jackson and Lewis",True
+4160,Home,"Hancock, Flynn and Bailey",True
+4161,Home,Hogan-Ramirez,False
+4162,Electronics,Bolton and Sons,False
+4163,Home,Hunt-Martinez,True
+4164,Books,Daniel Ltd,False
+4165,Fashion,Lewis-Larsen,False
+4166,Electronics,Rice-Wright,False
+4167,Home,Bailey-Brown,False
+4168,Electronics,Sparks LLC,False
+4169,Home,Orr-Aguilar,False
+4170,Books,"Duncan, Jones and Taylor",True
+4171,Fashion,David-Bradley,False
+4172,Home,Rogers and Sons,False
+4173,Books,Sellers-Myers,True
+4174,Books,Barker-Webster,True
+4175,Fashion,Miller-Santana,True
+4176,Fashion,Jones Inc,True
+4177,Books,Reyes-Wallace,False
+4178,Books,"Fisher, Cooper and Goodman",True
+4179,Books,"Romero, Perry and Salazar",True
+4180,Electronics,James Group,True
+4181,Fashion,"Mcfarland, Allen and Thomas",False
+4182,Books,Obrien-Flynn,True
+4183,Home,"Jackson, Reynolds and Rogers",False
+4184,Home,"Williams, Nelson and Berger",True
+4185,Books,Obrien-Carlson,False
+4186,Fashion,Morgan-Smith,True
+4187,Electronics,Jacobs Group,True
+4188,Books,"Baker, Copeland and Taylor",True
+4189,Books,Robinson-Knox,False
+4190,Books,Brown Group,False
+4191,Home,"Smith, Bradshaw and Koch",True
+4192,Books,Jones-Fitzpatrick,False
+4193,Books,Owens PLC,False
+4194,Fashion,"Nichols, Smith and Smith",True
+4195,Electronics,"Reid, Garcia and Murray",True
+4196,Fashion,Kim-Wilcox,True
+4197,Books,"Henderson, Mercado and Valdez",False
+4198,Books,Jimenez Group,True
+4199,Fashion,Randall Inc,False
+4200,Home,Lee Inc,False
+4201,Books,"Haynes, Ferguson and Chapman",False
+4202,Home,Velez Group,False
+4203,Books,"Rogers, Rasmussen and Patrick",False
+4204,Home,"Coleman, Sparks and Henson",True
+4205,Electronics,Nelson Inc,True
+4206,Home,Washington-Davis,False
+4207,Home,Flores Inc,True
+4208,Electronics,Martin-Anderson,True
+4209,Fashion,Scott-Ewing,True
+4210,Fashion,Greene-George,True
+4211,Home,Lowery Ltd,False
+4212,Home,Moore Ltd,True
+4213,Home,"Graham, Durham and Taylor",True
+4214,Fashion,Kennedy-Duncan,True
+4215,Books,"Jordan, Mcconnell and Crosby",False
+4216,Home,Edwards Ltd,True
+4217,Home,Downs-Sanchez,True
+4218,Home,"Gibson, Wilson and Miller",False
+4219,Home,Morrison Ltd,False
+4220,Fashion,Rivas-Clark,True
+4221,Home,"Jordan, Chavez and Garcia",True
+4222,Books,"Hanson, Gordon and Acosta",False
+4223,Fashion,Rubio-Holloway,True
+4224,Home,"Smith, Chapman and Johnson",False
+4225,Books,"Phillips, Cole and Thompson",False
+4226,Electronics,Sparks-Oneill,True
+4227,Fashion,"Shannon, Cain and Sullivan",True
+4228,Books,"Norris, Jones and Torres",True
+4229,Electronics,Barnett and Sons,True
+4230,Fashion,Allen-Mcintosh,False
+4231,Home,"Jones, Johnson and Orozco",False
+4232,Home,Barnes PLC,True
+4233,Books,Johnson Group,True
+4234,Books,Barron Inc,False
+4235,Fashion,Nash-Hudson,True
+4236,Fashion,"Jenkins, Simmons and Oconnor",True
+4237,Fashion,Bryan-Perry,True
+4238,Books,Smith-Cox,False
+4239,Fashion,"Williams, Gregory and Herrera",False
+4240,Fashion,Lowe-Mills,False
+4241,Electronics,"Howard, Parker and Hobbs",False
+4242,Fashion,Martinez-Miller,False
+4243,Electronics,Collins Ltd,False
+4244,Home,"Bailey, Crawford and Davis",True
+4245,Fashion,Floyd-Graham,True
+4246,Home,Willis-Scott,True
+4247,Books,Walker-Johnson,True
+4248,Books,"Smith, Sullivan and Garrison",False
+4249,Fashion,"Smith, Williams and Smith",False
+4250,Fashion,"Thomas, Lloyd and Waters",True
+4251,Electronics,Mcdonald Group,False
+4252,Home,Ramirez-Bird,False
+4253,Electronics,Thomas Group,True
+4254,Fashion,"Salazar, Jones and Brown",False
+4255,Fashion,"Moore, Bright and Wilkins",False
+4256,Electronics,Medina-Bell,False
+4257,Books,"Peters, Freeman and Collins",True
+4258,Fashion,Cooper and Sons,False
+4259,Books,Wilkins-Wilson,True
+4260,Electronics,Bailey-Richards,True
+4261,Books,Diaz-Reeves,False
+4262,Books,Evans LLC,False
+4263,Books,Haney-Hayes,False
+4264,Books,Watson-Hardin,True
+4265,Books,Clark-Morrow,True
+4266,Electronics,"Johnson, Smith and Green",True
+4267,Home,"Castillo, English and Ferguson",False
+4268,Home,"Buchanan, Ward and Murphy",False
+4269,Fashion,"Alvarez, Thompson and Baker",True
+4270,Electronics,"Flores, Webb and Vasquez",False
+4271,Fashion,"Clark, Lopez and Mitchell",False
+4272,Home,Miles-Williams,True
+4273,Books,Cameron-Jones,True
+4274,Home,Rangel Inc,True
+4275,Books,"Levy, Scott and Martinez",True
+4276,Electronics,Fleming-Kelly,True
+4277,Fashion,Baker LLC,True
+4278,Home,Ball PLC,False
+4279,Books,"Johnson, Turner and Murphy",True
+4280,Books,Bartlett LLC,False
+4281,Electronics,Wolf Ltd,False
+4282,Electronics,"Gonzalez, Davis and Anderson",False
+4283,Books,"Monroe, Morales and Palmer",True
+4284,Fashion,"Mayo, Gonzales and Jones",True
+4285,Home,Lam-White,True
+4286,Books,Brown-Pugh,True
+4287,Home,Harris Inc,False
+4288,Fashion,Edwards Group,False
+4289,Books,"Rangel, Weaver and Smith",False
+4290,Fashion,Soto-Stewart,False
+4291,Books,Morris and Sons,True
+4292,Books,Crawford-Sharp,False
+4293,Electronics,Lopez Inc,True
+4294,Books,Bowers Group,True
+4295,Home,"Olson, Hughes and Johnson",True
+4296,Home,Page-Chavez,True
+4297,Electronics,Wagner Ltd,False
+4298,Books,Leon and Sons,True
+4299,Home,Zavala Group,False
+4300,Electronics,Smith-Ferguson,False
+4301,Electronics,Ruiz and Sons,False
+4302,Electronics,"Pierce, Wood and Gray",False
+4303,Books,Potts-Flores,True
+4304,Home,Ware-Watson,False
+4305,Home,Chavez-Johnson,False
+4306,Fashion,Booth Inc,False
+4307,Home,Oliver-Lee,True
+4308,Books,"Church, Richards and Garcia",False
+4309,Books,Morrow Group,True
+4310,Electronics,Bowers Group,False
+4311,Books,"Powell, Henderson and Hill",False
+4312,Books,Jones-Brown,True
+4313,Fashion,Schultz-Butler,True
+4314,Fashion,Lopez and Sons,False
+4315,Home,Taylor Ltd,False
+4316,Electronics,Williams Inc,False
+4317,Fashion,"Peterson, Dudley and Hensley",True
+4318,Electronics,Garrett Ltd,True
+4319,Fashion,Molina-Fritz,False
+4320,Electronics,Martin-Murphy,True
+4321,Books,Bauer Group,False
+4322,Electronics,Clark LLC,False
+4323,Books,Gonzalez-Johns,False
+4324,Books,Sanders and Sons,True
+4325,Electronics,Smith LLC,False
+4326,Electronics,"Morris, Henderson and Franco",False
+4327,Home,"Kaufman, Henderson and David",True
+4328,Books,Cardenas Group,True
+4329,Electronics,Hernandez Ltd,False
+4330,Electronics,Jones LLC,True
+4331,Electronics,Padilla-Vasquez,False
+4332,Home,Alexander-Allison,True
+4333,Electronics,"Hall, Khan and Holloway",True
+4334,Books,Hull-Estrada,True
+4335,Home,"Crawford, Parker and Morales",False
+4336,Home,"Mcbride, Hart and Barajas",True
+4337,Fashion,"Anderson, Nolan and Green",True
+4338,Home,Henderson-Hughes,False
+4339,Home,"Bell, Gill and Phillips",False
+4340,Books,Horton and Sons,False
+4341,Fashion,Olsen PLC,True
+4342,Fashion,"Villarreal, Williams and Wolf",True
+4343,Electronics,Hunt Group,False
+4344,Home,Watson-Price,False
+4345,Electronics,Molina-Lewis,True
+4346,Home,Alvarado Group,True
+4347,Books,"Knight, Reynolds and Johnson",False
+4348,Fashion,Garcia-Smith,True
+4349,Electronics,Hill-Mcconnell,True
+4350,Electronics,Martinez-Brown,False
+4351,Books,"Barton, Glenn and Wilson",False
+4352,Electronics,Daniel-Boyd,False
+4353,Electronics,Dean-Taylor,False
+4354,Books,Zavala-Baldwin,False
+4355,Electronics,"Ramirez, Lynch and Ross",True
+4356,Books,Robinson-Jordan,True
+4357,Books,Wilson-Kim,True
+4358,Electronics,Martinez Group,True
+4359,Books,"Lloyd, Day and Mitchell",False
+4360,Electronics,Lucas Ltd,True
+4361,Electronics,"Huff, Mitchell and Steele",False
+4362,Fashion,"Mason, Molina and Schmidt",True
+4363,Books,Ray-Jackson,True
+4364,Fashion,Gates-Hawkins,True
+4365,Home,Smith-Alvarado,False
+4366,Fashion,Padilla-Grant,False
+4367,Books,"Jordan, Hines and Castaneda",True
+4368,Fashion,Mcdonald-Zhang,True
+4369,Fashion,Aguilar-Lindsey,False
+4370,Electronics,Gonzalez Inc,False
+4371,Fashion,Clark Group,True
+4372,Home,"Sexton, Deleon and Hernandez",True
+4373,Home,Rice Group,False
+4374,Electronics,"Harmon, Zimmerman and Harrell",True
+4375,Electronics,"Wood, Collins and Brady",True
+4376,Fashion,Wright and Sons,False
+4377,Electronics,"Mitchell, Hayes and Perry",False
+4378,Home,Martinez LLC,False
+4379,Home,"Moyer, Johnson and Hall",False
+4380,Electronics,Arroyo-Santana,False
+4381,Home,Curry Inc,True
+4382,Fashion,"Chapman, Martin and Allison",False
+4383,Home,"Cohen, Wallace and Patterson",False
+4384,Books,Foster-Smith,True
+4385,Fashion,Carter-Robinson,False
+4386,Electronics,"Martinez, Castro and Curtis",False
+4387,Home,Jones-Melton,False
+4388,Home,Black-Best,False
+4389,Electronics,"Holt, Coleman and Turner",False
+4390,Books,"Campbell, Hutchinson and Smith",False
+4391,Fashion,Fernandez PLC,True
+4392,Electronics,Rose Inc,True
+4393,Home,Williams-Roy,False
+4394,Electronics,Henson-Wilson,False
+4395,Home,Davidson-Valenzuela,False
+4396,Electronics,Wood PLC,False
+4397,Electronics,Gallagher LLC,True
+4398,Fashion,Yoder Ltd,True
+4399,Home,"Humphrey, Hall and Walker",True
+4400,Books,Ferguson Ltd,False
+4401,Home,Friedman Ltd,False
+4402,Books,Thompson Inc,True
+4403,Home,Johnson LLC,True
+4404,Home,Thomas Inc,True
+4405,Home,Hodges LLC,False
+4406,Books,"Lopez, Fields and Thornton",False
+4407,Home,"Garcia, Bailey and Dawson",False
+4408,Fashion,Parker-Brown,False
+4409,Fashion,Contreras PLC,True
+4410,Home,Gill-Glenn,False
+4411,Home,Mckay-Simpson,True
+4412,Books,Owens Ltd,True
+4413,Electronics,Scott LLC,True
+4414,Home,"Nicholson, Wilson and Duncan",True
+4415,Electronics,Henry and Sons,False
+4416,Electronics,Spencer Ltd,True
+4417,Electronics,Conway PLC,True
+4418,Books,Young-Williams,False
+4419,Home,"Stephens, Ruiz and Martinez",False
+4420,Electronics,Hill Group,False
+4421,Fashion,Yu PLC,False
+4422,Fashion,"Hall, Gilbert and Ellis",True
+4423,Electronics,Hart PLC,True
+4424,Electronics,Jones-Harvey,True
+4425,Fashion,Skinner-Harvey,False
+4426,Books,Guerra PLC,True
+4427,Fashion,Shepard PLC,False
+4428,Books,Moyer-Payne,True
+4429,Electronics,"Harris, Taylor and Cunningham",True
+4430,Fashion,"Olson, Brown and Reed",True
+4431,Fashion,Wells-Carter,True
+4432,Home,"Calderon, Yang and Thomas",False
+4433,Fashion,"Perry, Wallace and Mccoy",True
+4434,Books,White Inc,True
+4435,Fashion,"Wallace, Wood and Pugh",False
+4436,Books,Bradley and Sons,True
+4437,Fashion,Best Ltd,True
+4438,Books,Williams-Miller,False
+4439,Fashion,Jackson-Lowe,False
+4440,Books,Hernandez-Marquez,False
+4441,Books,Evans PLC,False
+4442,Books,Gibson and Sons,True
+4443,Home,Bernard LLC,True
+4444,Electronics,Steele Group,True
+4445,Home,Simpson-Smith,False
+4446,Fashion,"Russell, Hudson and Wright",True
+4447,Home,Gonzalez PLC,False
+4448,Home,Adams Ltd,True
+4449,Electronics,Yates-Shepard,False
+4450,Home,Douglas-Zuniga,True
+4451,Home,Blankenship and Sons,False
+4452,Electronics,Bishop-Hawkins,True
+4453,Books,Tyler Group,False
+4454,Home,"Baker, Myers and Murray",True
+4455,Home,Hernandez-Lopez,True
+4456,Home,Hanson Ltd,True
+4457,Home,Larson-Cruz,False
+4458,Books,King-Peters,False
+4459,Electronics,"Cuevas, Jones and Rodriguez",False
+4460,Home,Newman LLC,True
+4461,Books,Walton-Cochran,True
+4462,Electronics,"Espinoza, Robbins and Fuller",True
+4463,Books,"Rose, Williams and Williams",False
+4464,Books,"Walsh, Lopez and Zavala",True
+4465,Books,Johnson-Tate,False
+4466,Books,Mejia-Moore,False
+4467,Home,Dawson-Wyatt,False
+4468,Home,Hayes-Davis,True
+4469,Books,Sullivan-Castillo,True
+4470,Books,"Schroeder, Hamilton and Cox",False
+4471,Books,Moreno-Myers,False
+4472,Home,Miller-Robinson,False
+4473,Electronics,Williams PLC,True
+4474,Fashion,Harris-Knight,False
+4475,Home,"Ryan, Bishop and Frazier",True
+4476,Fashion,"Rivera, Kemp and Daniels",True
+4477,Books,Carrillo-Smith,True
+4478,Fashion,"Cummings, Lee and Fisher",False
+4479,Books,Williams Inc,False
+4480,Home,"Jones, Dalton and Odom",True
+4481,Books,Diaz Group,True
+4482,Home,Allen-Jenkins,False
+4483,Fashion,"Taylor, Orr and Mills",True
+4484,Books,Melton-Glenn,True
+4485,Home,"Lowery, Suarez and Smith",True
+4486,Home,Murphy-Brennan,True
+4487,Fashion,White Ltd,True
+4488,Home,James-Perry,True
+4489,Fashion,Holder Group,True
+4490,Fashion,Hickman Inc,False
+4491,Books,Lewis-Horn,True
+4492,Electronics,"Nolan, Jackson and Nunez",False
+4493,Electronics,Riddle Inc,True
+4494,Books,Walker-Henson,False
+4495,Books,Hernandez-Conner,True
+4496,Home,"Pace, Gates and Alvarez",False
+4497,Books,French Group,True
+4498,Books,Dawson Ltd,True
+4499,Fashion,"Kelly, Davis and Ingram",True
+4500,Electronics,Brewer-Mcbride,False
+4501,Books,"Gallagher, Wade and Stanley",True
+4502,Books,Hernandez-Nelson,True
+4503,Fashion,Jones and Sons,False
+4504,Home,Wallace and Sons,False
+4505,Fashion,Gonzalez-Gonzales,True
+4506,Fashion,Lopez-Jenkins,False
+4507,Books,"Jones, Simpson and Gonzalez",False
+4508,Electronics,Arnold Ltd,False
+4509,Home,"Powell, Roberts and Miller",False
+4510,Home,Price-Turner,True
+4511,Books,Pena Inc,True
+4512,Books,Walker-Gaines,True
+4513,Books,Lewis LLC,True
+4514,Books,Robinson-Vazquez,False
+4515,Books,Weaver and Sons,False
+4516,Books,Nichols LLC,False
+4517,Electronics,Faulkner Inc,False
+4518,Electronics,Reyes and Sons,True
+4519,Home,"Brady, Shah and Kelly",False
+4520,Fashion,Callahan-Bailey,False
+4521,Electronics,Snow Group,True
+4522,Electronics,"Lam, Mckay and Cummings",False
+4523,Home,Zimmerman-Brown,False
+4524,Home,Bailey-Andrews,True
+4525,Fashion,Myers and Sons,False
+4526,Electronics,Oconnor Group,False
+4527,Fashion,Gray Group,False
+4528,Fashion,Evans-Garcia,False
+4529,Home,Warner-Figueroa,True
+4530,Electronics,Foster-Rogers,False
+4531,Electronics,Robinson-Simmons,False
+4532,Electronics,Rangel-Brown,False
+4533,Home,Hoover LLC,True
+4534,Home,Hill-Owen,False
+4535,Home,Goodman PLC,True
+4536,Fashion,"Bell, Phillips and Valentine",False
+4537,Home,"Jones, Mckay and Gill",True
+4538,Electronics,Byrd-Merritt,True
+4539,Home,Bennett-Gregory,False
+4540,Electronics,"Aguilar, Edwards and Campbell",False
+4541,Books,Johnston-Conway,True
+4542,Books,Sharp-Ryan,False
+4543,Electronics,Gonzalez LLC,False
+4544,Books,Copeland-Roman,True
+4545,Fashion,David-Clarke,False
+4546,Books,"Nicholson, Smith and Nelson",False
+4547,Electronics,"Howell, Thomas and Bailey",True
+4548,Fashion,Adams-Vargas,False
+4549,Electronics,"Mathis, Graham and Murphy",False
+4550,Electronics,Morrison-Jefferson,True
+4551,Electronics,Allen-Murray,False
+4552,Electronics,Tucker Ltd,False
+4553,Books,Whitaker Inc,True
+4554,Home,Smith Inc,False
+4555,Electronics,"Kim, Davis and Cannon",False
+4556,Home,"Brown, Pitts and Hernandez",True
+4557,Home,Wright LLC,False
+4558,Home,"Craig, Owens and Rodriguez",True
+4559,Books,Rodriguez Inc,True
+4560,Books,Hansen LLC,True
+4561,Books,Farley LLC,True
+4562,Books,Davis Group,False
+4563,Electronics,Mckinney PLC,True
+4564,Home,Fletcher Inc,True
+4565,Electronics,"Johnson, Watkins and Taylor",False
+4566,Home,Cruz-Collins,True
+4567,Books,Jones-Maldonado,True
+4568,Fashion,Mendoza Group,True
+4569,Electronics,"Wilson, Carney and Morris",False
+4570,Electronics,Todd-Perry,False
+4571,Books,"Williams, Pineda and Robinson",False
+4572,Home,Hays-Anderson,False
+4573,Electronics,Mercado-Young,True
+4574,Electronics,"Barnes, Peck and Boyer",True
+4575,Books,"Carr, Williams and Powell",True
+4576,Home,"Lawrence, Hoffman and Vasquez",False
+4577,Electronics,"Jones, Silva and Perez",True
+4578,Electronics,Martin Group,False
+4579,Fashion,Smith LLC,True
+4580,Electronics,"Watson, Garcia and Santiago",True
+4581,Fashion,"Houston, Hebert and Cruz",False
+4582,Books,Thomas Inc,True
+4583,Fashion,Rodriguez-Davis,False
+4584,Fashion,Ballard-Duncan,True
+4585,Fashion,"Tucker, Young and Greer",False
+4586,Fashion,Chen and Sons,False
+4587,Home,"Miller, Barnes and Hamilton",True
+4588,Home,Jackson-Graves,True
+4589,Fashion,Cline-Lindsey,False
+4590,Electronics,Petersen Ltd,False
+4591,Electronics,Bradford Group,False
+4592,Books,Turner and Sons,True
+4593,Home,Allen and Sons,True
+4594,Home,Wells-Whitehead,True
+4595,Fashion,Sanchez Inc,False
+4596,Home,"Austin, Hernandez and Grant",False
+4597,Fashion,Gibson-Blackwell,True
+4598,Home,Craig Group,True
+4599,Books,"Daniels, Cantu and Hughes",True
+4600,Home,Graves PLC,False
+4601,Electronics,Campbell-Rice,True
+4602,Home,"Rodriguez, Weeks and Craig",False
+4603,Home,"Nguyen, Rocha and Hancock",True
+4604,Books,"Trevino, Walters and Welch",True
+4605,Books,"Montgomery, Wiley and Moore",True
+4606,Electronics,"Adams, Dunlap and Turner",False
+4607,Fashion,Villa-Hill,False
+4608,Home,"Harrington, Mcdaniel and Lopez",True
+4609,Home,Young Group,True
+4610,Home,"Johnson, Stewart and Bryan",True
+4611,Electronics,Ward PLC,False
+4612,Home,Good Ltd,True
+4613,Electronics,Bailey and Sons,True
+4614,Fashion,Duran Inc,False
+4615,Home,"Hammond, Martin and Bryan",False
+4616,Home,Anthony PLC,True
+4617,Fashion,Shah-Terry,False
+4618,Home,Watts-Edwards,True
+4619,Books,Ortega Inc,True
+4620,Electronics,Butler Inc,False
+4621,Fashion,"Knight, Dickerson and Flores",True
+4622,Fashion,Adams-Nunez,True
+4623,Home,Davis-Romero,True
+4624,Home,Cobb and Sons,False
+4625,Fashion,"Tucker, Wright and Brooks",False
+4626,Home,Ward-Stewart,False
+4627,Fashion,Cox-Thomas,True
+4628,Home,Castillo and Sons,True
+4629,Books,Brown Group,False
+4630,Books,Brown-Wong,False
+4631,Fashion,Preston-Curry,False
+4632,Books,Diaz Ltd,False
+4633,Home,Boyd-Dennis,False
+4634,Home,Oconnor-Bush,False
+4635,Electronics,Lopez and Sons,True
+4636,Home,Gardner-Kelly,False
+4637,Fashion,Grimes Group,True
+4638,Books,Chapman LLC,False
+4639,Books,"Flores, Weaver and Saunders",False
+4640,Home,"Thompson, Murphy and Snyder",False
+4641,Electronics,Lynch Ltd,True
+4642,Electronics,"Thornton, Moore and Roberson",True
+4643,Electronics,Jackson Group,True
+4644,Fashion,King-Hernandez,True
+4645,Fashion,Kelly Inc,True
+4646,Books,Graham Ltd,False
+4647,Fashion,Smith and Sons,False
+4648,Fashion,Franklin Ltd,True
+4649,Home,"Walker, Stark and Green",False
+4650,Fashion,"Vega, Lucero and Scott",False
+4651,Home,Garner-Holder,False
+4652,Books,"Lewis, Shaw and Harris",False
+4653,Fashion,"Collins, Ballard and Tate",False
+4654,Fashion,Mcdonald-Anderson,True
+4655,Home,"Flores, Butler and Morse",True
+4656,Home,"Flores, Frank and Skinner",False
+4657,Fashion,Baker-Hernandez,True
+4658,Fashion,Moore Inc,False
+4659,Fashion,Patel-Conrad,False
+4660,Fashion,Benitez-Sanders,True
+4661,Home,Bowman Inc,True
+4662,Books,Smith and Sons,True
+4663,Home,Taylor Group,False
+4664,Books,Martinez-Dixon,True
+4665,Books,Peterson-White,True
+4666,Home,Arnold Inc,False
+4667,Electronics,"Jackson, Dean and Smith",False
+4668,Books,"Weber, Ferrell and Crawford",False
+4669,Books,Ho-Vasquez,True
+4670,Electronics,"Hatfield, Johnson and Graham",True
+4671,Electronics,Campbell-Santiago,True
+4672,Fashion,Gibson-Davis,True
+4673,Fashion,Martinez and Sons,True
+4674,Electronics,Walls-Edwards,True
+4675,Fashion,Garza-Gates,False
+4676,Home,Marks-Owen,True
+4677,Fashion,Paul Ltd,True
+4678,Books,House-Spencer,True
+4679,Fashion,"Cox, Wilson and Johnson",True
+4680,Fashion,Thomas LLC,False
+4681,Home,Ellis and Sons,True
+4682,Home,"Chandler, Shaffer and Hartman",True
+4683,Fashion,"Wilson, Carter and Deleon",False
+4684,Fashion,Massey-Butler,True
+4685,Books,"Morales, Cox and Martin",True
+4686,Electronics,"Henry, Martinez and Turner",False
+4687,Home,Robinson-Johnson,False
+4688,Fashion,"Williams, Chandler and West",False
+4689,Electronics,Kennedy Group,False
+4690,Electronics,"Richardson, Shepherd and Murray",False
+4691,Home,"Tran, Marshall and Ward",True
+4692,Books,Vargas-Reed,False
+4693,Books,Ferguson-Cain,False
+4694,Electronics,Jackson-Rogers,True
+4695,Electronics,"Briggs, Mack and Campbell",False
+4696,Electronics,Potter-Oliver,True
+4697,Fashion,Fuentes-Alexander,False
+4698,Home,Garcia Group,True
+4699,Fashion,Knight-Johnson,True
+4700,Books,Everett LLC,True
+4701,Home,Gonzales Ltd,False
+4702,Home,Meadows and Sons,False
+4703,Electronics,"Olson, Miller and Harris",True
+4704,Fashion,Perkins and Sons,False
+4705,Fashion,Mitchell-Cross,True
+4706,Electronics,"Case, Davis and Todd",False
+4707,Books,"Vega, Juarez and Parker",True
+4708,Books,"Ryan, Chavez and Bailey",True
+4709,Fashion,King-Weber,True
+4710,Electronics,Anderson-Doyle,False
+4711,Home,Hess-Delacruz,False
+4712,Home,Meyer-Reynolds,True
+4713,Books,Bradford LLC,False
+4714,Books,"Johnson, Peck and Ray",True
+4715,Books,Martin Ltd,True
+4716,Fashion,Merritt PLC,True
+4717,Home,Greer Ltd,False
+4718,Home,Evans and Sons,True
+4719,Fashion,"Nunez, Garrett and Martinez",True
+4720,Books,"Mitchell, Cochran and Taylor",True
+4721,Home,Baker-Rocha,True
+4722,Books,Robbins Inc,False
+4723,Books,Leonard LLC,False
+4724,Fashion,"Ford, White and Jones",True
+4725,Electronics,Stewart PLC,False
+4726,Books,"Cruz, Medina and Barr",False
+4727,Books,Serrano-Miller,True
+4728,Fashion,Lee PLC,True
+4729,Electronics,Miller PLC,True
+4730,Electronics,Williams LLC,True
+4731,Home,Cline Inc,True
+4732,Home,Perkins Ltd,False
+4733,Electronics,"Garrett, Williams and Davis",False
+4734,Home,"Lee, Knox and Rodriguez",False
+4735,Fashion,Velazquez LLC,False
+4736,Fashion,Duran-Smith,False
+4737,Fashion,Davis-Pugh,True
+4738,Fashion,"Howell, Watson and Deleon",False
+4739,Electronics,"Matthews, Kelley and Thompson",True
+4740,Books,Acosta-Hudson,False
+4741,Books,Daniel LLC,False
+4742,Home,"Mullins, Diaz and Jacobson",False
+4743,Fashion,Thompson Inc,True
+4744,Electronics,Dickerson-Taylor,False
+4745,Fashion,Miller Inc,True
+4746,Electronics,"Ponce, King and Bell",False
+4747,Home,"Parker, Morris and Hughes",True
+4748,Home,Adams-Rios,False
+4749,Books,"Haney, Shepherd and Hanson",True
+4750,Books,Stevenson-Diaz,False
+4751,Home,Baker LLC,True
+4752,Electronics,Griffith LLC,True
+4753,Home,Medina-Reilly,False
+4754,Books,Flores-Johnson,False
+4755,Electronics,Rojas Group,True
+4756,Fashion,Rodriguez-Williams,True
+4757,Fashion,"Torres, Miller and Wilson",False
+4758,Home,Martin-Pittman,False
+4759,Electronics,Curry LLC,False
+4760,Books,Morris Group,False
+4761,Fashion,"Estes, Delacruz and Cortez",False
+4762,Home,Barker and Sons,True
+4763,Home,Aguirre-Farmer,True
+4764,Fashion,"Brown, Berger and Chan",True
+4765,Home,Gomez-Castillo,False
+4766,Home,Petty Inc,True
+4767,Electronics,"Mason, Jacobs and Smith",True
+4768,Home,Miller-Holt,False
+4769,Electronics,Rodgers-Lambert,False
+4770,Fashion,Campbell-Freeman,True
+4771,Electronics,"Douglas, Trevino and Goodman",True
+4772,Home,Gonzalez LLC,True
+4773,Electronics,Lozano LLC,False
+4774,Electronics,Mcgee-Gonzalez,False
+4775,Electronics,Stone Group,False
+4776,Electronics,Walker-Reyes,False
+4777,Electronics,Hill PLC,False
+4778,Electronics,Gross and Sons,True
+4779,Fashion,Jackson and Sons,False
+4780,Books,Caldwell LLC,False
+4781,Fashion,Jones Inc,False
+4782,Fashion,"Curtis, Stevens and Randall",False
+4783,Home,Gonzalez-Lowe,True
+4784,Fashion,Murphy LLC,True
+4785,Books,Ellison PLC,False
+4786,Books,"Campbell, Arellano and Tyler",True
+4787,Home,Rodriguez-Pennington,False
+4788,Fashion,Wang Group,True
+4789,Home,"Garcia, Velez and King",False
+4790,Fashion,Cantrell Group,False
+4791,Electronics,"Campbell, Weaver and Rodriguez",False
+4792,Fashion,"Perry, Chavez and Greene",False
+4793,Electronics,"Gibson, Williams and Valencia",True
+4794,Books,Best-Parker,False
+4795,Home,"Villarreal, Freeman and Wallace",True
+4796,Home,Wilson-Davis,True
+4797,Books,"Meyer, Mckenzie and Evans",False
+4798,Fashion,"Mitchell, Davenport and Stone",False
+4799,Books,"Brown, Wilson and Baker",True
+4800,Electronics,"Nelson, Rice and Lynn",True
+4801,Electronics,Beltran PLC,True
+4802,Fashion,Hull-Kennedy,False
+4803,Books,"Thomas, Ellis and Taylor",False
+4804,Electronics,Williams-Dunlap,False
+4805,Fashion,"Clark, Brown and Brown",True
+4806,Books,Rich Group,True
+4807,Fashion,Pearson LLC,True
+4808,Books,Padilla Ltd,True
+4809,Books,Myers Ltd,True
+4810,Home,"Wilson, Lutz and Sellers",True
+4811,Home,Johnson-Bolton,True
+4812,Electronics,Ortega LLC,False
+4813,Home,Porter Ltd,True
+4814,Fashion,Duffy-Davis,True
+4815,Books,Morris PLC,True
+4816,Fashion,James and Sons,False
+4817,Fashion,Osborne-Schmidt,True
+4818,Books,Smith-Schroeder,False
+4819,Electronics,"Espinoza, Sharp and Gregory",False
+4820,Electronics,Austin Group,False
+4821,Fashion,"Sanders, Carey and Gill",False
+4822,Books,"Reyes, Mcdonald and Johnson",False
+4823,Books,"Scott, Williams and Russell",True
+4824,Home,Stevens-Simmons,True
+4825,Books,Wright Group,True
+4826,Books,"Love, Foster and Ford",True
+4827,Electronics,Hayes LLC,True
+4828,Home,Li-Rogers,True
+4829,Fashion,Adams-Todd,True
+4830,Electronics,"Gomez, Chandler and Hall",True
+4831,Fashion,Prince and Sons,True
+4832,Home,Parker LLC,False
+4833,Books,"Bush, Greene and Richards",False
+4834,Books,Cunningham-Newton,False
+4835,Electronics,"Martin, Stokes and Joseph",True
+4836,Fashion,Garrett-Myers,True
+4837,Electronics,"James, Kemp and Bullock",False
+4838,Electronics,Lane-Diaz,False
+4839,Fashion,Woods-Carson,False
+4840,Home,Mckee and Sons,True
+4841,Fashion,"Johnson, Armstrong and Hernandez",False
+4842,Books,Hill-Myers,True
+4843,Electronics,Jones Inc,False
+4844,Home,Phillips Group,True
+4845,Electronics,Carter PLC,True
+4846,Fashion,Parker-Austin,False
+4847,Electronics,Gonzalez Ltd,True
+4848,Electronics,Davis Ltd,False
+4849,Books,"Humphrey, Turner and Hurst",False
+4850,Fashion,Hunter-Reyes,False
+4851,Books,Gonzalez-Perez,False
+4852,Electronics,Dominguez Ltd,True
+4853,Books,"Baker, Adkins and Smith",False
+4854,Books,"Lowery, Spencer and Hart",True
+4855,Home,Davis-Wells,True
+4856,Home,"Taylor, Reynolds and Marks",False
+4857,Fashion,"Bryant, Warren and Hamilton",True
+4858,Fashion,Sanders-White,True
+4859,Fashion,"Hart, Lopez and Barnes",False
+4860,Fashion,Morales PLC,False
+4861,Home,Gordon-Huang,True
+4862,Books,Rios-Kelly,True
+4863,Home,Davis-Pope,False
+4864,Home,Morgan PLC,False
+4865,Books,"Taylor, Price and Johnson",False
+4866,Fashion,"Sexton, Duarte and Jackson",True
+4867,Home,Mckinney Ltd,True
+4868,Electronics,"Simon, Davis and Snow",False
+4869,Electronics,Ross LLC,False
+4870,Home,"Walters, Jarvis and Adkins",True
+4871,Books,Norton-Christensen,False
+4872,Electronics,"Avery, Schneider and Jackson",True
+4873,Fashion,Scott-Gray,True
+4874,Home,Mills-Becker,False
+4875,Electronics,Austin Inc,True
+4876,Home,Brown-Torres,False
+4877,Books,Brown-Diaz,True
+4878,Electronics,Johnson and Sons,False
+4879,Home,Hoffman Inc,True
+4880,Electronics,"Mendoza, Mathews and Lin",False
+4881,Fashion,Jacobs PLC,True
+4882,Books,Campbell Inc,True
+4883,Fashion,Gonzales-West,False
+4884,Electronics,"Moran, Fowler and Zimmerman",False
+4885,Electronics,Howard LLC,True
+4886,Home,"Hoffman, Hunt and Murillo",True
+4887,Books,Hicks Ltd,False
+4888,Fashion,Johnson PLC,False
+4889,Home,Jarvis Inc,True
+4890,Books,Collins and Sons,True
+4891,Electronics,Anderson-Ortega,True
+4892,Books,"Allen, Velez and Rice",False
+4893,Home,"Lopez, Simmons and Price",False
+4894,Fashion,"Davies, Knight and Watkins",False
+4895,Books,Mitchell Inc,False
+4896,Books,"Coleman, Cunningham and Fuentes",False
+4897,Books,Gardner LLC,False
+4898,Books,"Romero, Watkins and Beck",False
+4899,Fashion,Cordova-Chavez,False
+4900,Books,"Jefferson, Sellers and Owens",True
+4901,Electronics,Butler-Carrillo,True
+4902,Fashion,Dorsey PLC,True
+4903,Fashion,"Harper, Salazar and Herring",True
+4904,Books,Rojas-Jennings,True
+4905,Electronics,Hart LLC,False
+4906,Electronics,"Bennett, Townsend and Hall",True
+4907,Books,"Gomez, Barajas and Peterson",False
+4908,Electronics,Goodwin PLC,False
+4909,Electronics,Padilla-Luna,False
+4910,Home,Brown-Shaw,True
+4911,Home,Nielsen LLC,True
+4912,Home,Bennett-White,False
+4913,Home,"Davis, Smith and Arroyo",False
+4914,Electronics,Monroe-Ward,False
+4915,Electronics,Hart-Robinson,True
+4916,Home,"Edwards, White and Fowler",False
+4917,Fashion,Walker-Woodward,False
+4918,Electronics,Thomas Inc,False
+4919,Fashion,Woodard PLC,True
+4920,Books,Brown Group,False
+4921,Books,Sims-Valenzuela,True
+4922,Home,"Lopez, Ellis and Martinez",True
+4923,Electronics,Harmon-Sanders,False
+4924,Books,Holland-King,True
+4925,Home,"Ross, Green and Freeman",True
+4926,Fashion,Sims Group,True
+4927,Home,"Long, Kelly and Pope",False
+4928,Electronics,Pineda and Sons,False
+4929,Electronics,Larson-Ochoa,False
+4930,Electronics,Rubio-Wilson,True
+4931,Electronics,"Chang, Jones and Murray",True
+4932,Home,"Roberts, Moore and Holloway",False
+4933,Electronics,Johnson LLC,True
+4934,Fashion,Summers-Cobb,True
+4935,Fashion,Jacobs and Sons,False
+4936,Fashion,Fuentes-Erickson,True
+4937,Fashion,Garrett-Martinez,True
+4938,Home,Alvarado-Guerrero,False
+4939,Electronics,Barrera-Ward,True
+4940,Fashion,"Garcia, Haynes and Rivers",True
+4941,Books,"Levy, Mitchell and Davis",True
+4942,Fashion,Ballard-Collins,True
+4943,Electronics,Buck PLC,True
+4944,Fashion,Molina-Velasquez,False
+4945,Fashion,"Morton, Jones and Frederick",True
+4946,Fashion,"Holloway, Carson and Johnson",False
+4947,Electronics,"Richardson, Williams and King",True
+4948,Electronics,Campos Ltd,True
+4949,Books,"Adams, Collins and Anderson",False
+4950,Fashion,Bryant-Lawrence,False
+4951,Fashion,Herrera Inc,False
+4952,Books,"Gonzales, Wolf and Williams",False
+4953,Books,"Allen, Rodriguez and Goodwin",True
+4954,Fashion,"Brooks, Payne and Wilson",False
+4955,Electronics,Barron-Davis,False
+4956,Fashion,Greene-Duke,True
+4957,Books,Lawrence-Medina,False
+4958,Home,Hayes Group,True
+4959,Home,"Wood, Bailey and Villegas",False
+4960,Home,"Hall, Bell and Goodman",False
+4961,Home,"Huber, Day and Maddox",False
+4962,Home,Flores-Carroll,True
+4963,Electronics,"Franklin, Foster and Henderson",False
+4964,Fashion,"Patrick, Cruz and Campbell",True
+4965,Books,"Combs, Herrera and Vasquez",True
+4966,Home,Carlson PLC,False
+4967,Electronics,Berger LLC,False
+4968,Fashion,Hurley Ltd,True
+4969,Fashion,Williams-Hunter,True
+4970,Electronics,Armstrong PLC,True
+4971,Electronics,Meyers Ltd,True
+4972,Home,Gibson-King,True
+4973,Fashion,Bowen PLC,True
+4974,Home,Lewis-Nichols,True
+4975,Electronics,Brown LLC,True
+4976,Books,Fleming-Foster,False
+4977,Fashion,"Wilson, Floyd and Rojas",True
+4978,Electronics,Ware PLC,False
+4979,Electronics,"Perez, Webster and Long",False
+4980,Home,Washington Inc,False
+4981,Electronics,Hunt LLC,False
+4982,Home,"Allen, Guzman and Barajas",True
+4983,Fashion,"Ross, Neal and Frost",False
+4984,Electronics,Salazar-Bartlett,True
+4985,Electronics,Gray-Wall,True
+4986,Home,"Edwards, Garcia and Jackson",False
+4987,Electronics,Ramsey Inc,False
+4988,Electronics,Thomas-Hughes,False
+4989,Fashion,Turner-Ramirez,False
+4990,Fashion,"Hopkins, Mercado and Smith",False
+4991,Electronics,Reyes and Sons,False
+4992,Electronics,Alexander-Rodriguez,False
+4993,Fashion,Johnson PLC,True
+4994,Fashion,"Sanchez, Wilson and Perry",True
+4995,Fashion,"Morris, Johnson and Elliott",False
+4996,Electronics,Lewis-Ross,False
+4997,Books,"Franklin, Brown and Nelson",False
+4998,Electronics,Newman-Banks,True
+4999,Fashion,"Williams, Gillespie and Huerta",False
+5000,Books,Oneal-Evans,True
